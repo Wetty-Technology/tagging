@@ -48,9 +48,6 @@ import * as _ from 'lodash-es';
     order: { dateline: 'DESC' },
   });
 
-  console.log(threads.length);
-  return;
-
   for (const thread of threads) {
     // const tagItems = await dataSource.manager.findBy(PreCommonTagitem, { idtype: 'tid', itemid: thread.tid });
     // if (tagItems.length) continue;

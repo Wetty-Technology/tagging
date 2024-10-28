@@ -1,12 +1,9 @@
-import { charCount, threshold } from './uitls.js';
-import OpenAI from 'openai';
-import { ChatCompletionCreateParamsNonStreaming } from 'openai/src/resources/chat/completions.js';
 import { density1d } from 'fast-kde';
 import * as _ from 'lodash-es';
-import { compile, compileSync, serializeGrammar } from '@intrinsicai/gbnfgen';
-import { Character } from './grammar.js';
-const openai = new OpenAI();
-const limit = 14000;
+import { LLMSpecificModel, LMStudioClient } from '@lmstudio/sdk';
+
+// const openai = new OpenAI();
+const limit = 9000;
 
 export async function doTag(message: string, subject: string) {
   return [...(await 性别(message, subject))];
@@ -31,80 +28,69 @@ async function 性别(message: string, subject: string): Promise<string[]> {
   return await 性别AI(truncate(message));
 }
 
-const grammar = serializeGrammar(
-  compileSync(
-    `enum Gender {
-  male = 'male',
-  female = 'female',
-  unknown = 'unknown',
+export enum Gender {
+  male = 'male', female = 'female', unknown = 'unknown',
 }
-interface Character {
+
+export interface Character {
   name: string;
   gender: Gender;
   'holding pee': boolean;
   'peeing self': boolean;
 }
-interface Root extends Array<Character> {}`,
-    'Root',
-  ),
-);
 
-console.log(grammar);
-async function AI(message: string, prompt: string, seed: number = 0) {
+const client = new LMStudioClient();
+
+let model: LLMSpecificModel;
+try {
+  model = await client.llm.get({});
+} catch {
+  model = await client.llm.load('lmstudio-community/Qwen2.5-32B-Instruct-GGUF', {
+    config: {
+      contextLength: 8096, gpuOffload: {
+        ratio: 'max', mainGpu: 0, tensorSplit: []
+      }, seed: 0, flashAttention: true
+    }
+  });
+}
+
+async function AI(message: string, prompt: string, seed: number = 0): Promise<string> {
   // const s = log[message];
   // if (s) return s;
-  const t = Date.now();
-  const chatCompletion: OpenAI.Chat.ChatCompletion = await openai.chat.completions.create(<ChatCompletionCreateParamsNonStreaming>{
-    model: '',
-    messages: [
-      {
-        role: 'system',
-        content: prompt,
-      },
-      {
-        role: 'user',
-        content: message,
-      },
-    ],
-    stream: false,
 
-    top_p: 1,
-    top_k: 1,
-    min_p: 0,
-    temperature: 0,
-    repeat_penalty: 1,
-    presence_penalty: 0,
-    frequency_penalty: 0,
-    seed: 0,
-
-    grammar: `boolean ::= ("true" | "false") space
-item ::= "{" space item-name-kv "," space item-gender-kv "," space item-holding-pee-kv "," space item-peeing-self-kv "}" space
-item-gender ::= "\\"male\\"" | "\\"female\\"" | "\\"unknown\\""
-item-gender-kv ::= "\\"gender\\"" space ":" space item-gender
-item-holding-pee-kv ::= "\\"holding pee\\"" space ":" space boolean
-item-name-kv ::= "\\"name\\"" space ":" space string
-item-peeing-self-kv ::= "\\"peeing self\\"" space ":" space boolean
-root ::= "[" space ( item ( "," space item )* )? "]" space
-space ::= " "?
-string ::=  "\\"" (
-        [^"\\\\] |
-        "\\\\" (["\\\\/bfnrt] | "u" [0-9a-fA-F] [0-9a-fA-F] [0-9a-fA-F] [0-9a-fA-F])
-      )* "\\"" space`,
+  const result = await model.respond([{
+    role: 'system',
+    content: `Read the following article, Answer questions. \`\`\` ${message}`
+  }, { role: 'user', content: prompt }], {
+    temperature: 0, topKSampling: 1, topPSampling: 1, minPSampling: 0, repeatPenalty: 1, structured: {
+      type: 'json', jsonSchema: {
+        '$schema': 'http://json-schema.org/draft-07/schema#', 'type': 'array', 'items': {
+          'type': 'object', 'properties': {
+            'name': {
+              'type': 'string'
+            }, 'gender': {
+              'type': 'string', 'enum': ['male', 'female', 'unknown']
+            }, 'holding pee': {
+              'type': 'boolean'
+            }, 'peeing self': {
+              'type': 'boolean'
+            }
+          }, 'required': ['name', 'gender', 'holding pee', 'peeing self']
+        }
+      }
+    }
   });
-  // console.log(
-  //   `字数: ${message.length}, 时间: ${(Date.now() - t) / 1000}s, 结论: ${chatCompletion.choices.map((c) => c.message.content).join('\n')}`,
-  // );
-  return chatCompletion.choices[0].message.content;
+
+  console.log(result);
+  return result.content;
 }
 
 export let lastResponse;
+
 async function 性别AI(message: string, seed: number = 0) {
-  const response = (await AI(
-    message,
-    `Which characters in following novel.
+  const response = (await AI(message, `Which characters in following novel.
 Respond with JSON array. Must start with "[" and end with "]". Example response:
-[{"name":"小千秋","gender":"female","holding pee":true,"peeing self":false},{"name":"unknown","gender":"unknown","holding pee":false,"peeing self":false}]`,
-  ))!;
+[{"name":"小千秋","gender":"female","holding pee":true,"peeing self":false},{"name":"unknown","gender":"unknown","holding pee":false,"peeing self":false}]`))!;
   console.log(response);
   const data: Character[] = JSON.parse(response);
   lastResponse = data;
