@@ -3,7 +3,6 @@ import OpenAI from 'openai';
 import { ChatCompletionCreateParamsNonStreaming } from 'openai/src/resources/chat/completions.js';
 import { density1d } from 'fast-kde';
 import * as _ from 'lodash-es';
-import log from '../log.json';
 import { compile, compileSync, serializeGrammar } from '@intrinsicai/gbnfgen';
 import { Character } from './grammar.js';
 const openai = new OpenAI();

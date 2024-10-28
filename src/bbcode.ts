@@ -1,6 +1,6 @@
-import { createPreset, DefaultTags } from '@bbob/preset';
-import { TagNode } from '@bbob/parser';
-import toHTML, { HTMLOptions } from '@bbob/html';
+import { createPreset } from '@bbob/preset';
+import type { TagNodeObject } from '@bbob/types';
+import { html } from '@bbob/html';
 
 const removeTags = ['attachimg', 'attach', 'img', 'flash', 'hr', 'index', 'table'];
 const keepTags = [
@@ -20,17 +20,16 @@ const keepTags = [
   'float',
   'url',
   'font',
-  'size',
+  'size'
 ];
-const tags: DefaultTags = Object.fromEntries(removeTags.map((tag) => [tag, (_) => <TagNode>(<unknown>null)]));
-const preset = createPreset(tags);
+
+const preset = createPreset(Object.fromEntries(removeTags.map((tag) => [tag, (_) => <TagNodeObject>(<unknown>null)])));
 
 export function strip(text: string) {
-  // @ts-ignore
-  return toHTML(text, preset(), <HTMLOptions>{
+  return html(text, preset(), {
     onlyAllowTags: removeTags.concat(keepTags),
     contextFreeTags: ['code'],
-    stripTags: true,
+    stripTags: true
   })
     .trim()
     .replaceAll(/\s*\n\s*/g, '\n');

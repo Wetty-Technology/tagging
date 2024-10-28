@@ -1,10 +1,10 @@
 import { strip } from './bbcode.js';
 import { doTag, lastResponse } from './tag.js';
 import { And, Between, DataSource, In, LessThanOrEqual, MoreThanOrEqual } from 'typeorm';
-import { PreCommonTag } from '../entities/PreCommonTag.js';
-import { PreForumThread } from '../entities/PreForumThread.js';
-import { PreCommonTagitem } from '../entities/PreCommonTagitem.js';
-import { PreForumPost } from '../entities/PreForumPost.js';
+import { PreCommonTag } from '../import/entities/PreCommonTag.js';
+import { PreForumThread } from '../import/entities/PreForumThread.js';
+import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
+import { PreForumPost } from '../import/entities/PreForumPost.js';
 import * as _ from 'lodash-es';
 
 (async function main() {

@@ -7,26 +7,26 @@ export default {
       {
         test: /\.ts$/,
         use: 'ts-loader',
-        exclude: /node_modules/,
+        exclude: /node_modules/
       },
       {
         test: /\.json$/,
         type: 'json',
-        exclude: /node_modules/,
-      },
-    ],
+        exclude: /node_modules/
+      }
+    ]
   },
 
   target: 'node',
   resolve: {
     extensions: ['.ts', '.js'],
     extensionAlias: {
-      '.js': ['.ts', '.js'],
-    },
+      '.js': ['.ts', '.js']
+    }
   },
   devtool: 'source-map',
   output: {
     filename: 'main.cjs',
-    path: path.join(process.cwd(), 'dist'),
-  },
+    path: path.join(process.cwd(), 'dist')
+  }
 };
