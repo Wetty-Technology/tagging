@@ -1,9 +1,10 @@
 import { density1d } from 'fast-kde';
 import * as _ from 'lodash-es';
 import { LLMSpecificModel, LMStudioClient } from '@lmstudio/sdk';
+import { createWriteStream } from 'node:fs';
 
 // const openai = new OpenAI();
-const limit = 9000;
+const limit = 12000;
 
 export async function doTag(message: string, subject: string) {
   return [...(await 性别(message, subject))];
@@ -29,14 +30,17 @@ async function 性别(message: string, subject: string): Promise<string[]> {
 }
 
 export enum Gender {
-  male = 'male', female = 'female', unknown = 'unknown',
+  男 = '男', 女 = '女', 未知 = '未知',
+}
+
+export enum Result {
+  有 = '有', 无 = '无',
 }
 
 export interface Character {
-  name: string;
-  gender: Gender;
-  'holding pee': boolean;
-  'peeing self': boolean;
+  姓名: string;
+  性别: Gender;
+  '憋尿、尿裤子行为或隐喻': Result;
 }
 
 const client = new LMStudioClient();
@@ -45,74 +49,101 @@ let model: LLMSpecificModel;
 try {
   model = await client.llm.get({});
 } catch {
-  model = await client.llm.load('lmstudio-community/Qwen2.5-32B-Instruct-GGUF', {
+  model = await client.llm.load('lmstudio-community/Qwen2.5-32B-Instruct-GGUF/Qwen2.5-32B-Instruct-Q4_K_M.gguf', {
     config: {
-      contextLength: 8096, gpuOffload: {
+      contextLength: 12288, gpuOffload: {
         ratio: 'max', mainGpu: 0, tensorSplit: []
       }, seed: 0, flashAttention: true
     }
   });
 }
 
-async function AI(message: string, prompt: string, seed: number = 0): Promise<string> {
+const stream = createWriteStream('log.txt');
+
+async function AI(message: string, prompt: string, prompt2: string, seed: number = 0): Promise<string> {
   // const s = log[message];
   // if (s) return s;
 
-  const result = await model.respond([{
-    role: 'system',
-    content: `Read the following article, Answer questions. \`\`\` ${message}`
-  }, { role: 'user', content: prompt }], {
+
+  stream.write(message);
+  stream.write('\n');
+  stream.write(prompt);
+  stream.write('\n');
+
+  let t = Date.now();
+  const result = await model.respond([
+    { role: 'system', content: message },
+    { role: 'user', content: prompt }
+  ], {
+    temperature: 0, topKSampling: 1, topPSampling: 1, minPSampling: 0, repeatPenalty: 1
+  });
+  console.log(Date.now() - t);
+
+  stream.write(result.content);
+  stream.write('\n');
+  stream.write(prompt2);
+  stream.write('\n');
+
+  t = Date.now();
+  const result2 = await model.respond([
+    { role: 'system', content: message },
+    { role: 'user', content: prompt },
+    { role: 'assistant', content: result.content },
+    { role: 'user', content: prompt2 }
+  ], {
     temperature: 0, topKSampling: 1, topPSampling: 1, minPSampling: 0, repeatPenalty: 1, structured: {
       type: 'json', jsonSchema: {
         '$schema': 'http://json-schema.org/draft-07/schema#', 'type': 'array', 'items': {
           'type': 'object', 'properties': {
-            'name': {
+            '姓名': {
               'type': 'string'
-            }, 'gender': {
-              'type': 'string', 'enum': ['male', 'female', 'unknown']
-            }, 'holding pee': {
-              'type': 'boolean'
-            }, 'peeing self': {
-              'type': 'boolean'
+            }, '性别': {
+              'type': 'string', 'enum': ['男', '女']
+            }, '憋尿、尿裤子行为或隐喻': {
+              'type': 'string', 'enum': ['有', '无']
             }
-          }, 'required': ['name', 'gender', 'holding pee', 'peeing self']
+          }, 'required': ['姓名', '性别', '憋尿、尿裤子行为或隐喻']
         }
       }
     }
   });
+  console.log(Date.now() - t);
 
-  console.log(result);
-  return result.content;
+  stream.write(result2.content);
+  stream.write('\n');
+
+  stream.write('\n');
+
+  return result2.content;
 }
 
 export let lastResponse;
 
 async function 性别AI(message: string, seed: number = 0) {
-  const response = (await AI(message, `Which characters in following novel.
-Respond with JSON array. Must start with "[" and end with "]". Example response:
-[{"name":"小千秋","gender":"female","holding pee":true,"peeing self":false},{"name":"unknown","gender":"unknown","holding pee":false,"peeing self":false}]`))!;
-  console.log(response);
+  const response = (await AI(message, `仔细阅读文章，提取里面的角色，回答每个角色的姓名、性别，角色本人是否有憋尿、尿裤子的行为或隐喻？`,
+    `使用 JSON 数组回答. 必须以 "[" 开头，以 "]" 结尾。
+示例回答：
+[{"姓名":"小千秋","性别":"女","憋尿、尿裤子行为或隐喻":"有"},{"姓名":"未知","性别":"未知","憋尿、尿裤子行为或隐喻":"无"}]`))!;
+  // console.log(response);
   const data: Character[] = JSON.parse(response);
   lastResponse = data;
 
-  if (data.some((p) => p.name === '小千秋')) {
+  if (data.some((p) => p.姓名 === '小千秋')) {
     if (seed < 3) return 性别AI(message, seed + 1);
     return [];
   }
 
   // 然后如果认到了有 holding_pee 的，就只看 holding_pee 的，其次看 peeing_self 的。
-  const holding = data.filter((p) => p['holding pee']);
-  const peeing = data.filter((p) => p['peeing self']);
-  const p1 = holding.length ? holding : peeing;
-  if (p1.length) {
-    if (p1.some((p) => p.gender == 'male') && p1.some((p) => p.gender == 'female')) return ['男憋', '女憋'];
-    if (p1.every((p) => p.gender === 'male')) return ['男憋'];
-    if (p1.every((p) => p.gender === 'female')) return ['女憋'];
+  const holding = data.filter((p) => p['憋尿、尿裤子行为或隐喻'] === Result.有);
+  if (holding.length) {
+    if (holding.some((p) => p.性别 == '男') && holding.some((p) => p.性别 == '女')) return ['男憋', '女憋'];
+    if (holding.every((p) => p.性别 === '男')) return ['男憋'];
+    if (holding.every((p) => p.性别 === '女')) return ['女憋'];
   }
 
   // 登场角色只有女性也算女憋，但是只有男性不算男憋
   if (data.length) {
-    if (data.every((p) => p.gender === 'female')) return ['女憋'];
+    if (data.every((p) => p.性别 === '女')) return ['女憋'];
   }
 
   return [];

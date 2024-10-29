@@ -1,6 +1,6 @@
 import { strip } from './bbcode.js';
 import { doTag, lastResponse } from './tag.js';
-import { And, Between, DataSource, In, LessThanOrEqual, MoreThanOrEqual } from 'typeorm';
+import { Between, DataSource, MoreThanOrEqual } from 'typeorm';
 import { PreCommonTag } from '../import/entities/PreCommonTag.js';
 import { PreForumThread } from '../import/entities/PreForumThread.js';
 import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
@@ -11,7 +11,7 @@ import * as _ from 'lodash-es';
   const dataSource = new DataSource({
     type: 'mysql',
     url: process.env.TYPEORM_URL,
-    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost], // logging: true,
+    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost] // logging: true,
   });
   await dataSource.initialize();
 
@@ -43,10 +43,15 @@ import * as _ from 'lodash-es';
   let pass = 0;
   let fail = 0;
 
-  const threads = await dataSource.manager.find(PreForumThread, {
+  const threads = (await dataSource.manager.find(PreForumThread, {
     where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
     order: { dateline: 'DESC' },
-  });
+    // where: { tid: 265273 },
+    skip: 10,
+    take: 100
+  }));
+
+  console.log(`load ${threads.length} threads`);
 
   for (const thread of threads) {
     // const tagItems = await dataSource.manager.findBy(PreCommonTagitem, { idtype: 'tid', itemid: thread.tid });
@@ -75,7 +80,7 @@ import * as _ from 'lodash-es';
 
     if (_.isEqual(oldTags, newTags)) {
       pass++;
-      // console.log(`${pass / (pass + fail)}`);
+      console.log(`${pass / (pass + fail)}`);
       continue;
     }
     fail++;
