@@ -1,11 +1,12 @@
 import { strip } from './bbcode.js';
 import { doTag, lastResponse } from './tag.js';
-import { Between, DataSource, MoreThanOrEqual } from 'typeorm';
+import { Between, DataSource, In, MoreThanOrEqual } from 'typeorm';
 import { PreCommonTag } from '../import/entities/PreCommonTag.js';
 import { PreForumThread } from '../import/entities/PreForumThread.js';
 import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
 import { PreForumPost } from '../import/entities/PreForumPost.js';
 import * as _ from 'lodash-es';
+import assert from 'node:assert';
 
 (async function main() {
   const dataSource = new DataSource({
@@ -46,9 +47,9 @@ import * as _ from 'lodash-es';
   const threads = (await dataSource.manager.find(PreForumThread, {
     where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
     order: { dateline: 'DESC' },
-    // where: { tid: 265273 },
-    skip: 10,
-    take: 100
+    // where: { tid: In([263564,264427,263219]) },
+    // skip: 10,
+    take: 110
   }));
 
   console.log(`load ${threads.length} threads`);

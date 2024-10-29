@@ -43,7 +43,7 @@ export interface Character {
   '憋尿、尿裤子行为或隐喻': Result;
 }
 
-const client = new LMStudioClient();
+const client = new LMStudioClient({ baseUrl: process.env.OPENAI_BASE_URL });
 
 let model: LLMSpecificModel;
 try {
@@ -71,25 +71,25 @@ async function AI(message: string, prompt: string, prompt2: string, seed: number
   stream.write('\n');
 
   let t = Date.now();
-  const result = await model.respond([
-    { role: 'system', content: message },
-    { role: 'user', content: prompt }
-  ], {
-    temperature: 0, topKSampling: 1, topPSampling: 1, minPSampling: 0, repeatPenalty: 1
-  });
-  console.log(Date.now() - t);
-
-  stream.write(result.content);
-  stream.write('\n');
+  // const result = await model.respond([
+  //   { role: 'system', content: message },
+  //   { role: 'user', content: prompt }
+  // ], {
+  //   temperature: 0, topKSampling: 1, topPSampling: 1, minPSampling: 0, repeatPenalty: 1
+  // });
+  // console.log(Date.now() - t);
+  //
+  // stream.write(result.content);
+  // stream.write('\n');
   stream.write(prompt2);
   stream.write('\n');
 
   t = Date.now();
   const result2 = await model.respond([
     { role: 'system', content: message },
-    { role: 'user', content: prompt },
-    { role: 'assistant', content: result.content },
-    { role: 'user', content: prompt2 }
+    { role: 'user', content: prompt + '\n' + prompt2 },
+    // { role: 'assistant', content: result.content },
+    // { role: 'user', content: prompt2 }
   ], {
     temperature: 0, topKSampling: 1, topPSampling: 1, minPSampling: 0, repeatPenalty: 1, structured: {
       type: 'json', jsonSchema: {
@@ -123,7 +123,7 @@ async function 性别AI(message: string, seed: number = 0) {
   const response = (await AI(message, `仔细阅读文章，提取里面的角色，回答每个角色的姓名、性别，角色本人是否有憋尿、尿裤子的行为或隐喻？`,
     `使用 JSON 数组回答. 必须以 "[" 开头，以 "]" 结尾。
 示例回答：
-[{"姓名":"小千秋","性别":"女","憋尿、尿裤子行为或隐喻":"有"},{"姓名":"未知","性别":"未知","憋尿、尿裤子行为或隐喻":"无"}]`))!;
+[{"姓名":"小千秋","性别":"女","憋尿、尿裤子行为或隐喻":"有"},{"姓名":"未知","性别":"男","憋尿、尿裤子行为或隐喻":"无"}]`))!;
   // console.log(response);
   const data: Character[] = JSON.parse(response);
   lastResponse = data;
