@@ -1,10 +1,9 @@
-import { strip } from './bbcode.js';
-import { doTag } from './tag.js';
 import { Between, DataSource, MoreThanOrEqual } from 'typeorm';
 import { PreCommonTag } from '../import/entities/PreCommonTag.js';
 import { PreForumThread } from '../import/entities/PreForumThread.js';
 import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
 import { PreForumPost } from '../import/entities/PreForumPost.js';
+import autoGroupStrings from 'auto-group-strings-array';
 import * as _ from 'lodash-es';
 
 (async function main() {
@@ -43,76 +42,107 @@ import * as _ from 'lodash-es';
   let pass = 0;
   let fail = 0;
 
-  const threads = (await dataSource.manager.find(PreForumThread, {
-    where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
+  const threads2 = (await dataSource.manager.find(PreForumThread, {
+    where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(0, 1711039295) },
     order: { dateline: 'DESC' }
     // where: { tid: In([263564,264427,263219]) },
     // skip: 10,
     // take: 110
   }));
 
-  console.log(`load ${threads.length} threads`);
+  for (const [uid, threads3] of Map.groupBy(threads2, ({ authorid }) => authorid)) {
+    if (threads3.length < 2) continue;
 
-  for (const thread of threads) {
-    // const tagItems = await dataSource.manager.findBy(PreCommonTagitem, { idtype: 'tid', itemid: thread.tid });
-    // if (tagItems.length) continue;
-    // if (![264871, 264907, 265105].includes(thread.tid)) continue;
-    // if (thread.tid != 264427) continue;
-    const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
-    const messages = posts
-      .filter((p) => !/\[quote]\[color=#999999]\S+ 发表于 [\d\- :]+\[\/color]\n\[color=#999999]/.test(p.message))
-      .map((p) => strip([p.subject, p.message.replace(/\[i=s] 本帖最后由 \S+ 于 [\d\- :]+ 编辑 \[\/i]/, '')].join('\n')))
-      .filter((m) => m.length >= 300);
+    // console.log(threads3.map(t => t.subject));
+    console.log(threads3.map(t => t.subject.replaceAll(/\(.+\)|（.+）/g, '')));
 
-    if (!messages.length) continue;
+    const result = autoGroupStrings(threads3.map(t => t.subject.replaceAll(/\(.+\)|（.+）/g, '').trim()).filter(s => s),
+      {
+        delimiter: '',
+        // caseSensitive: true
+      });
 
-    const tagstr = posts.find((p) => p.first)?.tags;
-    if (tagstr === undefined) continue;
-    
-    const oldTags = tagstr
-      .trimEnd()
-      .split('\t')
-      .map((t) => t.split(',', 2)[1])
-      .filter((t) => t)
-      .sort();
+    console.log(result);
+    const result2 = Map.groupBy(result, item => item.members.join(','))
+      .values()
+      .map(s => _.maxBy(s, s => s.common.length))
+      .toArray();
 
-    const full = messages.join('\n');
-    const [tags, info] = await doTag(full, thread.subject);
-    const newTags = tags.sort();
-    const newTagStr = newTags.join(',');
 
-    if (_.isEqual(oldTags, newTags)) {
-      pass++;
-      console.log(`${pass / (pass + fail)}`);
-      continue;
-    }
-    fail++;
-
-    console.log(thread.subject);
-    console.log(`https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=${thread.tid}&authorid=${thread.authorid}`);
-    console.log(`${oldTags.join(',')}=>${newTagStr}`);
-    console.log(`${pass / (pass + fail)}`);
-    console.log(info);
-    console.log('');
-
-    // const url = new URL('https://www.shireyishunjian.com/main/forum.php');
-    // for (const [key, value] of Object.entries({
-    //   mod: 'tag',
-    //   op: 'set',
-    //   inajax: 1,
-    //   tags: newTagStr,
-    //   tid: thread.tid,
-    //   uid: 343513,
-    //   formhash: 'tgapi',
-    // })) {
-    //   url.searchParams.set(key, value.toString());
-    // }
-    // const response = await fetch(url.href);
-    // const text = await response.text();
-    // assert.ok(response.ok && text.includes('<root>'));
-
-    // break;
   }
+
+  return;
+
+  // const threads = (await dataSource.manager.find(PreForumThread, {
+  //   where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
+  //   order: { dateline: 'DESC' }
+  //   // where: { tid: In([263564,264427,263219]) },
+  //   // skip: 10,
+  //   // take: 110
+  // }));
+  //
+  // console.log(`load ${threads.length} threads`);
+  //
+  // for (const thread of threads) {
+  //   // const tagItems = await dataSource.manager.findBy(PreCommonTagitem, { idtype: 'tid', itemid: thread.tid });
+  //   // if (tagItems.length) continue;
+  //   // if (![264871, 264907, 265105].includes(thread.tid)) continue;
+  //   // if (thread.tid != 264427) continue;
+  //   const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
+  //   const messages = posts
+  //     .filter((p) => !/\[quote]\[color=#999999]\S+ 发表于 [\d\- :]+\[\/color]\n\[color=#999999]/.test(p.message))
+  //     .map((p) => strip([p.subject, p.message.replace(/\[i=s] 本帖最后由 \S+ 于 [\d\- :]+ 编辑 \[\/i]/, '')].join('\n')))
+  //     .filter((m) => m.length >= 300);
+  //
+  //   if (!messages.length) continue;
+  //
+  //   const tagstr = posts.find((p) => p.first)?.tags;
+  //   if (tagstr === undefined) continue;
+  //
+  //   const oldTags = tagstr
+  //     .trimEnd()
+  //     .split('\t')
+  //     .map((t) => t.split(',', 2)[1])
+  //     .filter((t) => t)
+  //     .sort();
+  //
+  //   const full = messages.join('\n');
+  //   const [tags, info] = await doTag(full, thread.subject);
+  //   const newTags = tags.sort();
+  //   const newTagStr = newTags.join(',');
+  //
+  //   if (_.isEqual(oldTags, newTags)) {
+  //     pass++;
+  //     console.log(`${pass / (pass + fail)}`);
+  //     continue;
+  //   }
+  //   fail++;
+  //
+  //   console.log(thread.subject);
+  //   console.log(`https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=${thread.tid}&authorid=${thread.authorid}`);
+  //   console.log(`${oldTags.join(',')}=>${newTagStr}`);
+  //   console.log(`${pass / (pass + fail)}`);
+  //   console.log(info);
+  //   console.log('');
+  //
+  //   // const url = new URL('https://www.shireyishunjian.com/main/forum.php');
+  //   // for (const [key, value] of Object.entries({
+  //   //   mod: 'tag',
+  //   //   op: 'set',
+  //   //   inajax: 1,
+  //   //   tags: newTagStr,
+  //   //   tid: thread.tid,
+  //   //   uid: 343513,
+  //   //   formhash: 'tgapi',
+  //   // })) {
+  //   //   url.searchParams.set(key, value.toString());
+  //   // }
+  //   // const response = await fetch(url.href);
+  //   // const text = await response.text();
+  //   // assert.ok(response.ok && text.includes('<root>'));
+  //
+  //   // break;
+  // }
   console.log('all done');
   process.exit();
 })();
