@@ -1,12 +1,11 @@
 import { strip } from './bbcode.js';
-import { doTag, lastResponse } from './tag.js';
-import { Between, DataSource, In, MoreThanOrEqual } from 'typeorm';
+import { doTag } from './tag.js';
+import { Between, DataSource, MoreThanOrEqual } from 'typeorm';
 import { PreCommonTag } from '../import/entities/PreCommonTag.js';
 import { PreForumThread } from '../import/entities/PreForumThread.js';
 import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
 import { PreForumPost } from '../import/entities/PreForumPost.js';
 import * as _ from 'lodash-es';
-import assert from 'node:assert';
 
 (async function main() {
   const dataSource = new DataSource({
@@ -46,10 +45,10 @@ import assert from 'node:assert';
 
   const threads = (await dataSource.manager.find(PreForumThread, {
     where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
-    order: { dateline: 'DESC' },
+    order: { dateline: 'DESC' }
     // where: { tid: In([263564,264427,263219]) },
     // skip: 10,
-    take: 110
+    // take: 110
   }));
 
   console.log(`load ${threads.length} threads`);
@@ -68,6 +67,8 @@ import assert from 'node:assert';
     if (!messages.length) continue;
 
     const tagstr = posts.find((p) => p.first)?.tags;
+    if (tagstr === undefined) continue;
+    
     const oldTags = tagstr
       .trimEnd()
       .split('\t')
@@ -76,7 +77,8 @@ import assert from 'node:assert';
       .sort();
 
     const full = messages.join('\n');
-    const newTags = (await doTag(full, thread.subject)).sort();
+    const [tags, info] = await doTag(full, thread.subject);
+    const newTags = tags.sort();
     const newTagStr = newTags.join(',');
 
     if (_.isEqual(oldTags, newTags)) {
@@ -90,7 +92,8 @@ import assert from 'node:assert';
     console.log(`https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=${thread.tid}&authorid=${thread.authorid}`);
     console.log(`${oldTags.join(',')}=>${newTagStr}`);
     console.log(`${pass / (pass + fail)}`);
-    console.log(lastResponse);
+    console.log(info);
+    console.log('');
 
     // const url = new URL('https://www.shireyishunjian.com/main/forum.php');
     // for (const [key, value] of Object.entries({

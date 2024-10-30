@@ -13,7 +13,11 @@ export default {
         test: /\.json$/,
         type: 'json',
         exclude: /node_modules/
-      }
+      },
+      {
+        test: /\.gbnf$/i,
+        use: 'raw-loader',
+      },
     ]
   },
 
