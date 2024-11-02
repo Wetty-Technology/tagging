@@ -9,6 +9,11 @@
     "strictPropertyInitialization": false,
     "skipLibCheck": true,
     "experimentalDecorators": true,
+    "verbatimModuleSyntax": true,
     "resolveJsonModule": true,
+    "lib": [
+      "ESNext",
+      "ESNext.String",
+    ]
   }
 }

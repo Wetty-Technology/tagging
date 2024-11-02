@@ -1,16 +1,27 @@
-import { Between, DataSource, MoreThanOrEqual } from 'typeorm';
+import { Between, Column, DataSource, MoreThanOrEqual, PrimaryGeneratedColumn } from 'typeorm';
 import { PreCommonTag } from '../import/entities/PreCommonTag.js';
 import { PreForumThread } from '../import/entities/PreForumThread.js';
 import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
 import { PreForumPost } from '../import/entities/PreForumPost.js';
 import autoGroupStrings from 'auto-group-strings-array';
 import * as _ from 'lodash-es';
+// @ts-ignore
+import { longestCommonInfix } from 'extra-string';
+import { normalize } from './uitls';
+import { series } from './series';
+import { agnes } from 'ml-hclust';
+import { forEach } from 'lodash-es';
+import fs from 'node:fs';
+import { PreForumCollection } from '../import/entities/PreForumCollection';
+import { PreForumCollectionthread } from '../import/entities/PreForumCollectionthread';
+import { parse } from 'csv-parse/sync';
+import { stringify } from 'csv-stringify/sync';
 
 (async function main() {
   const dataSource = new DataSource({
     type: 'mysql',
     url: process.env.TYPEORM_URL,
-    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost] // logging: true,
+    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost, PreForumCollection, PreForumCollectionthread], // logging: true,
   });
   await dataSource.initialize();
 
@@ -42,37 +53,160 @@ import * as _ from 'lodash-es';
   let pass = 0;
   let fail = 0;
 
-  const threads2 = (await dataSource.manager.find(PreForumThread, {
-    where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(0, 1711039295) },
-    order: { dateline: 'DESC' }
-    // where: { tid: In([263564,264427,263219]) },
-    // skip: 10,
-    // take: 110
-  }));
+  const records: {
+    tid: number;
+    name: string;
+    author: string;
+    ignore: number;
+  }[] = parse(await fs.promises.readFile('series.csv'), {
+    columns: true,
+    skip_empty_lines: true,
+    cast: true,
+  });
+  const ignore = records.filter((r) => r.ignore).map((r) => r.tid);
 
-  for (const [uid, threads3] of Map.groupBy(threads2, ({ authorid }) => authorid)) {
-    if (threads3.length < 2) continue;
+  const threads2 = await dataSource.manager.find(PreForumThread, {
+    where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(0, 1730371035) },
+    order: { dateline: 'ASC' },
+  });
 
-    // console.log(threads3.map(t => t.subject));
-    console.log(threads3.map(t => t.subject.replaceAll(/\(.+\)|（.+）/g, '')));
+  const forum_collections = await dataSource.manager.find(PreForumCollection);
+  const forum_collectionthreads = await dataSource.manager.find(PreForumCollectionthread);
 
-    const result = autoGroupStrings(threads3.map(t => t.subject.replaceAll(/\(.+\)|（.+）/g, '').trim()).filter(s => s),
-      {
-        delimiter: '',
-        // caseSensitive: true
-      });
+  const result: { tid: number; subject: string; name: string; author: string }[] = [];
+  let fullScore = 0;
+  let score = 0;
+  for (const [uid, threads3] of Map.groupBy(threads2, ({ authorid }) => authorid)
+    .entries()
+    .filter(([, t]) => t.length >= 2)
+    .take(100)
+    .toArray()
+    .sort(([a], [b]) => a - b)) {
+    const threads4 = threads3.filter((t) => !ignore.includes(t.tid));
+    if (threads4.length < 2) continue;
 
-    console.log(result);
-    const result2 = Map.groupBy(result, item => item.members.join(','))
-      .values()
-      .map(s => _.maxBy(s, s => s.common.length))
-      .toArray();
+    const r = await series(threads4);
+    let currentFullScore = forum_collections.filter(
+      (c) =>
+        c.uid == uid &&
+        _.difference(
+          forum_collectionthreads.filter((ct) => ct.ctid == c.ctid).map((ct) => ct.tid),
+          ignore,
+        ).length >= 2,
+    ).length;
+    let currentStore = 0;
+    for (const [s, ts] of Object.entries(r)) {
+      const collections = forum_collections.filter((c) => c.uid == uid);
+      if (
+        collections.some((c) =>
+          _.isEqual(
+            ts.map((t) => t.tid),
+            _.difference(
+              forum_collectionthreads.filter((ct) => ct.ctid == c.ctid).map((ct) => ct.tid),
+              ignore,
+            ),
+          ),
+        )
+      ) {
+        // 存在全部正确的一组，得一分
+        currentStore++;
+      } else if (
+        _.intersection(
+          ts.map((t) => t.tid),
+          collections.flatMap((c) => forum_collectionthreads.filter((ct) => ct.ctid == c.ctid)).map((ct) => ct.tid),
+        ).length === 0
+      ) {
+        console.log(`all wrong ${s}`);
+        currentStore--;
+        // 存在全部错误的一组，倒扣一分
+      }
+    }
 
+    fullScore += currentFullScore;
+    score += currentStore;
+    console.log(score / fullScore);
 
+    const index = Object.fromEntries(Object.entries(r).flatMap(([s, t]) => t.map((t2) => [t2.tid, s] as const)));
+    for (const [thread, name] of threads4.map((t) => [t, index[t.tid] ?? ''] as const)) {
+      result.push({ tid: thread.tid, subject: thread.subject, name, author: thread.author });
+      if (currentStore != currentFullScore) console.log(`${thread.subject}\t\t${name}`);
+    }
   }
 
-  return;
+  // await fs.promises.writeFile('1.csv', stringify(result, { header: true }));
 
+  // import csv to database
+  // const collab = {
+  //   '激"忍"档案': 19105,
+  //   干净女孩的肮脏事: 1441,
+  //   '小女孩憋尿的痛苦经历 第四部[外传]': 4863,
+  //   绝望憋尿学校: 333,
+  //   小夜猫小小说系列: 1441,
+  //   '呐、来自恶魔的诅咒': 8688,
+  // };
+  //
+
+  //
+  // const collections = Object.groupBy(
+  //   records.filter((r) => r.name),
+  //   (r) => (r.name in collab ? r.name : `${r.author}.${r.name}`),
+  // ) as Record<
+  //   string,
+  //   {
+  //     tid: number;
+  //     name: string;
+  //     author: string;
+  //   }[]
+  // >;
+  //
+  // await dataSource.manager.transaction(async (manager) => {
+  //   await manager.getRepository(PreForumCollection).clear();
+  //   await manager.getRepository(PreForumCollection).insert(
+  //     Object.values(collections).map(([collection], i) => {
+  //       const object = new PreForumCollection();
+  //       object.ctid = i + 1;
+  //       object.uid = collab[collection.name as keyof typeof collab] ?? threads2.find((t) => t.tid == collection.tid)!.authorid;
+  //       object.name = collection.name;
+  //       object.desc = '系统自动生成的合集';
+  //       return object;
+  //     }),
+  //   );
+  //   await manager.getRepository(PreForumCollectionthread).clear();
+  //   await manager.getRepository(PreForumCollectionthread).insert(
+  //     Object.values(collections).flatMap((c, i) =>
+  //       c.map((collection) => {
+  //         const object = new PreForumCollectionthread();
+  //         object.ctid = i + 1;
+  //         object.tid = collection.tid;
+  //         return object;
+  //       }),
+  //     ),
+  //   );
+  // });
+
+  // UPDATE pre_forum_collection c SET
+  // username = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  // dateline = (SELECT MIN(t.dateline) FROM pre_forum_collectionthread ct INNER JOIN pre_forum_thread t USING(tid) WHERE ct.ctid = c.ctid),
+  // threadnum = (SELECT COUNT(*) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
+  // lastpost = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
+  // lastupdate = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  // lastsubject = (SELECT t.subject FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  // lastposttime = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  // lastposter = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  // lastvisit = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  // keyword = (SELECT COALESCE(GROUP_CONCAT(DISTINCT ta.tagname),'')
+  // FROM pre_forum_collectionthread ct
+  // INNER JOIN pre_common_tagitem ti ON ti.itemid = ct.tid
+  // INNER JOIN pre_common_tag ta USING(tagid)
+  // WHERE ti.idtype = 'tid' AND ct.ctid = c.ctid);
+  //
+  // UPDATE pre_forum_collectionthread ct SET
+  // ct.dateline = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = ct.tid);
+  //
+  // TRUNCATE TABLE pre_forum_collectionrelated;
+  // INSERT INTO pre_forum_collectionrelated (tid, collection) SELECT tid, ctid AS collection FROM pre_forum_collectionthread;
+
+  // tagging
   // const threads = (await dataSource.manager.find(PreForumThread, {
   //   where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
   //   order: { dateline: 'DESC' }

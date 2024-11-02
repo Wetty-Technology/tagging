@@ -3,10 +3,9 @@ import { density1d } from 'fast-kde';
 import * as _ from 'lodash-es';
 import { createWriteStream } from 'node:fs';
 import OpenAI from 'openai';
-import { ChatCompletionCreateParams } from 'openai/resources/index';
 // @ts-ignore
-import grammar from './grammar.gbnf';
-import ChatCompletionCreateParamsNonStreaming = ChatCompletionCreateParams.ChatCompletionCreateParamsNonStreaming;
+import grammar from './characters.gbnf';
+import { log } from './uitls';
 
 const openai = new OpenAI();
 const limit = 16000;
@@ -35,12 +34,12 @@ async function 性别(message: string, subject: string): Promise<[string[], any]
 
 export const enum Gender {
   女 = '女',
-  男 = '男'
+  男 = '男',
 }
 
 export const enum Has {
   无 = '无',
-  有 = '有'
+  有 = '有',
 }
 
 export interface Character {
@@ -49,32 +48,30 @@ export interface Character {
   '憋尿、尿裤子的行为或隐喻': Has;
 }
 
-const log = createWriteStream('log.txt');
-
 async function AI(message: string, prompt: string): Promise<Character[]> {
-  log.write(message);
-  log.write('\n');
-  log.write(prompt);
-  log.write('\n');
+  log(message);
+  log('\n');
+  log(prompt);
+  log('\n');
 
   let t = Date.now();
-  const chatCompletion = await openai.chat.completions.create(<ChatCompletionCreateParamsNonStreaming>{
+  const chatCompletion = await openai.chat.completions.create(<OpenAI.Chat.ChatCompletionCreateParamsNonStreaming>{
     model: '',
     messages: [
       {
         role: 'system',
-        content: message
+        content: message,
       },
       {
         role: 'user',
-        content: prompt
-      }
+        content: prompt,
+      },
     ],
     logprobs: true,
     temperature: 0,
     seed: 0,
     max_completion_tokens: 1000,
-    grammar
+    grammar,
   });
 
   // let s = ''
@@ -86,13 +83,13 @@ async function AI(message: string, prompt: string): Promise<Character[]> {
   console.log(Date.now() - t);
   const result = chatCompletion.choices[0].message.content!;
 
-  log.write(result);
-  log.write('\n');
-  log.write('\n');
+  log(result);
+  log('\n');
+  log('\n');
 
   return result
     .matchAll(/\d. \*\*([^\n]+)\*\*\n   - \*\*性别\*\*：(男|女)\n   - \*\*憋尿、尿裤子的行为或隐喻\*\*：(有|无)/g)
-    .map(m => ({ 姓名: m[1], 性别: m[2] as Gender, '憋尿、尿裤子的行为或隐喻': m[3] as Has }))
+    .map((m) => ({ 姓名: m[1], 性别: m[2] as Gender, '憋尿、尿裤子的行为或隐喻': m[3] as Has }))
     .toArray();
 }
 
