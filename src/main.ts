@@ -63,13 +63,13 @@ import { stringify } from 'csv-stringify/sync';
     skip_empty_lines: true,
     cast: true,
   });
-  const ignore = records.filter((r) => r.ignore).map((r) => r.tid);
 
   const threads2 = await dataSource.manager.find(PreForumThread, {
     where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(0, 1730371035) },
     order: { dateline: 'ASC' },
   });
 
+  const ignore = records.filter((r) => r.ignore).map((r) => r.tid);
   const forum_collections = await dataSource.manager.find(PreForumCollection);
   const forum_collectionthreads = await dataSource.manager.find(PreForumCollectionthread);
 
@@ -86,39 +86,26 @@ import { stringify } from 'csv-stringify/sync';
     if (threads4.length < 2) continue;
 
     const r = await series(threads4);
-    let currentFullScore = forum_collections.filter(
-      (c) =>
-        c.uid == uid &&
-        _.difference(
-          forum_collectionthreads.filter((ct) => ct.ctid == c.ctid).map((ct) => ct.tid),
-          ignore,
-        ).length >= 2,
-    ).length;
+    const currentCollections = forum_collections
+      .filter((c) => c.uid == uid)
+      .map(c => _.difference(forum_collectionthreads
+        .filter((ct) => ct.ctid == c.ctid)
+        .map((ct) => ct.tid), ignore))
+      .filter(ts => ts.length >= 2);
+
+    let currentFullScore = currentCollections.length;
     let currentStore = 0;
     for (const [s, ts] of Object.entries(r)) {
-      const collections = forum_collections.filter((c) => c.uid == uid);
-      if (
-        collections.some((c) =>
-          _.isEqual(
-            ts.map((t) => t.tid),
-            _.difference(
-              forum_collectionthreads.filter((ct) => ct.ctid == c.ctid).map((ct) => ct.tid),
-              ignore,
-            ),
-          ),
-        )
-      ) {
+      if (currentCollections.some((c) => _.isEqual(c, ts.map((t) => t.tid)))) {
+        console.log(`all correct ${s}`);
         // 存在全部正确的一组，得一分
         currentStore++;
-      } else if (
-        _.intersection(
-          ts.map((t) => t.tid),
-          collections.flatMap((c) => forum_collectionthreads.filter((ct) => ct.ctid == c.ctid)).map((ct) => ct.tid),
-        ).length === 0
-      ) {
+      } else if (_.intersection(ts.map((t) => t.tid), currentCollections.flat()).length === 0) {
+        // 存在全部错误的一组，倒扣一分
         console.log(`all wrong ${s}`);
         currentStore--;
-        // 存在全部错误的一组，倒扣一分
+      } else {
+        console.log(`partial ${s}`);
       }
     }
 
@@ -133,7 +120,7 @@ import { stringify } from 'csv-stringify/sync';
     }
   }
 
-  // await fs.promises.writeFile('1.csv', stringify(result, { header: true }));
+  await fs.promises.writeFile('1.csv', stringify(result, { header: true }));
 
   // import csv to database
   // const collab = {
@@ -144,8 +131,6 @@ import { stringify } from 'csv-stringify/sync';
   //   小夜猫小小说系列: 1441,
   //   '呐、来自恶魔的诅咒': 8688,
   // };
-  //
-
   //
   // const collections = Object.groupBy(
   //   records.filter((r) => r.name),
@@ -182,29 +167,28 @@ import { stringify } from 'csv-stringify/sync';
   //       }),
   //     ),
   //   );
+  //   await manager.query(`UPDATE pre_forum_collection c SET
+  //     username = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  //     dateline = (SELECT MIN(t.dateline) FROM pre_forum_collectionthread ct INNER JOIN pre_forum_thread t USING(tid) WHERE ct.ctid = c.ctid),
+  //     threadnum = (SELECT COUNT(*) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
+  //     lastpost = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
+  //     lastupdate = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  //     lastsubject = (SELECT t.subject FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  //     lastposttime = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  //     lastposter = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  //     lastvisit = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+  //     keyword = (SELECT COALESCE(GROUP_CONCAT(DISTINCT ta.tagname),'')
+  //     FROM pre_forum_collectionthread ct
+  //     INNER JOIN pre_common_tagitem ti ON ti.itemid = ct.tid
+  //     INNER JOIN pre_common_tag ta USING(tagid)
+  //     WHERE ti.idtype = 'tid' AND ct.ctid = c.ctid)`);
+  //
+  //   await manager.query(`UPDATE pre_forum_collectionthread ct SET
+  //     ct.dateline = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = ct.tid)`);
+  //
+  //   await manager.query(`TRUNCATE TABLE pre_forum_collectionrelated`);
+  //   await manager.query(`INSERT INTO pre_forum_collectionrelated (tid, collection) SELECT tid, ctid AS collection FROM pre_forum_collectionthread`)
   // });
-
-  // UPDATE pre_forum_collection c SET
-  // username = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  // dateline = (SELECT MIN(t.dateline) FROM pre_forum_collectionthread ct INNER JOIN pre_forum_thread t USING(tid) WHERE ct.ctid = c.ctid),
-  // threadnum = (SELECT COUNT(*) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
-  // lastpost = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
-  // lastupdate = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  // lastsubject = (SELECT t.subject FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  // lastposttime = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  // lastposter = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  // lastvisit = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  // keyword = (SELECT COALESCE(GROUP_CONCAT(DISTINCT ta.tagname),'')
-  // FROM pre_forum_collectionthread ct
-  // INNER JOIN pre_common_tagitem ti ON ti.itemid = ct.tid
-  // INNER JOIN pre_common_tag ta USING(tagid)
-  // WHERE ti.idtype = 'tid' AND ct.ctid = c.ctid);
-  //
-  // UPDATE pre_forum_collectionthread ct SET
-  // ct.dateline = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = ct.tid);
-  //
-  // TRUNCATE TABLE pre_forum_collectionrelated;
-  // INSERT INTO pre_forum_collectionrelated (tid, collection) SELECT tid, ctid AS collection FROM pre_forum_collectionthread;
 
   // tagging
   // const threads = (await dataSource.manager.find(PreForumThread, {

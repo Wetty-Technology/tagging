@@ -8,6 +8,7 @@ const openai = new OpenAI();
 
 export async function series(threads: PreForumThread[]): Promise<Record<string, PreForumThread[]>> {
   const system = `请将以下作品列表按照系列进行分类，并以加粗的标题显示每个系列的名称。每个系列下列出该系列的所有相关作品。
+有一些系列作品中途改过标题，通过连续的章节序号还是可以识别出是同一个系列的作品。
 如果某个作品不属于任何系列，请将其归类到“独立作品”类别中。
 输出格式应如下所示：
 **系列名称**
