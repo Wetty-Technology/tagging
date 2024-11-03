@@ -218,7 +218,7 @@ import assert from 'node:assert';
 
   console.log(`load ${threads2.length} threads`);
 
-  for (const collection of forum_collections.filter( c=>c.ctid >= 651)) {
+  for (const collection of forum_collections.filter( c=>c.ctid > 750)) {
     const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
     const firstThread = threads2.find((t) => t.tid == tids[0])!;
     if (firstThread.fid !== 7) continue;
