@@ -1,7 +1,6 @@
 // @ts-ignore
 import { density1d } from 'fast-kde';
 import * as _ from 'lodash-es';
-import { createWriteStream } from 'node:fs';
 import OpenAI from 'openai';
 // @ts-ignore
 import grammar from './characters.gbnf';
@@ -60,18 +59,18 @@ async function AI(message: string, prompt: string): Promise<Character[]> {
     messages: [
       {
         role: 'system',
-        content: message,
+        content: message
       },
       {
         role: 'user',
-        content: prompt,
-      },
+        content: prompt
+      }
     ],
     logprobs: true,
     temperature: 0,
-    seed: 0,
+    seed: 1,
     max_completion_tokens: 1000,
-    grammar,
+    grammar
   });
 
   // let s = ''
@@ -114,9 +113,13 @@ export function truncate(message: string) {
     for (let i = 0; i < message.length; i++) {
       if (['憋', '尿', '禁', '漏', '急', '夹', '腿', '厕', '颤'].includes(message.charAt(i))) data.push(i);
     }
-
-    const d1: { x: number; y: number }[] = [...density1d(data, { extent: [0, message.length] })];
-    const center = _.maxBy(d1, (d) => d.y)!.x;
+    let center;
+    if (data.length === 0) {
+      center = message.length / 2;
+    } else {
+      const d1: { x: number; y: number }[] = [...density1d(data, { extent: [0, message.length] })];
+      center = _.maxBy(d1, (d) => d.y)!.x;
+    }
     const start = _.clamp(center - limit / 2, 0, message.length - limit);
     return message.slice(start, start + limit);
   }

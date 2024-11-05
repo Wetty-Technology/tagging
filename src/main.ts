@@ -1,30 +1,21 @@
-import { Between, Column, DataSource, In, MoreThanOrEqual, PrimaryGeneratedColumn } from 'typeorm';
+import { DataSource, In, MoreThanOrEqual } from 'typeorm';
 import { PreCommonTag } from '../import/entities/PreCommonTag.js';
 import { PreForumThread } from '../import/entities/PreForumThread.js';
 import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
 import { PreForumPost } from '../import/entities/PreForumPost.js';
-import autoGroupStrings from 'auto-group-strings-array';
 import * as _ from 'lodash-es';
 // @ts-ignore
 import { longestCommonInfix } from 'extra-string';
-import { clean, normalize } from './uitls';
-import { series } from './series';
-import { agnes } from 'ml-hclust';
-import { forEach } from 'lodash-es';
-import fs from 'node:fs';
+import { clean } from './uitls';
 import { PreForumCollection } from '../import/entities/PreForumCollection';
 import { PreForumCollectionthread } from '../import/entities/PreForumCollectionthread';
-import { parse } from 'csv-parse/sync';
-import { stringify } from 'csv-stringify/sync';
-import { strip } from './bbcode';
 import { doTag } from './tag';
-import assert from 'node:assert';
 
 (async function main() {
   const dataSource = new DataSource({
     type: 'mysql',
     url: process.env.TYPEORM_URL,
-    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost, PreForumCollection, PreForumCollectionthread], // logging: true,
+    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost, PreForumCollection, PreForumCollectionthread] // logging: true,
   });
   await dataSource.initialize();
 
@@ -69,7 +60,7 @@ import assert from 'node:assert';
   //
   const threads2 = await dataSource.manager.find(PreForumThread, {
     where: { typeid: In([21, 546, 22, 3, 547, 4, 65, 548, 66, 1, 2]), displayorder: MoreThanOrEqual(0) },
-    order: { dateline: 'ASC' },
+    order: { dateline: 'ASC' }
   });
   //
   // const ignore = [] as number[]; // records.filter((r) => r.ignore).map((r) => r.tid);
@@ -218,7 +209,7 @@ import assert from 'node:assert';
 
   console.log(`load ${threads2.length} threads`);
 
-  for (const collection of forum_collections.filter( c=>c.ctid > 750)) {
+  for (const collection of forum_collections) {
     const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
     const firstThread = threads2.find((t) => t.tid == tids[0])!;
     if (firstThread.fid !== 7) continue;
@@ -255,7 +246,7 @@ import assert from 'node:assert';
 
   for (const thread of threads2.filter((t) => t.fid == 7 && !forum_collectionthreads.some((ct) => ct.tid == t.tid))) {
     const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
-    const messages = clean(posts)
+    const messages = clean(posts);
     if (!messages.length) continue;
     const full = messages.join('\n');
     const tagstr = posts.find((p) => p.first)?.tags;
@@ -265,7 +256,7 @@ import assert from 'node:assert';
       .trimEnd()
       .split('\t')
       .map((t) => t.split(',', 2)[1])
-      .filter((t) => t)
+      .filter((t) => t);
     const [newTags, info] = await doTag(full, thread.subject);
 
     if (_.xor(oldTags, newTags).length == 0) {
@@ -290,7 +281,7 @@ import assert from 'node:assert';
       tags: newTags.join(),
       tid: thread.tid,
       uid: 343513,
-      formhash: 'tgapi',
+      formhash: 'tgapi'
     })) {
       url.searchParams.set(key, value.toString());
     }
