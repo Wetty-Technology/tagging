@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('object_id', ['objectId', 'type'], { unique: true })
 @Index('type', ['type'], {})
-@Entity('pre_home_surrounding_user')
+@Entity('home_surrounding_user')
 export class PreHomeSurroundingUser {
   @PrimaryGeneratedColumn({ type: 'bigint', name: 'poi_id' })
   poiId: string;

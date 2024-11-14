@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('pid', ['pid'], { unique: true })
 @Index('authorid', ['authorid'], {})
-@Entity('pre_forum_warning')
+@Entity('forum_warning')
 export class PreForumWarning {
   @PrimaryGeneratedColumn({ type: 'int', name: 'wid', unsigned: true })
   wid: number;

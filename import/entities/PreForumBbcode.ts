@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_forum_bbcode')
+@Entity('forum_bbcode')
 export class PreForumBbcode {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'id', unsigned: true })
   id: number;

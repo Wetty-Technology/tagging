@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('flag', ['flag', 'displayorder'], {})
-@Entity('pre_common_myapp')
+@Entity('common_myapp')
 export class PreCommonMyapp {
   @Column('mediumint', {
     primary: true,

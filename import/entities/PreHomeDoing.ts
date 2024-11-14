@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid', 'dateline'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_home_doing')
+@Entity('home_doing')
 export class PreHomeDoing {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'doid', unsigned: true })
   doid: number;

@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('idtype', ['id', 'idtype'], {})
 @Index('uid', ['uid', 'idtype', 'dateline'], {})
-@Entity('pre_home_favorite')
+@Entity('home_favorite')
 export class PreHomeFavorite {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'favid', unsigned: true })
   favid: number;

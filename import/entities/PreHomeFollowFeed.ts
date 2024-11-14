@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid', 'dateline'], {})
-@Entity('pre_home_follow_feed')
+@Entity('home_follow_feed')
 export class PreHomeFollowFeed {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'feedid', unsigned: true })
   feedid: number;

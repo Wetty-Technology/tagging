@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('styleid', ['styleid'], {})
-@Entity('pre_common_stylevar')
+@Entity('common_stylevar')
 export class PreCommonStylevar {
   @PrimaryGeneratedColumn({
     type: 'smallint',

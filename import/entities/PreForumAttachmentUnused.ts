@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid'], {})
-@Entity('pre_forum_attachment_unused')
+@Entity('forum_attachment_unused')
 export class PreForumAttachmentUnused {
   @Column('int', { primary: true, name: 'aid', unsigned: true })
   aid: number;

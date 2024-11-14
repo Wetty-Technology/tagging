@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('verifytype', ['verifytype', 'flag'], {})
 @Index('uid', ['uid', 'verifytype', 'dateline'], {})
-@Entity('pre_common_member_verify_info')
+@Entity('common_member_verify_info')
 export class PreCommonMemberVerifyInfo {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'vid', unsigned: true })
   vid: number;

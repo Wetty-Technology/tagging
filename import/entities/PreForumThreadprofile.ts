@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('global', ['global'], {})
-@Entity('pre_forum_threadprofile')
+@Entity('forum_threadprofile')
 export class PreForumThreadprofile {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'id', unsigned: true })
   id: number;

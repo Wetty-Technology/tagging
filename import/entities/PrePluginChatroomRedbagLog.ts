@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('redid', ['redid'], {})
-@Entity('pre_plugin_chatroom_redbag_log')
+@Entity('plugin_chatroom_redbag_log')
 export class PrePluginChatroomRedbagLog {
   @Column('int', { name: 'redid' })
   redid: number;

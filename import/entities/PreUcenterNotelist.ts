@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('closed', ['closed', 'pri', 'noteid'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_ucenter_notelist')
+@Entity('ucenter_notelist')
 export class PreUcenterNotelist {
   @PrimaryGeneratedColumn({ type: 'int', name: 'noteid', unsigned: true })
   noteid: number;

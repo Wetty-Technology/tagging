@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_smslog_archive')
+@Entity('common_smslog_archive')
 export class PreCommonSmslogArchive {
   @PrimaryGeneratedColumn({ type: 'int', name: 'smslogid', unsigned: true })
   smslogid: number;

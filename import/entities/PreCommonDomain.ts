@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('domain', ['domain', 'domainroot'], {})
 @Index('idtype', ['idtype'], {})
-@Entity('pre_common_domain')
+@Entity('common_domain')
 export class PreCommonDomain {
   @Column('char', { name: 'domain', length: 30 })
   domain: string;

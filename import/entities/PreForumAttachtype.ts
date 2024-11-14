@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('fid', ['fid'], {})
-@Entity('pre_forum_attachtype')
+@Entity('forum_attachtype')
 export class PreForumAttachtype {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

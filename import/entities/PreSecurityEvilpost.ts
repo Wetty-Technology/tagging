@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('type', ['tid', 'type'], {})
 @Index('operateresult', ['operateresult', 'createtime'], {})
-@Entity('pre_security_evilpost')
+@Entity('security_evilpost')
 export class PreSecurityEvilpost {
   @Column('int', { primary: true, name: 'pid', unsigned: true })
   pid: number;

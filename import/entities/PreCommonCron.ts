@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('nextrun', ['available', 'nextrun'], {})
-@Entity('pre_common_cron')
+@Entity('common_cron')
 export class PreCommonCron {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'cronid', unsigned: true })
   cronid: number;

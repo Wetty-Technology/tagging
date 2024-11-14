@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('dateline', ['dateline'], {})
 @Index('operation_dateline', ['operation', 'dateline'], {})
-@Entity('pre_common_card_log')
+@Entity('common_card_log')
 export class PreCommonCardLog {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id' })
   id: number;

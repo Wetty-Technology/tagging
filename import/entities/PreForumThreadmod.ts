@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid', 'dateline'], {})
 @Index('expiration', ['expiration', 'status'], {})
-@Entity('pre_forum_threadmod')
+@Entity('forum_threadmod')
 export class PreForumThreadmod {
   @Column('int', { name: 'tid', unsigned: true, default: () => "'0'" })
   tid: number;

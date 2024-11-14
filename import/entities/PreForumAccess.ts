@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('listorder', ['fid', 'dateline'], {})
-@Entity('pre_forum_access')
+@Entity('forum_access')
 export class PreForumAccess {
   @Column('mediumint', {
     primary: true,

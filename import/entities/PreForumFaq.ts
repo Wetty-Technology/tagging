@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('displayplay', ['displayorder'], {})
-@Entity('pre_forum_faq')
+@Entity('forum_faq')
 export class PreForumFaq {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id' })
   id: number;

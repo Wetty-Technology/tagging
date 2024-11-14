@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_home_follow')
+@Entity('home_follow')
 export class PreHomeFollow {
   @Column('mediumint', {
     primary: true,

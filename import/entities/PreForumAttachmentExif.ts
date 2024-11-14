@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_attachment_exif')
+@Entity('forum_attachment_exif')
 export class PreForumAttachmentExif {
   @Column('int', { primary: true, name: 'aid', unsigned: true })
   aid: number;

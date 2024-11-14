@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid', 'postlength'], {})
-@Entity('pre_forum_filter_post')
+@Entity('forum_filter_post')
 export class PreForumFilterPost {
   @Column('int', {
     primary: true,

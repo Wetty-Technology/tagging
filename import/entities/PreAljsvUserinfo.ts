@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_aljsv_userinfo')
+@Entity('aljsv_userinfo')
 export class PreAljsvUserinfo {
   @Column('varchar', { name: 'uid', length: 255 })
   uid: string;

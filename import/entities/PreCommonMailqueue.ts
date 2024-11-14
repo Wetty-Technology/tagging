@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('mcid', ['cid', 'dateline'], {})
-@Entity('pre_common_mailqueue')
+@Entity('common_mailqueue')
 export class PreCommonMailqueue {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'qid', unsigned: true })
   qid: number;

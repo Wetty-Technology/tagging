@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_member_profile_history')
+@Entity('common_member_profile_history')
 export class PreCommonMemberProfileHistory {
   @PrimaryGeneratedColumn({ type: 'int', name: 'hid', unsigned: true })
   hid: number;

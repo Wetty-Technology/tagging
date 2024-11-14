@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_nds_votekick')
+@Entity('nds_votekick')
 export class PreNdsVotekick {
   @Column('mediumint', { primary: true, name: 'tid', unsigned: true })
   tid: number;

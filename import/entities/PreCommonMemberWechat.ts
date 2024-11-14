@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('openid', ['openid'], { unique: true })
-@Entity('pre_common_member_wechat')
+@Entity('common_member_wechat')
 export class PreCommonMemberWechat {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

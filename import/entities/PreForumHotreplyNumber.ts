@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid', 'total'], {})
-@Entity('pre_forum_hotreply_number')
+@Entity('forum_hotreply_number')
 export class PreForumHotreplyNumber {
   @Column('int', {
     primary: true,

@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_word')
+@Entity('common_word')
 export class PreCommonWord {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

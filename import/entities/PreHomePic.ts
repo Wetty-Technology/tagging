@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('albumid', ['albumid', 'dateline'], {})
 @Index('uid', ['uid'], {})
 @Index('filepath', ['filepath'], {})
-@Entity('pre_home_pic')
+@Entity('home_pic')
 export class PreHomePic {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'picid' })
   picid: number;

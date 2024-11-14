@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_replycredit')
+@Entity('forum_replycredit')
 export class PreForumReplycredit {
   @Column('int', { primary: true, name: 'tid', unsigned: true })
   tid: number;

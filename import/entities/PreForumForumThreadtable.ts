@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_forum_threadtable')
+@Entity('forum_forum_threadtable')
 export class PreForumForumThreadtable {
   @Column('smallint', { primary: true, name: 'fid', unsigned: true })
   fid: number;

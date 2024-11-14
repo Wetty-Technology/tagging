@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_usergroup_field')
+@Entity('common_usergroup_field')
 export class PreCommonUsergroupField {
   @Column('smallint', { primary: true, name: 'groupid', unsigned: true })
   groupid: number;

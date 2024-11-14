@@ -3,7 +3,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('pid', ['pid', 'dateline'], {})
 @Index('dateline', ['dateline'], {})
 @Index('uid', ['uid'], {})
-@Entity('pre_forum_ratelog')
+@Entity('forum_ratelog')
 export class PreForumRatelog {
   @Column('int', { name: 'pid', unsigned: true, default: () => "'0'" })
   pid: number;

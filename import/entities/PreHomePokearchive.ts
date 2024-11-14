@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('pokeuid', ['pokeuid'], {})
-@Entity('pre_home_pokearchive')
+@Entity('home_pokearchive')
 export class PreHomePokearchive {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'pid' })
   pid: number;

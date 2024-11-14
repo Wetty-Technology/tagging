@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('ids', ['fid', 'inviteuid'], { unique: true })
 @Index('dateline', ['dateline'], {})
-@Entity('pre_forum_groupinvite')
+@Entity('forum_groupinvite')
 export class PreForumGroupinvite {
   @Column('mediumint', { name: 'fid', unsigned: true, default: () => "'0'" })
   fid: number;

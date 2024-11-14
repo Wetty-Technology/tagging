@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_credit_rule_log_field')
+@Entity('common_credit_rule_log_field')
 export class PreCommonCreditRuleLogField {
   @Column('mediumint', {
     primary: true,

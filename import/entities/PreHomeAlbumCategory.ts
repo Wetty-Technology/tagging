@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_home_album_category')
+@Entity('home_album_category')
 export class PreHomeAlbumCategory {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'catid', unsigned: true })
   catid: number;

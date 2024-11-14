@@ -8,7 +8,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('first', ['tid', 'first'], {})
 @Index('authorid', ['authorid', 'invisible'], {})
 @Index('quan', ['tid', 'first', 'invisible', 'status', 'quanstatus'], {})
-@Entity('pre_forum_post')
+@Entity('forum_post')
 export class PreForumPost {
   @Column('int', { name: 'pid', unique: true, unsigned: true })
   pid: number;

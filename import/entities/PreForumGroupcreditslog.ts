@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_groupcreditslog')
+@Entity('forum_groupcreditslog')
 export class PreForumGroupcreditslog {
   @Column('mediumint', { primary: true, name: 'fid', unsigned: true })
   fid: number;

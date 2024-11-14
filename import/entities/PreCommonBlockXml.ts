@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_block_xml')
+@Entity('common_block_xml')
 export class PreCommonBlockXml {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('creditsrange', ['creditshigher', 'creditslower'], {})
-@Entity('pre_common_usergroup')
+@Entity('common_usergroup')
 export class PreCommonUsergroup {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'groupid', unsigned: true })
   groupid: number;

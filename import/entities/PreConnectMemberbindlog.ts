@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('uid', ['uid'], {})
 @Index('uin', ['uin'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_connect_memberbindlog')
+@Entity('connect_memberbindlog')
 export class PreConnectMemberbindlog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'mblid', unsigned: true })
   mblid: number;

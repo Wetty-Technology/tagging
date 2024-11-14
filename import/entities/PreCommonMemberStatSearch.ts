@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('hash', ['hash'], {})
-@Entity('pre_common_member_stat_search')
+@Entity('common_member_stat_search')
 export class PreCommonMemberStatSearch {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

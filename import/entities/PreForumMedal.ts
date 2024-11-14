@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('displayorder', ['displayorder'], {})
 @Index('available', ['available', 'displayorder'], {})
-@Entity('pre_forum_medal')
+@Entity('forum_medal')
 export class PreForumMedal {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'medalid', unsigned: true })
   medalid: number;

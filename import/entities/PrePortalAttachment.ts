@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('aid', ['aid', 'attachid'], {})
 @Index('attachment', ['attachment'], {})
-@Entity('pre_portal_attachment')
+@Entity('portal_attachment')
 export class PrePortalAttachment {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

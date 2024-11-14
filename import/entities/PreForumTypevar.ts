@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('optionid', ['sortid', 'optionid'], { unique: true })
 @Index('sortid', ['sortid'], {})
-@Entity('pre_forum_typevar')
+@Entity('forum_typevar')
 export class PreForumTypevar {
   @Column('smallint', { name: 'sortid', default: () => "'0'" })
   sortid: number;

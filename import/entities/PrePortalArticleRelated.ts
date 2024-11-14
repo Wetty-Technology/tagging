@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('aid', ['aid', 'displayorder'], {})
-@Entity('pre_portal_article_related')
+@Entity('portal_article_related')
 export class PrePortalArticleRelated {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'aid', unsigned: true })
   aid: number;

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_ucenter_failedlogins')
+@Entity('ucenter_failedlogins')
 export class PreUcenterFailedlogins {
   @Column('varchar', { primary: true, name: 'ip', length: 45 })
   ip: string;

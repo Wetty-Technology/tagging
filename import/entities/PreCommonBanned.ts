@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('iprange', ['lowerip', 'upperip'], {})
-@Entity('pre_common_banned')
+@Entity('common_banned')
 export class PreCommonBanned {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

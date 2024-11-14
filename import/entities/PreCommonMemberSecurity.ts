@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('dateline', ['dateline'], {})
 @Index('uid', ['uid', 'fieldid'], {})
-@Entity('pre_common_member_security')
+@Entity('common_member_security')
 export class PreCommonMemberSecurity {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

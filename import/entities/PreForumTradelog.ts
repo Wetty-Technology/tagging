@@ -8,7 +8,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('sellerlog', ['sellerid', 'status', 'lastupdate'], {})
 @Index('tid', ['tid', 'pid'], {})
 @Index('pid', ['pid'], {})
-@Entity('pre_forum_tradelog')
+@Entity('forum_tradelog')
 export class PreForumTradelog {
   @Column('int', { name: 'tid', unsigned: true })
   tid: number;

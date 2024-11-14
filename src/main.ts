@@ -1,4 +1,4 @@
-import { DataSource, In, MoreThanOrEqual } from 'typeorm';
+import { DataSource, In, LessThan, MoreThanOrEqual, Not } from 'typeorm';
 import { PreCommonTag } from '../import/entities/PreCommonTag.js';
 import { PreForumThread } from '../import/entities/PreForumThread.js';
 import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
@@ -10,12 +10,15 @@ import { clean } from './uitls';
 import { PreForumCollection } from '../import/entities/PreForumCollection';
 import { PreForumCollectionthread } from '../import/entities/PreForumCollectionthread';
 import { doTag } from './tag';
+import * as fs from 'node:fs';
+import { parse } from 'csv/sync';
+import { strip } from './bbcode';
 
 (async function main() {
   const dataSource = new DataSource({
     type: 'mysql',
     url: process.env.TYPEORM_URL,
-    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost, PreForumCollection, PreForumCollectionthread] // logging: true,
+    entities: [PreCommonTag, PreForumThread, PreCommonTagitem, PreForumPost, PreForumCollection, PreForumCollectionthread], // logging: true,
   });
   await dataSource.initialize();
 
@@ -47,21 +50,21 @@ import { doTag } from './tag';
   let pass = 0;
   let fail = 0;
 
-  // const records: {
-  //   tid: number;
-  //   name: string;
-  //   author: string;
-  //   ignore: number;
-  // }[] = parse(await fs.promises.readFile('series.csv'), {
-  //   columns: true,
-  //   skip_empty_lines: true,
-  //   cast: true,
-  // });
-  //
-  const threads2 = await dataSource.manager.find(PreForumThread, {
-    where: { typeid: In([21, 546, 22, 3, 547, 4, 65, 548, 66, 1, 2]), displayorder: MoreThanOrEqual(0) },
-    order: { dateline: 'ASC' }
+  const records: {
+    tid: number;
+    name: string;
+    author: string;
+    ignore: number;
+  }[] = parse(await fs.promises.readFile('series.csv'), {
+    columns: true,
+    skip_empty_lines: true,
+    cast: true,
   });
+
+  // const threads2 = await dataSource.manager.find(PreForumThread, {
+  //   where: { typeid: In([21, 546, 22, 3, 547, 4, 65, 548, 66, 1, 2]), displayorder: MoreThanOrEqual(0) },
+  //   order: { dateline: 'ASC' },
+  // });
   //
   // const ignore = [] as number[]; // records.filter((r) => r.ignore).map((r) => r.tid);
   const forum_collections = await dataSource.manager.find(PreForumCollection);
@@ -130,73 +133,85 @@ import { doTag } from './tag';
   //
   // await fs.promises.writeFile('1.csv', stringify(result, { header: true }));
   //
-  // // import csv to database
-  // const collab = {
-  //   '激"忍"档案': 19105,
-  //   干净女孩的肮脏事: 1441,
-  //   '小女孩憋尿的痛苦经历 第四部[外传]': 4863,
-  //   绝望憋尿学校: 333,
-  //   小夜猫小小说系列: 1441,
-  //   '呐、来自恶魔的诅咒': 8688,
-  // };
-  //
-  // const collections = Object.groupBy(
-  //   records.filter((r) => r.name),
-  //   (r) => (r.name in collab ? r.name : `${r.author}.${r.name}`),
-  // ) as Record<
-  //   string,
-  //   {
-  //     tid: number;
-  //     name: string;
-  //     author: string;
-  //   }[]
-  // >;
-  //
-  // await dataSource.manager.transaction(async (manager) => {
-  //   await manager.getRepository(PreForumCollection).clear();
-  //   await manager.getRepository(PreForumCollection).insert(
-  //     Object.values(collections).map(([collection], i) => {
-  //       const object = new PreForumCollection();
-  //       object.ctid = i + 1;
-  //       object.uid = collab[collection.name as keyof typeof collab] ?? threads2.find((t) => t.tid == collection.tid)!.authorid;
-  //       object.name = collection.name;
-  //       object.desc = '系统自动生成的合集';
-  //       return object;
-  //     }),
-  //   );
-  //   await manager.getRepository(PreForumCollectionthread).clear();
-  //   await manager.getRepository(PreForumCollectionthread).insert(
-  //     Object.values(collections).flatMap((c, i) =>
-  //       c.map((collection) => {
-  //         const object = new PreForumCollectionthread();
-  //         object.ctid = i + 1;
-  //         object.tid = collection.tid;
-  //         return object;
-  //       }),
-  //     ),
-  //   );
-  //   await manager.query(`UPDATE pre_forum_collection c SET
-  //     username = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  //     dateline = (SELECT MIN(t.dateline) FROM pre_forum_collectionthread ct INNER JOIN pre_forum_thread t USING(tid) WHERE ct.ctid = c.ctid),
-  //     threadnum = (SELECT COUNT(*) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
-  //     lastpost = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
-  //     lastupdate = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  //     lastsubject = (SELECT t.subject FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  //     lastposttime = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  //     lastposter = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  //     lastvisit = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-  //     keyword = (SELECT COALESCE(GROUP_CONCAT(DISTINCT ta.tagname),'')
-  //     FROM pre_forum_collectionthread ct
-  //     INNER JOIN pre_common_tagitem ti ON ti.itemid = ct.tid
-  //     INNER JOIN pre_common_tag ta USING(tagid)
-  //     WHERE ti.idtype = 'tid' AND ct.ctid = c.ctid)`);
-  //
-  //   await manager.query(`UPDATE pre_forum_collectionthread ct SET
-  //     ct.dateline = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = ct.tid)`);
-  //
-  //   await manager.query(`TRUNCATE TABLE pre_forum_collectionrelated`);
-  //   await manager.query(`INSERT INTO pre_forum_collectionrelated (tid, collection) SELECT tid, ctid AS collection FROM pre_forum_collectionthread`)
-  // });
+  // import csv to database
+  const collab = {
+    '激"忍"档案': 19105,
+    干净女孩的肮脏事: 1441,
+    '小女孩憋尿的痛苦经历 第四部[外传]': 4863,
+    绝望憋尿学校: 333,
+    小夜猫小小说系列: 1441,
+    '呐、来自恶魔的诅咒': 8688,
+    廷俊的故事: 9528,
+  };
+
+  const threads = await dataSource.manager.getRepository(PreForumThread).findBy({ tid: In(records.filter((r) => r.name).map((r) => r.tid)), closed: Not(0) });
+  console.log(threads.map((t) => t.tid));
+  return;
+  const collections = Object.values(
+    Object.groupBy(
+      records.filter((r) => r.name),
+      (r) => (r.name in collab ? r.name : `${r.author}.${r.name}`),
+    ),
+  ) as {
+    tid: number;
+    name: string;
+    author: string;
+  }[][];
+
+  const posts = await dataSource.manager.getRepository(PreForumPost).findBy({ first: true, tid: In(collections.map(([c]) => c.tid)) });
+  console.log(
+    _.difference(
+      collections.map(([c]) => c.tid),
+      posts.map((t) => t.tid),
+    ),
+  );
+  return;
+
+  await dataSource.manager.transaction(async (manager) => {
+    await manager.getRepository(PreForumCollection).clear();
+    await manager.getRepository(PreForumCollection).insert(
+      collections.map(([c], i) => {
+        const object = new PreForumCollection();
+        object.ctid = i + 1;
+        object.uid = collab[c.name as keyof typeof collab] ?? posts.find((t) => t.tid == c.tid)!.authorid;
+        object.name = c.name;
+        const post = posts.find((p) => p.tid == c.tid);
+        object.desc = post ? strip(post.message.replace(/\[i=s] 本帖最后由 \S+ 于 [\d\- :]+ 编辑 \[\/i]/, '')) : '';
+        return object;
+      }),
+    );
+    await manager.getRepository(PreForumCollectionthread).clear();
+    await manager.getRepository(PreForumCollectionthread).insert(
+      collections.flatMap((c, i) =>
+        c.map((collection) => {
+          const object = new PreForumCollectionthread();
+          object.ctid = i + 1;
+          object.tid = collection.tid;
+          return object;
+        }),
+      ),
+    );
+    await manager.query(`UPDATE pre_forum_collection c SET
+      username = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      dateline = (SELECT MIN(t.dateline) FROM pre_forum_collectionthread ct INNER JOIN pre_forum_thread t USING(tid) WHERE ct.ctid = c.ctid),
+      threadnum = (SELECT COUNT(*) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
+      lastpost = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
+      lastupdate = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastsubject = (SELECT t.subject FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastposttime = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastposter = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastvisit = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      keyword = (SELECT COALESCE(GROUP_CONCAT(DISTINCT ta.tagname),'')
+      FROM pre_forum_collectionthread ct
+      INNER JOIN pre_common_tagitem ti ON ti.itemid = ct.tid  
+      INNER JOIN pre_common_tag ta USING(tagid)
+      WHERE ti.idtype = 'tid' AND ct.ctid = c.ctid)`);
+
+    await manager.query(`UPDATE pre_forum_collectionthread ct SET ct.dateline = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = ct.tid)`);
+    await manager.query(`TRUNCATE TABLE pre_forum_collectionrelated`);
+    await manager.query(`INSERT INTO pre_forum_collectionrelated (tid, collection) SELECT tid, ctid AS collection FROM pre_forum_collectionthread`);
+    await manager.query(`UPDATE forum_thread LEFT JOIN forum_collectionrelated USING ( tid ) SET status = status & ~(1 << 8) | ((collection IS NOT NULL) << 8)`);
+  });
 
   // tagging
   // const threads = await dataSource.manager.find(PreForumThread, {
@@ -207,90 +222,90 @@ import { doTag } from './tag';
   //   // take: 110
   // });
 
-  console.log(`load ${threads2.length} threads`);
-
-  for (const collection of forum_collections) {
-    const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
-    const firstThread = threads2.find((t) => t.tid == tids[0])!;
-    if (firstThread.fid !== 7) continue;
-
-    const messages: string[] = [];
-    const threads1 = tids.map((tid) => threads2.find((t) => t.tid == tid)!);
-    for (const thread of threads1) {
-      const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
-      messages.push(...clean(posts));
-    }
-    if (!messages.length) continue;
-    const full = messages.join('\n');
-
-    const oldTags = collection.keyword.split(',');
-    const [newTags, info] = await doTag(full, threads1.map((t) => t.subject).join());
-
-    if (_.xor(oldTags, newTags).length == 0) {
-      pass++;
-      console.log(`${pass / (pass + fail)}`);
-      continue;
-    }
-    fail++;
-
-    console.log(collection.name);
-    console.log(`https://www.shireyishunjian.com/main/forum.php?mod=collection&action=view&ctid=${collection.ctid}`);
-    console.log(`${collection.keyword}=>${newTags.join()}`);
-    console.log(`${pass / (pass + fail)}`);
-    console.log(info);
-    console.log('');
-
-    collection.keyword = newTags.join();
-    dataSource.manager.getRepository(PreForumCollection).save(collection);
-  }
-
-  for (const thread of threads2.filter((t) => t.fid == 7 && !forum_collectionthreads.some((ct) => ct.tid == t.tid))) {
-    const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
-    const messages = clean(posts);
-    if (!messages.length) continue;
-    const full = messages.join('\n');
-    const tagstr = posts.find((p) => p.first)?.tags;
-    if (tagstr === undefined) continue;
-
-    const oldTags = tagstr
-      .trimEnd()
-      .split('\t')
-      .map((t) => t.split(',', 2)[1])
-      .filter((t) => t);
-    const [newTags, info] = await doTag(full, thread.subject);
-
-    if (_.xor(oldTags, newTags).length == 0) {
-      pass++;
-      console.log(`${pass / (pass + fail)}`);
-      continue;
-    }
-    fail++;
-
-    console.log(thread.subject);
-    console.log(`https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=${thread.tid}&authorid=${thread.authorid}`);
-    console.log(`${oldTags.join(',')}=>${newTags.join()}`);
-    console.log(`${pass / (pass + fail)}`);
-    console.log(info);
-    console.log('');
-
-    const url = new URL('https://www.shireyishunjian.com/main/forum.php');
-    for (const [key, value] of Object.entries({
-      mod: 'tag',
-      op: 'set',
-      inajax: 1,
-      tags: newTags.join(),
-      tid: thread.tid,
-      uid: 343513,
-      formhash: 'tgapi'
-    })) {
-      url.searchParams.set(key, value.toString());
-    }
-    const response = fetch(url.href);
-    // const text = await response.text();
-    // assert.ok(response.ok && text.includes('<root>'));
-
-    // break;
-  }
+  // console.log(`load ${threads2.length} threads`);
+  //
+  // for (const collection of forum_collections) {
+  //   const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
+  //   const firstThread = threads2.find((t) => t.tid == tids[0])!;
+  //   if (firstThread.fid !== 7) continue;
+  //
+  //   const messages: string[] = [];
+  //   const threads1 = tids.map((tid) => threads2.find((t) => t.tid == tid)!);
+  //   for (const thread of threads1) {
+  //     const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
+  //     messages.push(...clean(posts));
+  //   }
+  //   if (!messages.length) continue;
+  //   const full = messages.join('\n');
+  //
+  //   const oldTags = collection.keyword.split(',');
+  //   const [newTags, info] = await doTag(full, threads1.map((t) => t.subject).join());
+  //
+  //   if (_.xor(oldTags, newTags).length == 0) {
+  //     pass++;
+  //     console.log(`${pass / (pass + fail)}`);
+  //     continue;
+  //   }
+  //   fail++;
+  //
+  //   console.log(collection.name);
+  //   console.log(`https://www.shireyishunjian.com/main/forum.php?mod=collection&action=view&ctid=${collection.ctid}`);
+  //   console.log(`${collection.keyword}=>${newTags.join()}`);
+  //   console.log(`${pass / (pass + fail)}`);
+  //   console.log(info);
+  //   console.log('');
+  //
+  //   collection.keyword = newTags.join();
+  //   dataSource.manager.getRepository(PreForumCollection).save(collection);
+  // }
+  //
+  // for (const thread of threads2.filter((t) => t.fid == 7 && !forum_collectionthreads.some((ct) => ct.tid == t.tid))) {
+  //   const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
+  //   const messages = clean(posts);
+  //   if (!messages.length) continue;
+  //   const full = messages.join('\n');
+  //   const tagstr = posts.find((p) => p.first)?.tags;
+  //   if (tagstr === undefined) continue;
+  //
+  //   const oldTags = tagstr
+  //     .trimEnd()
+  //     .split('\t')
+  //     .map((t) => t.split(',', 2)[1])
+  //     .filter((t) => t);
+  //   const [newTags, info] = await doTag(full, thread.subject);
+  //
+  //   if (_.xor(oldTags, newTags).length == 0) {
+  //     pass++;
+  //     console.log(`${pass / (pass + fail)}`);
+  //     continue;
+  //   }
+  //   fail++;
+  //
+  //   console.log(thread.subject);
+  //   console.log(`https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=${thread.tid}&authorid=${thread.authorid}`);
+  //   console.log(`${oldTags.join(',')}=>${newTags.join()}`);
+  //   console.log(`${pass / (pass + fail)}`);
+  //   console.log(info);
+  //   console.log('');
+  //
+  //   const url = new URL('https://www.shireyishunjian.com/main/forum.php');
+  //   for (const [key, value] of Object.entries({
+  //     mod: 'tag',
+  //     op: 'set',
+  //     inajax: 1,
+  //     tags: newTags.join(),
+  //     tid: thread.tid,
+  //     uid: 343513,
+  //     formhash: 'tgapi'
+  //   })) {
+  //     url.searchParams.set(key, value.toString());
+  //   }
+  //   const response = fetch(url.href);
+  //   // const text = await response.text();
+  //   // assert.ok(response.ok && text.includes('<root>'));
+  //
+  //   // break;
+  // }
   console.log('all done');
   process.exit();
 })();

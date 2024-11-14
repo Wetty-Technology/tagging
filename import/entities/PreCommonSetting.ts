@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_setting')
+@Entity('common_setting')
 export class PreCommonSetting {
   @Column('varchar', { primary: true, name: 'skey', length: 190 })
   skey: string;

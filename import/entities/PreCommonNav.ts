@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('navtype', ['navtype'], {})
-@Entity('pre_common_nav')
+@Entity('common_nav')
 export class PreCommonNav {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

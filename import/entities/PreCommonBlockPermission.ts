@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid'], {})
-@Entity('pre_common_block_permission')
+@Entity('common_block_permission')
 export class PreCommonBlockPermission {
   @Column('mediumint', {
     primary: true,

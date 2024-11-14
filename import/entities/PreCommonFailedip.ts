@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('lastupdate', ['lastupdate'], {})
-@Entity('pre_common_failedip')
+@Entity('common_failedip')
 export class PreCommonFailedip {
   @Column('varchar', { primary: true, name: 'ip', length: 45 })
   ip: string;

@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid', 'starttime'], {})
-@Entity('pre_forum_debate')
+@Entity('forum_debate')
 export class PreForumDebate {
   @Column('int', {
     primary: true,

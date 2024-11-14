@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_threaddisablepos')
+@Entity('forum_threaddisablepos')
 export class PreForumThreaddisablepos {
   @Column('int', {
     primary: true,

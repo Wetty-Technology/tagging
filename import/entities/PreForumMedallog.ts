@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('status', ['status', 'expiration'], {})
 @Index('uid', ['uid', 'medalid', 'type'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_forum_medallog')
+@Entity('forum_medallog')
 export class PreForumMedallog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'id', unsigned: true })
   id: number;

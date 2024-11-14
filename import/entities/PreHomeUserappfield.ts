@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid', 'appid'], {})
-@Entity('pre_home_userappfield')
+@Entity('home_userappfield')
 export class PreHomeUserappfield {
   @Column('mediumint', { name: 'uid', unsigned: true, default: () => "'0'" })
   uid: number;

@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_smsgw')
+@Entity('common_smsgw')
 export class PreCommonSmsgw {
   @PrimaryGeneratedColumn({ type: 'int', name: 'smsgwid', unsigned: true })
   smsgwid: number;

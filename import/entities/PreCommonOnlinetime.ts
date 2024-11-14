@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_onlinetime')
+@Entity('common_onlinetime')
 export class PreCommonOnlinetime {
   @Column('mediumint', {
     primary: true,

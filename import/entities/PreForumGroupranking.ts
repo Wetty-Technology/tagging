@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('today', ['today'], {})
-@Entity('pre_forum_groupranking')
+@Entity('forum_groupranking')
 export class PreForumGroupranking {
   @Column('mediumint', {
     primary: true,

@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('aid', ['aid'], { unique: true })
 @Index('catid', ['catid', 'dateline'], {})
-@Entity('pre_portal_rsscache')
+@Entity('portal_rsscache')
 export class PrePortalRsscache {
   @Column('int', { name: 'lastupdate', unsigned: true, default: () => "'0'" })
   lastupdate: number;

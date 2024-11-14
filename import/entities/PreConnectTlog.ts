@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('tid', ['tid'], { unique: true })
-@Entity('pre_connect_tlog')
+@Entity('connect_tlog')
 export class PreConnectTlog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'tlid', unsigned: true })
   tlid: number;

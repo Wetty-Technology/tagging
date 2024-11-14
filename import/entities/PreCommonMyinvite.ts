@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('hash', ['hash'], {})
 @Index('uid', ['touid', 'dateline'], {})
-@Entity('pre_common_myinvite')
+@Entity('common_myinvite')
 export class PreCommonMyinvite {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'id', unsigned: true })
   id: number;

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_promotion')
+@Entity('forum_promotion')
 export class PreForumPromotion {
   @Column('varchar', { primary: true, name: 'ip', length: 45 })
   ip: string;

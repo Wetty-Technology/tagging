@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_statlog')
+@Entity('forum_statlog')
 export class PreForumStatlog {
   @Column('date', { primary: true, name: 'logdate' })
   logdate: string;

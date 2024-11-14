@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid'], {})
-@Entity('pre_home_class')
+@Entity('home_class')
 export class PreHomeClass {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

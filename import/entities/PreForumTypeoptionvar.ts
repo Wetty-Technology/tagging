@@ -3,7 +3,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('sortid', ['sortid'], {})
 @Index('tid', ['tid'], {})
 @Index('fid', ['fid'], {})
-@Entity('pre_forum_typeoptionvar')
+@Entity('forum_typeoptionvar')
 export class PreForumTypeoptionvar {
   @Column('smallint', { name: 'sortid', unsigned: true, default: () => "'0'" })
   sortid: number;

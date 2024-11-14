@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('upid', ['upid', 'displayorder'], {})
-@Entity('pre_common_district')
+@Entity('common_district')
 export class PreCommonDistrict {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'id', unsigned: true })
   id: number;

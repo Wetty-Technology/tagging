@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('pluginid', ['pluginid'], {})
-@Entity('pre_common_pluginvar')
+@Entity('common_pluginvar')
 export class PreCommonPluginvar {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

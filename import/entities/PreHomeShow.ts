@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('credit', ['credit'], {})
 @Index('unitprice', ['unitprice'], {})
-@Entity('pre_home_show')
+@Entity('home_show')
 export class PreHomeShow {
   @Column('mediumint', {
     primary: true,

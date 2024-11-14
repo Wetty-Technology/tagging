@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('sid', ['sid'], { unique: true })
 @Index('uid', ['uid'], {})
-@Entity('pre_common_session')
+@Entity('common_session')
 export class PreCommonSession {
   @Column('char', { name: 'sid', length: 6 })
   sid: string;

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_member_profile')
+@Entity('common_member_profile')
 export class PreCommonMemberProfile {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

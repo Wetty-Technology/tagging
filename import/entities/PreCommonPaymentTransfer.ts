@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('out_biz_no', ['outBizNo'], { unique: true })
 @Index('uid', ['uid'], {})
 @Index('status', ['status'], {})
-@Entity('pre_common_payment_transfer')
+@Entity('common_payment_transfer')
 export class PreCommonPaymentTransfer {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

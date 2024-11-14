@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('fid', ['fid'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_forum_newthread')
+@Entity('forum_newthread')
 export class PreForumNewthread {
   @Column('int', {
     primary: true,

@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('uid', ['uid', 'dateline'], {})
 @Index('hot', ['hot'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_home_blog')
+@Entity('home_blog')
 export class PreHomeBlog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'blogid', unsigned: true })
   blogid: number;

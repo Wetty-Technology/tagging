@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('dateline', ['dateline'], {})
 @Index('hot', ['hot'], {})
 @Index('id', ['id', 'idtype'], {})
-@Entity('pre_home_feed')
+@Entity('home_feed')
 export class PreHomeFeed {
   @PrimaryGeneratedColumn({ type: 'int', name: 'feedid', unsigned: true })
   feedid: number;

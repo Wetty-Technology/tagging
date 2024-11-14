@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
   unique: true,
 })
 @Index('user_id', ['userId'], { unique: true })
-@Entity('pre_home_access')
+@Entity('home_access')
 export class PreHomeAccess {
   @PrimaryGeneratedColumn({ type: 'int', name: 'user_access_id' })
   userAccessId: number;

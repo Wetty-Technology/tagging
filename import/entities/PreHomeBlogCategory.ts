@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_home_blog_category')
+@Entity('home_blog_category')
 export class PreHomeBlogCategory {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'catid', unsigned: true })
   catid: number;

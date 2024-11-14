@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('type', ['type'], {})
-@Entity('pre_mobile_wechat_resource')
+@Entity('mobile_wechat_resource')
 export class PreMobileWechatResource {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

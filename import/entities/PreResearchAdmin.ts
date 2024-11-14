@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('available', ['available'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_research_admin')
+@Entity('research_admin')
 export class PreResearchAdmin {
   @PrimaryGeneratedColumn({ type: 'int', name: 'rid' })
   rid: number;

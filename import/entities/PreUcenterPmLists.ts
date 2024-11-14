@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('pmtype', ['pmtype'], {})
 @Index('min_max', ['minMax'], {})
 @Index('authorid', ['authorid', 'dateline'], {})
-@Entity('pre_ucenter_pm_lists')
+@Entity('ucenter_pm_lists')
 export class PreUcenterPmLists {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'plid', unsigned: true })
   plid: number;

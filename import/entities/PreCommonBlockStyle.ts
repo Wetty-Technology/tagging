@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('hash', ['hash'], {})
 @Index('blockclass', ['blockclass'], {})
-@Entity('pre_common_block_style')
+@Entity('common_block_style')
 export class PreCommonBlockStyle {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'styleid', unsigned: true })
   styleid: number;

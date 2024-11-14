@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_member_field_forum')
+@Entity('common_member_field_forum')
 export class PreCommonMemberFieldForum {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_collectionrelated')
+@Entity('forum_collectionrelated')
 export class PreForumCollectionrelated {
   @Column('mediumint', {
     primary: true,

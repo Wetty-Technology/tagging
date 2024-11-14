@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_admincp_group')
+@Entity('common_admincp_group')
 export class PreCommonAdmincpGroup {
   @PrimaryGeneratedColumn({
     type: 'smallint',

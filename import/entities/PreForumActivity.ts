@@ -4,7 +4,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('starttimefrom', ['starttimefrom'], {})
 @Index('expiration', ['expiration'], {})
 @Index('applynumber', ['applynumber'], {})
-@Entity('pre_forum_activity')
+@Entity('forum_activity')
 export class PreForumActivity {
   @Column('int', {
     primary: true,

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_threadprofile_group')
+@Entity('forum_threadprofile_group')
 export class PreForumThreadprofileGroup {
   @Column('mediumint', { primary: true, name: 'gid' })
   gid: number;

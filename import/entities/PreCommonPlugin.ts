@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('identifier', ['identifier'], { unique: true })
-@Entity('pre_common_plugin')
+@Entity('common_plugin')
 export class PreCommonPlugin {
   @PrimaryGeneratedColumn({
     type: 'smallint',

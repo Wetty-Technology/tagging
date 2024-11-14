@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid', 'rid'], { unique: true })
-@Entity('pre_research_result')
+@Entity('research_result')
 export class PreResearchResult {
   @Column('int', { name: 'uid', comment: '???ID' })
   uid: number;

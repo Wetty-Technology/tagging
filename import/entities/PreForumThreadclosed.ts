@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_threadclosed')
+@Entity('forum_threadclosed')
 export class PreForumThreadclosed {
   @Column('int', {
     primary: true,

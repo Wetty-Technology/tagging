@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('forum', ['status', 'type', 'displayorder'], {})
 @Index('fup_type', ['fup', 'type', 'displayorder'], {})
 @Index('fup', ['fup'], {})
-@Entity('pre_forum_forum')
+@Entity('forum_forum')
 export class PreForumForum {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'fid', unsigned: true })
   fid: number;

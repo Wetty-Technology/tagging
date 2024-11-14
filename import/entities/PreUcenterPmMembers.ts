@@ -3,7 +3,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('isnew', ['isnew'], {})
 @Index('lastdateline', ['uid', 'lastdateline'], {})
 @Index('lastupdate', ['uid', 'lastupdate'], {})
-@Entity('pre_ucenter_pm_members')
+@Entity('ucenter_pm_members')
 export class PreUcenterPmMembers {
   @Column('mediumint', {
     primary: true,

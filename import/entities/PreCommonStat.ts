@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_stat')
+@Entity('common_stat')
 export class PreCommonStat {
   @Column('int', {
     primary: true,

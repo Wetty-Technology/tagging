@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('nexttime', ['tid', 'nexttime'], {})
 @Index('updatetime', ['tid', 'updatetime'], {})
-@Entity('pre_connect_tthreadlog')
+@Entity('connect_tthreadlog')
 export class PreConnectTthreadlog {
   @Column('char', { primary: true, name: 'twid', length: 16 })
   twid: string;

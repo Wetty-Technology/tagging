@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid', 'dateline'], {})
-@Entity('pre_home_poke')
+@Entity('home_poke')
 export class PreHomePoke {
   @Column('mediumint', {
     primary: true,

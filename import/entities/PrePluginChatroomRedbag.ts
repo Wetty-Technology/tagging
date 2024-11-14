@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('redid', ['redid'], { unique: true })
-@Entity('pre_plugin_chatroom_redbag')
+@Entity('plugin_chatroom_redbag')
 export class PrePluginChatroomRedbag {
   @PrimaryGeneratedColumn({ type: 'int', name: 'redid' })
   redid: number;

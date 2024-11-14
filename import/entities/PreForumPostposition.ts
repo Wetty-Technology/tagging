@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('dateline', ['dateline'], {})
 @Index('expiration', ['expiration'], {})
 @Index('pid', ['pid'], {})
-@Entity('pre_forum_postposition')
+@Entity('forum_postposition')
 export class PreForumPostposition {
   @Column('mediumint', { name: 'fid', unsigned: true })
   fid: number;

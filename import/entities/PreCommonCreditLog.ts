@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('operation', ['operation'], {})
 @Index('relatedid', ['relatedid'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_common_credit_log')
+@Entity('common_credit_log')
 export class PreCommonCreditLog {
   @PrimaryGeneratedColumn({ type: 'int', name: 'logid', unsigned: true })
   logid: number;

@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('uid', ['uid', 'new'], {})
 @Index('category', ['uid', 'category', 'dateline'], {})
 @Index('by_type', ['uid', 'type', 'dateline'], {})
-@Entity('pre_home_notification')
+@Entity('home_notification')
 export class PreHomeNotification {
   @PrimaryGeneratedColumn({ type: 'bigint', name: 'id', unsigned: true })
   id: string;

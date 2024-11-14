@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_amumarry_settings')
+@Entity('amumarry_settings')
 export class PreAmumarrySettings {
   @Column('mediumint', { name: 'uid' })
   uid: number;

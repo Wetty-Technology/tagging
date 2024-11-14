@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_ucenter_amy_pm_heart')
+@Entity('ucenter_amy_pm_heart')
 export class PreUcenterAmyPmHeart {
   @PrimaryGeneratedColumn({
     type: 'int',

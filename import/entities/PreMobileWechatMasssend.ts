@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_mobile_wechat_masssend')
+@Entity('mobile_wechat_masssend')
 export class PreMobileWechatMasssend {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

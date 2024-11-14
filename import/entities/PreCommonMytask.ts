@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('parter', ['taskid', 'dateline'], {})
-@Entity('pre_common_mytask')
+@Entity('common_mytask')
 export class PreCommonMytask {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

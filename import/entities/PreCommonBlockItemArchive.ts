@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_block_item_archive')
+@Entity('common_block_item_archive')
 export class PreCommonBlockItemArchive {
   @Column('mediumint', {
     primary: true,

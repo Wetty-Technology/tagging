@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid'], {})
-@Entity('pre_common_template_permission')
+@Entity('common_template_permission')
 export class PreCommonTemplatePermission {
   @Column('varchar', { primary: true, name: 'targettplname', length: 100 })
   targettplname: string;

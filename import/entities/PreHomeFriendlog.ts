@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_home_friendlog')
+@Entity('home_friendlog')
 export class PreHomeFriendlog {
   @Column('mediumint', {
     primary: true,

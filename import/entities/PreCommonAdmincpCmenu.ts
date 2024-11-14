@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid'], {})
 @Index('displayorder', ['displayorder'], {})
-@Entity('pre_common_admincp_cmenu')
+@Entity('common_admincp_cmenu')
 export class PreCommonAdmincpCmenu {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

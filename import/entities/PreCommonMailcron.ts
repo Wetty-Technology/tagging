@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('sendtime', ['sendtime'], {})
-@Entity('pre_common_mailcron')
+@Entity('common_mailcron')
 export class PreCommonMailcron {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'cid', unsigned: true })
   cid: number;

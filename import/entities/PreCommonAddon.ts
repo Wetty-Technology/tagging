@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_addon')
+@Entity('common_addon')
 export class PreCommonAddon {
   @Column('varchar', { primary: true, name: 'key', length: 255 })
   key: string;

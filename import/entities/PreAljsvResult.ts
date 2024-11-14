@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_aljsv_result')
+@Entity('aljsv_result')
 export class PreAljsvResult {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id' })
   id: number;

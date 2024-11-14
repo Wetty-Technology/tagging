@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_template')
+@Entity('common_template')
 export class PreCommonTemplate {
   @PrimaryGeneratedColumn({
     type: 'smallint',

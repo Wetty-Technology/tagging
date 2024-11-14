@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid'], {})
 @Index('uid', ['recommenduid'], {})
-@Entity('pre_forum_memberrecommend')
+@Entity('forum_memberrecommend')
 export class PreForumMemberrecommend {
   @Column('int', { name: 'tid', unsigned: true })
   tid: number;

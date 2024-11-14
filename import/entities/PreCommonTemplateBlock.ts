@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('bid', ['bid'], {})
-@Entity('pre_common_template_block')
+@Entity('common_template_block')
 export class PreCommonTemplateBlock {
   @Column('varchar', { primary: true, name: 'targettplname', length: 100 })
   targettplname: string;

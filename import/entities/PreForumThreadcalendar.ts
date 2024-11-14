@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('fid', ['fid', 'dateline'], {})
-@Entity('pre_forum_threadcalendar')
+@Entity('forum_threadcalendar')
 export class PreForumThreadcalendar {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'cid', unsigned: true })
   cid: number;

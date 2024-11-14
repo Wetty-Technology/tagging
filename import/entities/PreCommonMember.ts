@@ -6,7 +6,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('regdate', ['regdate'], {})
 @Index('email', ['email'], {})
 @Index('secmobile', ['secmobile', 'secmobicc'], {})
-@Entity('pre_common_member')
+@Entity('common_member')
 export class PreCommonMember {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'uid', unsigned: true })
   uid: number;

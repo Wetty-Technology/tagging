@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('username', ['username', 'appid'], { unique: true })
-@Entity('pre_ucenter_protectedmembers')
+@Entity('ucenter_protectedmembers')
 export class PreUcenterProtectedmembers {
   @Column('mediumint', { name: 'uid', unsigned: true, default: () => "'0'" })
   uid: number;

@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid'], {})
 @Index('uid', ['uid'], {})
-@Entity('pre_forum_post_location')
+@Entity('forum_post_location')
 export class PreForumPostLocation {
   @Column('int', {
     primary: true,

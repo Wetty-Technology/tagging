@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_member_stat_fieldcache')
+@Entity('common_member_stat_fieldcache')
 export class PreCommonMemberStatFieldcache {
   @Column('mediumint', {
     primary: true,

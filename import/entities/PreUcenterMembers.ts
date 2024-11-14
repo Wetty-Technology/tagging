@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('username', ['username'], { unique: true })
 @Index('secmobile', ['secmobile', 'secmobicc'], {})
 @Index('email', ['email'], {})
-@Entity('pre_ucenter_members')
+@Entity('ucenter_members')
 export class PreUcenterMembers {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'uid', unsigned: true })
   uid: number;

@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid', 'status'], {})
 @Index('displayorder', ['status', 'displayorder'], {})
-@Entity('pre_home_specialuser')
+@Entity('home_specialuser')
 export class PreHomeSpecialuser {
   @Column('mediumint', { name: 'uid', unsigned: true, default: () => "'0'" })
   uid: number;

@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_portal_category')
+@Entity('portal_category')
 export class PrePortalCategory {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'catid', unsigned: true })
   catid: number;

@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid'], {})
-@Entity('pre_portal_category_permission')
+@Entity('portal_category_permission')
 export class PrePortalCategoryPermission {
   @Column('mediumint', {
     primary: true,

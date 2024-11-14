@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('status', ['status'], {})
-@Entity('pre_common_member_validate')
+@Entity('common_member_validate')
 export class PreCommonMemberValidate {
   @Column('mediumint', {
     primary: true,

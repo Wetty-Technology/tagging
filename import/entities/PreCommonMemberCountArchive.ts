@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('posts', ['posts'], {})
-@Entity('pre_common_member_count_archive')
+@Entity('common_member_count_archive')
 export class PreCommonMemberCountArchive {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_member_magic')
+@Entity('common_member_magic')
 export class PreCommonMemberMagic {
   @Column('mediumint', {
     primary: true,

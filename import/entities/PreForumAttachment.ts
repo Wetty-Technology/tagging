@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('uid', ['uid'], {})
 @Index('dateline', ['downloads'], {})
 @Index('pid', ['pid'], {})
-@Entity('pre_forum_attachment')
+@Entity('forum_attachment')
 export class PreForumAttachment {
   @PrimaryGeneratedColumn({ type: 'int', name: 'aid', unsigned: true })
   aid: number;

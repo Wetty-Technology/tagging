@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('timespan', ['starttime', 'endtime'], {})
-@Entity('pre_forum_announcement')
+@Entity('forum_announcement')
 export class PreForumAnnouncement {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

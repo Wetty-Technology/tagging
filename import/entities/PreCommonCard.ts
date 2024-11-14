@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('dateline', ['dateline'], {})
-@Entity('pre_common_card')
+@Entity('common_card')
 export class PreCommonCard {
   @Column('varchar', { primary: true, name: 'id', length: 190 })
   id: string;

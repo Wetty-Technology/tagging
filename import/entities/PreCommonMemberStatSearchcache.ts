@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_member_stat_searchcache')
+@Entity('common_member_stat_searchcache')
 export class PreCommonMemberStatSearchcache {
   @Column('mediumint', {
     primary: true,

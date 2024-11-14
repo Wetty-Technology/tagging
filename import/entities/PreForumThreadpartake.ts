@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid', 'uid'], {})
-@Entity('pre_forum_threadpartake')
+@Entity('forum_threadpartake')
 export class PreForumThreadpartake {
   @Column('int', { name: 'tid', unsigned: true, default: () => "'0'" })
   tid: number;

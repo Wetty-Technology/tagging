@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('poid', ['poid'], {})
 @Index('tid', ['tid'], {})
 @Index('uid', ['uid'], {})
-@Entity('pre_forum_polloption_image')
+@Entity('forum_polloption_image')
 export class PreForumPolloptionImage {
   @PrimaryGeneratedColumn({ type: 'int', name: 'aid', unsigned: true })
   aid: number;

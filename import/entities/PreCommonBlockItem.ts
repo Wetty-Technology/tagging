@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('bid', ['bid'], {})
-@Entity('pre_common_block_item')
+@Entity('common_block_item')
 export class PreCommonBlockItem {
   @PrimaryGeneratedColumn({ type: 'int', name: 'itemid', unsigned: true })
   itemid: number;

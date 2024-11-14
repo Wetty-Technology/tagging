@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('dateline', ['secmobicc', 'secmobile', 'dateline'], {})
 @Index('uid', ['uid'], {})
-@Entity('pre_common_smslog')
+@Entity('common_smslog')
 export class PreCommonSmslog {
   @PrimaryGeneratedColumn({ type: 'int', name: 'smslogid', unsigned: true })
   smslogid: number;

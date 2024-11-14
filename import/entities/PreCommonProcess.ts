@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('expiry', ['expiry'], {})
-@Entity('pre_common_process')
+@Entity('common_process')
 export class PreCommonProcess {
   @Column('char', { primary: true, name: 'processid', length: 32 })
   processid: string;

@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('redid', ['redid'], { unique: true })
-@Entity('pre_plugin_chatroom_redbag_cache')
+@Entity('plugin_chatroom_redbag_cache')
 export class PrePluginChatroomRedbagCache {
   @PrimaryGeneratedColumn({ type: 'int', name: 'cacheid' })
   cacheid: number;

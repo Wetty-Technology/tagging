@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['tid', 'uid'], { unique: true })
-@Entity('pre_forum_threadhidelog')
+@Entity('forum_threadhidelog')
 export class PreForumThreadhidelog {
   @Column('int', { name: 'tid', unsigned: true, default: () => "'0'" })
   tid: number;

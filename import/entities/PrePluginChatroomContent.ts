@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid'], {})
 @Index('ousername', ['ousername'], {})
-@Entity('pre_plugin_chatroom_content')
+@Entity('plugin_chatroom_content')
 export class PrePluginChatroomContent {
   @PrimaryGeneratedColumn({ type: 'int', name: 'cid' })
   cid: number;

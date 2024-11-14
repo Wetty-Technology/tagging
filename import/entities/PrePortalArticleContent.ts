@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('aid', ['aid', 'pageorder'], {})
 @Index('pageorder', ['pageorder'], {})
-@Entity('pre_portal_article_content')
+@Entity('portal_article_content')
 export class PrePortalArticleContent {
   @PrimaryGeneratedColumn({ type: 'int', name: 'cid', unsigned: true })
   cid: number;

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_cache')
+@Entity('common_cache')
 export class PreCommonCache {
   @Column('varchar', { primary: true, name: 'cachekey', length: 190 })
   cachekey: string;

@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_style')
+@Entity('common_style')
 export class PreCommonStyle {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'styleid', unsigned: true })
   styleid: number;

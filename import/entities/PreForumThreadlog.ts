@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('dateline', ['dateline'], {})
-@Entity('pre_forum_threadlog')
+@Entity('forum_threadlog')
 export class PreForumThreadlog {
   @Column('mediumint', {
     primary: true,

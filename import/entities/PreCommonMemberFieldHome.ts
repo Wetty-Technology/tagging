@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('domain', ['domain'], {})
-@Entity('pre_common_member_field_home')
+@Entity('common_member_field_home')
 export class PreCommonMemberFieldHome {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

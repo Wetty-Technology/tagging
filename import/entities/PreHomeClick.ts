@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('idtype', ['idtype', 'displayorder'], {})
-@Entity('pre_home_click')
+@Entity('home_click')
 export class PreHomeClick {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'clickid', unsigned: true })
   clickid: number;

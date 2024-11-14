@@ -7,7 +7,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('verify5', ['verify5'], {})
 @Index('verify6', ['verify6'], {})
 @Index('verify7', ['verify7'], {})
-@Entity('pre_common_member_verify')
+@Entity('common_member_verify')
 export class PreCommonMemberVerify {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

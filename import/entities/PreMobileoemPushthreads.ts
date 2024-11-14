@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid', 'type', 'dateline'], {})
-@Entity('pre_mobileoem_pushthreads')
+@Entity('mobileoem_pushthreads')
 export class PreMobileoemPushthreads {
   @Column('mediumint', {
     primary: true,

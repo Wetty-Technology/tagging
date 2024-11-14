@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('type', ['type', 'displayorder'], {})
-@Entity('pre_common_smiley')
+@Entity('common_smiley')
 export class PreCommonSmiley {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

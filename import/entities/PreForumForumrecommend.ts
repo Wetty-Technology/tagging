@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('displayorder', ['fid', 'displayorder'], {})
 @Index('position', ['position'], {})
-@Entity('pre_forum_forumrecommend')
+@Entity('forum_forumrecommend')
 export class PreForumForumrecommend {
   @Column('mediumint', { name: 'fid', unsigned: true, default: () => "'0'" })
   fid: number;

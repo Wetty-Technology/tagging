@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('identifier', ['identifier'], { unique: true })
 @Index('displayorder', ['available', 'displayorder'], {})
-@Entity('pre_common_magic')
+@Entity('common_magic')
 export class PreCommonMagic {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'magicid', unsigned: true })
   magicid: number;

@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid'], {})
-@Entity('pre_home_blogfield')
+@Entity('home_blogfield')
 export class PreHomeBlogfield {
   @Column('mediumint', {
     primary: true,

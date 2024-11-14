@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_poll')
+@Entity('forum_poll')
 export class PreForumPoll {
   @Column('int', {
     primary: true,

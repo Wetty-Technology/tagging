@@ -3,7 +3,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('pid', ['pid', 'stand'], {})
 @Index('tid', ['tid', 'uid'], {})
 @Index('voters', ['tid', 'voters'], {})
-@Entity('pre_forum_debatepost')
+@Entity('forum_debatepost')
 export class PreForumDebatepost {
   @Column('int', {
     primary: true,

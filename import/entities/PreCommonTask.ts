@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_task')
+@Entity('common_task')
 export class PreCommonTask {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'taskid', unsigned: true })
   taskid: number;

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_onlinelist')
+@Entity('forum_onlinelist')
 export class PreForumOnlinelist {
   @Column('smallint', { name: 'groupid', unsigned: true, default: () => "'0'" })
   groupid: number;

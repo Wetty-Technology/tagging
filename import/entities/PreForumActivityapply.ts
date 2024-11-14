@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('uid', ['uid'], {})
 @Index('tid', ['tid'], {})
 @Index('dateline', ['tid', 'dateline'], {})
-@Entity('pre_forum_activityapply')
+@Entity('forum_activityapply')
 export class PreForumActivityapply {
   @PrimaryGeneratedColumn({ type: 'int', name: 'applyid', unsigned: true })
   applyid: number;

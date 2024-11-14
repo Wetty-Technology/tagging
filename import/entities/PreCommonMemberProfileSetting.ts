@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_member_profile_setting')
+@Entity('common_member_profile_setting')
 export class PreCommonMemberProfileSetting {
   @Column('varchar', { primary: true, name: 'fieldid', length: 190 })
   fieldid: string;

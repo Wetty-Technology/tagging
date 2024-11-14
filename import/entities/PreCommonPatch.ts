@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_patch')
+@Entity('common_patch')
 export class PreCommonPatch {
   @Column('varchar', { primary: true, name: 'serial', length: 10 })
   serial: string;

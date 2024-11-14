@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('action', ['action'], { unique: true })
-@Entity('pre_common_credit_rule')
+@Entity('common_credit_rule')
 export class PreCommonCreditRule {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'rid', unsigned: true })
   rid: number;

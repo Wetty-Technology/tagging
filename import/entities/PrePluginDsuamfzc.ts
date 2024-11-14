@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_plugin_dsuamfzc')
+@Entity('plugin_dsuamfzc')
 export class PrePluginDsuamfzc {
   @Column('char', { name: 'rid', length: 32 })
   rid: string;

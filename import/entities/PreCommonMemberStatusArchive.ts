@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('lastactivity', ['lastactivity', 'invisible'], {})
-@Entity('pre_common_member_status_archive')
+@Entity('common_member_status_archive')
 export class PreCommonMemberStatusArchive {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

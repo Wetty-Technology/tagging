@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_syscache')
+@Entity('common_syscache')
 export class PreCommonSyscache {
   @Column('varchar', { primary: true, name: 'cname', length: 32 })
   cname: string;

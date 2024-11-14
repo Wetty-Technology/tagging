@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_ucenter_mergemembers')
+@Entity('ucenter_mergemembers')
 export class PreUcenterMergemembers {
   @Column('smallint', { primary: true, name: 'appid', unsigned: true })
   appid: number;

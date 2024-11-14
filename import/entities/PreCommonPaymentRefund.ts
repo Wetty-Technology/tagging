@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('out_biz_no', ['outBizNo'], { unique: true })
 @Index('order_id', ['orderId'], {})
-@Entity('pre_common_payment_refund')
+@Entity('common_payment_refund')
 export class PreCommonPaymentRefund {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

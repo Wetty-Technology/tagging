@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('status', ['status', 'dateline'], {})
-@Entity('pre_home_pic_moderate')
+@Entity('home_pic_moderate')
 export class PreHomePicModerate {
   @Column('int', {
     primary: true,

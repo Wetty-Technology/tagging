@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('dateline', ['dateline'], {})
 @Index('succeed', ['succeed'], {})
 @Index('verified', ['verified'], {})
-@Entity('pre_common_seccheck')
+@Entity('common_seccheck')
 export class PreCommonSeccheck {
   @PrimaryGeneratedColumn({ type: 'int', name: 'ssid' })
   ssid: number;

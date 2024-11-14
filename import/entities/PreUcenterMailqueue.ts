@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('appid', ['appid'], {})
 @Index('level', ['level', 'failures'], {})
-@Entity('pre_ucenter_mailqueue')
+@Entity('ucenter_mailqueue')
 export class PreUcenterMailqueue {
   @PrimaryGeneratedColumn({ type: 'int', name: 'mailid', unsigned: true })
   mailid: number;

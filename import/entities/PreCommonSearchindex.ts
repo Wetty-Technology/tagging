@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('srchmod', ['srchmod'], {})
-@Entity('pre_common_searchindex')
+@Entity('common_searchindex')
 export class PreCommonSearchindex {
   @PrimaryGeneratedColumn({ type: 'int', name: 'searchid', unsigned: true })
   searchid: number;

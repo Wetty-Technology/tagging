@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('tagname', ['tagname', 'appid'], {})
-@Entity('pre_ucenter_tags')
+@Entity('ucenter_tags')
 export class PreUcenterTags {
   @Column('char', { name: 'tagname', length: 20 })
   tagname: string;

@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('pid', ['pid'], { unique: true })
-@Entity('pre_connect_postfeedlog')
+@Entity('connect_postfeedlog')
 export class PreConnectPostfeedlog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'flid', unsigned: true })
   flid: number;

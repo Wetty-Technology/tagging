@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('conuin', ['conuin'], {})
 @Index('conopenid', ['conopenid'], {})
-@Entity('pre_common_member_connect')
+@Entity('common_member_connect')
 export class PreCommonMemberConnect {
   @Column('mediumint', {
     primary: true,

@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('authorid', ['authorid', 'idtype'], {})
 @Index('id', ['id', 'idtype', 'dateline'], {})
-@Entity('pre_home_comment')
+@Entity('home_comment')
 export class PreHomeComment {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'cid', unsigned: true })
   cid: number;

@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('fuid', ['fuid'], {})
 @Index('uid', ['uid', 'num', 'dateline'], {})
-@Entity('pre_home_friend')
+@Entity('home_friend')
 export class PreHomeFriend {
   @Column('mediumint', {
     primary: true,

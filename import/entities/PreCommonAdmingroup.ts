@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_admingroup')
+@Entity('common_admingroup')
 export class PreCommonAdmingroup {
   @Column('smallint', {
     primary: true,

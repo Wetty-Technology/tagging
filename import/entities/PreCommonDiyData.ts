@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_diy_data')
+@Entity('common_diy_data')
 export class PreCommonDiyData {
   @Column('varchar', { primary: true, name: 'targettplname', length: 100 })
   targettplname: string;

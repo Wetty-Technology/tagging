@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_ucenter_memberlogs')
+@Entity('ucenter_memberlogs')
 export class PreUcenterMemberlogs {
   @PrimaryGeneratedColumn({ type: 'int', name: 'lid', unsigned: true })
   lid: number;

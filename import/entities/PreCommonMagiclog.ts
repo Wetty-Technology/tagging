@@ -4,7 +4,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('action', ['action'], {})
 @Index('targetuid', ['targetuid', 'dateline'], {})
 @Index('magicid', ['magicid', 'dateline'], {})
-@Entity('pre_common_magiclog')
+@Entity('common_magiclog')
 export class PreCommonMagiclog {
   @Column('mediumint', { name: 'uid', unsigned: true, default: () => "'0'" })
   uid: number;

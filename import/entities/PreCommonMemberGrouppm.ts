@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('gpmid', ['gpmid'], {})
-@Entity('pre_common_member_grouppm')
+@Entity('common_member_grouppm')
 export class PreCommonMemberGrouppm {
   @Column('mediumint', {
     primary: true,

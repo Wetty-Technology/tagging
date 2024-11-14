@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid', 'rid', 'fid'], {})
 @Index('dateline', ['dateline'], {})
-@Entity('pre_common_credit_rule_log')
+@Entity('common_credit_rule_log')
 export class PreCommonCreditRuleLog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'clid', unsigned: true })
   clid: number;

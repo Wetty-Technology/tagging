@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('fid', ['fid'], {})
-@Entity('pre_forum_threadhot')
+@Entity('forum_threadhot')
 export class PreForumThreadhot {
   @Column('mediumint', {
     primary: true,

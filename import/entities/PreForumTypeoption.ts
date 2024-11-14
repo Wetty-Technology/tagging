@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('classid', ['classid'], {})
-@Entity('pre_forum_typeoption')
+@Entity('forum_typeoption')
 export class PreForumTypeoption {
   @PrimaryGeneratedColumn({
     type: 'smallint',

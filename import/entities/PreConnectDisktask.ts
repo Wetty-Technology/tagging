@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('openid', ['openid'], {})
 @Index('status', ['status'], {})
-@Entity('pre_connect_disktask')
+@Entity('connect_disktask')
 export class PreConnectDisktask {
   @PrimaryGeneratedColumn({ type: 'int', name: 'taskid', unsigned: true })
   taskid: number;

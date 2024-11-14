@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('tid', ['tid', 'displayorder'], {})
-@Entity('pre_forum_polloption')
+@Entity('forum_polloption')
 export class PreForumPolloption {
   @PrimaryGeneratedColumn({ type: 'int', name: 'polloptionid', unsigned: true })
   polloptionid: number;

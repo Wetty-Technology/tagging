@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('ctid', ['ctid', 'dateline'], {})
-@Entity('pre_forum_collectionfollow')
+@Entity('forum_collectionfollow')
 export class PreForumCollectionfollow {
   @Column('mediumint', {
     primary: true,

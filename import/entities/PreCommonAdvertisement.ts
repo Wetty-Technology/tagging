@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_advertisement')
+@Entity('common_advertisement')
 export class PreCommonAdvertisement {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'advid', unsigned: true })
   advid: number;

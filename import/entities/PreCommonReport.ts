@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('urlkey', ['urlkey'], {})
 @Index('fid', ['fid'], {})
-@Entity('pre_common_report')
+@Entity('common_report')
 export class PreCommonReport {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'id', unsigned: true })
   id: number;

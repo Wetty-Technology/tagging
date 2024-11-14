@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_hotreply_member')
+@Entity('forum_hotreply_member')
 export class PreForumHotreplyMember {
   @Column('int', { name: 'tid', unsigned: true, default: () => "'0'" })
   tid: number;

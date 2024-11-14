@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_admincp_session')
+@Entity('common_admincp_session')
 export class PreCommonAdmincpSession {
   @Column('mediumint', {
     primary: true,

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_mobileoem_member')
+@Entity('mobileoem_member')
 export class PreMobileoemMember {
   @Column('mediumint', {
     primary: true,

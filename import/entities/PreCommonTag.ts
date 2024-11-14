@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('tagname', ['tagname'], {})
 @Index('status', ['status', 'tagid'], {})
-@Entity('pre_common_tag')
+@Entity('common_tag')
 export class PreCommonTag {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'tagid', unsigned: true })
   tagid: number;

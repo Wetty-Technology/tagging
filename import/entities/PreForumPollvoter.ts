@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid'], {})
 @Index('uid', ['uid', 'dateline'], {})
-@Entity('pre_forum_pollvoter')
+@Entity('forum_pollvoter')
 export class PreForumPollvoter {
   @Column('int', { name: 'tid', unsigned: true, default: () => "'0'" })
   tid: number;

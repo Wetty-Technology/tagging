@@ -4,7 +4,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('dateline', ['dateline'], {})
 @Index('lastupdate', ['lastupdate'], {})
 @Index('activity', ['activity'], {})
-@Entity('pre_forum_forumfield')
+@Entity('forum_forumfield')
 export class PreForumForumfield {
   @Column('mediumint', {
     primary: true,

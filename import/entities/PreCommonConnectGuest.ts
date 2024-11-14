@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_connect_guest')
+@Entity('common_connect_guest')
 export class PreCommonConnectGuest {
   @Column('char', { primary: true, name: 'conopenid', length: 32 })
   conopenid: string;

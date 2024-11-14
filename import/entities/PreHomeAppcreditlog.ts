@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid', 'dateline'], {})
 @Index('appid', ['appid'], {})
-@Entity('pre_home_appcreditlog')
+@Entity('home_appcreditlog')
 export class PreHomeAppcreditlog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'logid', unsigned: true })
   logid: number;

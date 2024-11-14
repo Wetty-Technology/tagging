@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('topicid', ['topicid'], {})
-@Entity('pre_portal_topic_pic')
+@Entity('portal_topic_pic')
 export class PrePortalTopicPic {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'picid' })
   picid: number;

@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('tid', ['tid'], { unique: true })
 @Index('fid', ['fid', 'dateline'], {})
-@Entity('pre_forum_rsscache')
+@Entity('forum_rsscache')
 export class PreForumRsscache {
   @Column('int', { name: 'lastupdate', unsigned: true, default: () => "'0'" })
   lastupdate: number;

@@ -5,7 +5,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('score', ['score'], {})
 @Index('pid', ['pid', 'dateline'], {})
 @Index('rpid', ['rpid'], {})
-@Entity('pre_forum_postcomment')
+@Entity('forum_postcomment')
 export class PreForumPostcomment {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

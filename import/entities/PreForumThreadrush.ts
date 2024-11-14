@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_threadrush')
+@Entity('forum_threadrush')
 export class PreForumThreadrush {
   @Column('int', {
     primary: true,

@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('operateresult', ['operateresult', 'createtime'], {})
-@Entity('pre_security_eviluser')
+@Entity('security_eviluser')
 export class PreSecurityEviluser {
   @Column('int', { primary: true, name: 'uid', unsigned: true })
   uid: number;

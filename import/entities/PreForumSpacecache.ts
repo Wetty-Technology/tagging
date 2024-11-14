@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_spacecache')
+@Entity('forum_spacecache')
 export class PreForumSpacecache {
   @Column('mediumint', {
     primary: true,

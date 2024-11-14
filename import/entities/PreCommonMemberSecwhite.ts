@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_member_secwhite')
+@Entity('common_member_secwhite')
 export class PreCommonMemberSecwhite {
   @Column('int', { primary: true, name: 'uid' })
   uid: number;

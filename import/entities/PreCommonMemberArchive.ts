@@ -5,7 +5,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('groupid', ['groupid'], {})
 @Index('conisbind', ['conisbind'], {})
 @Index('regdate', ['regdate'], {})
-@Entity('pre_common_member_archive')
+@Entity('common_member_archive')
 export class PreCommonMemberArchive {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'uid', unsigned: true })
   uid: number;

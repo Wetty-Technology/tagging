@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('find', ['find'], {})
-@Entity('pre_ucenter_badwords')
+@Entity('ucenter_badwords')
 export class PreUcenterBadwords {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'id', unsigned: true })
   id: number;

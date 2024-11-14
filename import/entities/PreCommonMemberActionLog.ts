@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('dateline', ['dateline', 'action', 'uid'], {})
-@Entity('pre_common_member_action_log')
+@Entity('common_member_action_log')
 export class PreCommonMemberActionLog {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

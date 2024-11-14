@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('uid', ['uid'], {})
 @Index('type', ['type'], {})
 @Index('status', ['status'], {})
-@Entity('pre_common_payment_order')
+@Entity('common_payment_order')
 export class PreCommonPaymentOrder {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

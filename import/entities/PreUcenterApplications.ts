@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_ucenter_applications')
+@Entity('ucenter_applications')
 export class PreUcenterApplications {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'appid', unsigned: true })
   appid: number;

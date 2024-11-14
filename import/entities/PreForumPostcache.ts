@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('dateline', ['dateline'], {})
-@Entity('pre_forum_postcache')
+@Entity('forum_postcache')
 export class PreForumPostcache {
   @Column('int', { primary: true, name: 'pid', unsigned: true })
   pid: number;

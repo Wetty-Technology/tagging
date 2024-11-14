@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_optimizer')
+@Entity('common_optimizer')
 export class PreCommonOptimizer {
   @Column('char', { primary: true, name: 'k', length: 100 })
   k: string;

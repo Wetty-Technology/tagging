@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid', 'updatetime'], {})
 @Index('updatetime', ['updatetime'], {})
-@Entity('pre_home_album')
+@Entity('home_album')
 export class PreHomeAlbum {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

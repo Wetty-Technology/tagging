@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_forum_threadaddviews')
+@Entity('forum_threadaddviews')
 export class PreForumThreadaddviews {
   @Column('int', {
     primary: true,

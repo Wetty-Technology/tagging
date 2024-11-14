@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('token', ['token'], {})
-@Entity('pre_common_devicetoken')
+@Entity('common_devicetoken')
 export class PreCommonDevicetoken {
   @Column('mediumint', { primary: true, name: 'uid', unsigned: true })
   uid: number;

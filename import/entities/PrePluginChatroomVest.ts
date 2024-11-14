@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_plugin_chatroom_vest')
+@Entity('plugin_chatroom_vest')
 export class PrePluginChatroomVest {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', unsigned: true })
   id: number;

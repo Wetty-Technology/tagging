@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('uid', ['uid', 'dateline'], {})
-@Entity('pre_common_block_favorite')
+@Entity('common_block_favorite')
 export class PreCommonBlockFavorite {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'favid', unsigned: true })
   favid: number;

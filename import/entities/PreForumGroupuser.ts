@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid_lastupdate', ['uid', 'lastupdate'], {})
 @Index('userlist', ['fid', 'level', 'lastupdate'], {})
-@Entity('pre_forum_groupuser')
+@Entity('forum_groupuser')
 export class PreForumGroupuser {
   @Column('mediumint', {
     primary: true,

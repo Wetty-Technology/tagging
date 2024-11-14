@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('taskid', ['taskid'], {})
-@Entity('pre_common_taskvar')
+@Entity('common_taskvar')
 export class PreCommonTaskvar {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

@@ -9,7 +9,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('credittradesum', ['credittradesum'], {})
 @Index('expiration', ['expiration'], {})
 @Index('pid', ['pid'], {})
-@Entity('pre_forum_trade')
+@Entity('forum_trade')
 export class PreForumTrade {
   @Column('int', { primary: true, name: 'tid', unsigned: true })
   tid: number;

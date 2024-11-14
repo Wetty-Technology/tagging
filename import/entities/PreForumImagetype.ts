@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_forum_imagetype')
+@Entity('forum_imagetype')
 export class PreForumImagetype {
   @PrimaryGeneratedColumn({ type: 'smallint', name: 'typeid', unsigned: true })
   typeid: number;

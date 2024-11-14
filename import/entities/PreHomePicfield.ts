@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_home_picfield')
+@Entity('home_picfield')
 export class PreHomePicfield {
   @Column('mediumint', {
     primary: true,

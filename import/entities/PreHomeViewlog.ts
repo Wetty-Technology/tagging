@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_home_viewlog')
+@Entity('home_viewlog')
 export class PreHomeViewlog {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'logid', unsigned: true })
   logid: number;

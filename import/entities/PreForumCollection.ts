@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('hotcollection', ['threadnum', 'lastupdate'], {})
 @Index('follownum', ['follownum'], {})
 @Index('uid', ['uid'], {})
-@Entity('pre_forum_collection')
+@Entity('forum_collection')
 export class PreForumCollection {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'ctid', unsigned: true })
   ctid: number;

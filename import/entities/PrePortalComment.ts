@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('aid', ['aid', 'cid'], {})
 @Index('idtype', ['id', 'idtype', 'dateline'], {})
-@Entity('pre_portal_comment')
+@Entity('portal_comment')
 export class PrePortalComment {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'cid', unsigned: true })
   cid: number;

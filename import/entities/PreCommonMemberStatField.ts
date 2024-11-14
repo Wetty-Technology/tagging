@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('fieldid', ['fieldid'], {})
-@Entity('pre_common_member_stat_field')
+@Entity('common_member_stat_field')
 export class PreCommonMemberStatField {
   @PrimaryGeneratedColumn({
     type: 'mediumint',

@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_common_remote_port')
+@Entity('common_remote_port')
 export class PreCommonRemotePort {
   @Column('mediumint', {
     primary: true,

@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('rid', ['rid'], {})
 @Index('available', ['available', 'displayorder'], {})
 @Index('must', ['must'], {})
-@Entity('pre_research_item')
+@Entity('research_item')
 export class PreResearchItem {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id', comment: '???ID' })
   id: number;

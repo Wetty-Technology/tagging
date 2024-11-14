@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('code', ['code'], { unique: true })
 @Index('createtime', ['createtime'], {})
-@Entity('pre_mobile_wechat_authcode')
+@Entity('mobile_wechat_authcode')
 export class PreMobileWechatAuthcode {
   @Column('char', { primary: true, name: 'sid', length: 6 })
   sid: string;

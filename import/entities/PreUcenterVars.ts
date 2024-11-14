@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_ucenter_vars')
+@Entity('ucenter_vars')
 export class PreUcenterVars {
   @Column('char', { primary: true, name: 'name', length: 32 })
   name: string;

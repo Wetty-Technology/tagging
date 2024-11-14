@@ -9,7 +9,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('authorid', ['authorid'], {})
 @Index('special', ['special'], {})
 @Index('isgroup', ['isgroup', 'lastpost'], {})
-@Entity('pre_forum_thread')
+@Entity('forum_thread')
 export class PreForumThread {
   @PrimaryGeneratedColumn({ type: 'int', name: 'tid', unsigned: true })
   tid: number;

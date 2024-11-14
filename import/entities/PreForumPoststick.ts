@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('dateline', ['tid', 'dateline'], {})
-@Entity('pre_forum_poststick')
+@Entity('forum_poststick')
 export class PreForumPoststick {
   @Column('int', { primary: true, name: 'tid', unsigned: true })
   tid: number;

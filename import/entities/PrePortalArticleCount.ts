@@ -1,6 +1,6 @@
 import { Column, Entity } from 'typeorm';
 
-@Entity('pre_portal_article_count')
+@Entity('portal_article_count')
 export class PrePortalArticleCount {
   @Column('mediumint', {
     primary: true,

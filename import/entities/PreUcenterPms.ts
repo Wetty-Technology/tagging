@@ -4,7 +4,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('msgfromid', ['msgfromid', 'folder', 'dateline'], {})
 @Index('related', ['related'], {})
 @Index('getnum', ['msgtoid', 'folder', 'delstatus'], {})
-@Entity('pre_ucenter_pms')
+@Entity('ucenter_pms')
 export class PreUcenterPms {
   @PrimaryGeneratedColumn({ type: 'int', name: 'pmid', unsigned: true })
   pmid: number;

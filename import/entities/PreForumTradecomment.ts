@@ -3,7 +3,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 @Index('raterid', ['raterid', 'type', 'dateline'], {})
 @Index('rateeid', ['rateeid', 'type', 'dateline'], {})
 @Index('orderid', ['orderid'], {})
-@Entity('pre_forum_tradecomment')
+@Entity('forum_tradecomment')
 export class PreForumTradecomment {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'id' })
   id: number;

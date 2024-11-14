@@ -3,7 +3,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('fid', ['fid'], {})
 @Index('dateline', ['dateline'], {})
 @Index('countryorigin', ['countryorigin'], {})
-@Entity('pre_forum_optionvalue52')
+@Entity('forum_optionvalue52')
 export class PreForumOptionvalue52 {
   @Column('smallint', {
     name: 'countryorigin',

@@ -3,7 +3,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('types', ['fid', 'type'], { unique: true })
 @Index('fid', ['fid'], {})
 @Index('type', ['type'], {})
-@Entity('pre_forum_groupfield')
+@Entity('forum_groupfield')
 export class PreForumGroupfield {
   @Column('mediumint', { name: 'fid', unsigned: true, default: () => "'0'" })
   fid: number;

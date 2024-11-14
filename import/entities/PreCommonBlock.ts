@@ -1,6 +1,6 @@
 import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('pre_common_block')
+@Entity('common_block')
 export class PreCommonBlock {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'bid', unsigned: true })
   bid: number;

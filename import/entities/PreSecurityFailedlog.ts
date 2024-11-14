@@ -2,7 +2,7 @@ import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('pid', ['pid'], {})
 @Index('uid', ['uid'], {})
-@Entity('pre_security_failedlog')
+@Entity('security_failedlog')
 export class PreSecurityFailedlog {
   @PrimaryGeneratedColumn({ type: 'int', name: 'id' })
   id: number;

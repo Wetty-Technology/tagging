@@ -1,7 +1,7 @@
 import { Column, Entity, Index } from 'typeorm';
 
 @Index('uid', ['uid', 'dateline'], {})
-@Entity('pre_forum_creditslog')
+@Entity('forum_creditslog')
 export class PreForumCreditslog {
   @Column('mediumint', { name: 'uid', unsigned: true, default: () => "'0'" })
   uid: number;

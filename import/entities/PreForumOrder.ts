@@ -3,7 +3,7 @@ import { Column, Entity, Index } from 'typeorm';
 @Index('orderid', ['orderid'], { unique: true })
 @Index('submitdate', ['submitdate'], {})
 @Index('uid', ['uid', 'submitdate'], {})
-@Entity('pre_forum_order')
+@Entity('forum_order')
 export class PreForumOrder {
   @Column('char', { name: 'orderid', length: 32 })
   orderid: string;

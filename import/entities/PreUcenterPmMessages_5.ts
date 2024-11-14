@@ -2,7 +2,7 @@ import { Column, Entity, Index } from 'typeorm';
 
 @Index('plid', ['plid', 'delstatus', 'dateline'], {})
 @Index('dateline', ['plid', 'dateline'], {})
-@Entity('pre_ucenter_pm_messages_5')
+@Entity('ucenter_pm_messages_5')
 export class PreUcenterPmMessages_5 {
   @Column('mediumint', {
     primary: true,

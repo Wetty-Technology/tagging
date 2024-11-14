@@ -1,7 +1,7 @@
 import { Column, Entity, Index, PrimaryGeneratedColumn } from 'typeorm';
 
 @Index('catid', ['catid', 'dateline'], {})
-@Entity('pre_portal_article_title')
+@Entity('portal_article_title')
 export class PrePortalArticleTitle {
   @PrimaryGeneratedColumn({ type: 'mediumint', name: 'aid', unsigned: true })
   aid: number;
