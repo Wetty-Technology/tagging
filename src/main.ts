@@ -5,11 +5,11 @@ import { PreCommonTagitem } from '../import/entities/PreCommonTagitem.js';
 import { PreForumPost } from '../import/entities/PreForumPost.js';
 import * as _ from 'lodash-es';
 // @ts-ignore
-import { longestCommonInfix } from 'extra-string';
-import { clean } from './uitls';
+// import { longestCommonInfix } from 'extra-string';
+// import { clean } from './uitls';
 import { PreForumCollection } from '../import/entities/PreForumCollection';
 import { PreForumCollectionthread } from '../import/entities/PreForumCollectionthread';
-import { doTag } from './tag';
+// import { doTag } from './tag';
 import * as fs from 'node:fs';
 import { parse } from 'csv/sync';
 import { strip } from './bbcode';
@@ -144,9 +144,9 @@ import { strip } from './bbcode';
     廷俊的故事: 9528,
   };
 
-  const threads = await dataSource.manager.getRepository(PreForumThread).findBy({ tid: In(records.filter((r) => r.name).map((r) => r.tid)), closed: Not(0) });
-  console.log(threads.map((t) => t.tid));
-  return;
+  // const threads = await dataSource.manager.getRepository(PreForumThread).findBy({ tid: In(records.filter((r) => r.name).map((r) => r.tid)), closed: Not(0) });
+  // console.log(threads.map((t) => t.tid));
+  // return;
   const collections = Object.values(
     Object.groupBy(
       records.filter((r) => r.name),
@@ -159,13 +159,13 @@ import { strip } from './bbcode';
   }[][];
 
   const posts = await dataSource.manager.getRepository(PreForumPost).findBy({ first: true, tid: In(collections.map(([c]) => c.tid)) });
-  console.log(
-    _.difference(
-      collections.map(([c]) => c.tid),
-      posts.map((t) => t.tid),
-    ),
-  );
-  return;
+  // console.log(
+  //   _.difference(
+  //     collections.map(([c]) => c.tid),
+  //     posts.map((t) => t.tid),
+  //   ),
+  // );
+  // return;
 
   await dataSource.manager.transaction(async (manager) => {
     await manager.getRepository(PreForumCollection).clear();
@@ -176,7 +176,7 @@ import { strip } from './bbcode';
         object.uid = collab[c.name as keyof typeof collab] ?? posts.find((t) => t.tid == c.tid)!.authorid;
         object.name = c.name;
         const post = posts.find((p) => p.tid == c.tid);
-        object.desc = post ? strip(post.message.replace(/\[i=s] 本帖最后由 \S+ 于 [\d\- :]+ 编辑 \[\/i]/, '')) : '';
+        object.desc = post ? strip(post.message.replace(/\[i=s] 本帖最后由 \S+ 于 [\d\- :]+ 编辑 \[\/i]/, '')).substring(0,200) : '';
         return object;
       }),
     );
@@ -191,25 +191,25 @@ import { strip } from './bbcode';
         }),
       ),
     );
-    await manager.query(`UPDATE pre_forum_collection c SET
-      username = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-      dateline = (SELECT MIN(t.dateline) FROM pre_forum_collectionthread ct INNER JOIN pre_forum_thread t USING(tid) WHERE ct.ctid = c.ctid),
-      threadnum = (SELECT COUNT(*) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
-      lastpost = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid),
-      lastupdate = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-      lastsubject = (SELECT t.subject FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-      lastposttime = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-      lastposter = (SELECT t.author FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
-      lastvisit = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM pre_forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+    await manager.query(`UPDATE forum_collection c SET
+      username = COALESCE((SELECT m.username  FROM common_member m WHERE m.uid = c.uid),' '),
+      dateline = (SELECT MIN(t.dateline) FROM forum_collectionthread ct INNER JOIN forum_thread t USING(tid) WHERE ct.ctid = c.ctid),
+      threadnum = (SELECT COUNT(*) FROM forum_collectionthread ct WHERE ct.ctid = c.ctid),
+      lastpost = (SELECT MAX(tid) FROM forum_collectionthread ct WHERE ct.ctid = c.ctid),
+      lastupdate = (SELECT t.dateline FROM forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastsubject = (SELECT t.subject FROM forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastposttime = (SELECT t.dateline FROM forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastposter = (SELECT t.author FROM forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM forum_collectionthread ct WHERE ct.ctid = c.ctid)),
+      lastvisit = (SELECT t.dateline FROM forum_thread t WHERE t.tid = (SELECT MAX(tid) FROM forum_collectionthread ct WHERE ct.ctid = c.ctid)),
       keyword = (SELECT COALESCE(GROUP_CONCAT(DISTINCT ta.tagname),'')
-      FROM pre_forum_collectionthread ct
-      INNER JOIN pre_common_tagitem ti ON ti.itemid = ct.tid  
-      INNER JOIN pre_common_tag ta USING(tagid)
+      FROM forum_collectionthread ct
+      INNER JOIN common_tagitem ti ON ti.itemid = ct.tid  
+      INNER JOIN common_tag ta USING(tagid)
       WHERE ti.idtype = 'tid' AND ct.ctid = c.ctid)`);
 
-    await manager.query(`UPDATE pre_forum_collectionthread ct SET ct.dateline = (SELECT t.dateline FROM pre_forum_thread t WHERE t.tid = ct.tid)`);
-    await manager.query(`TRUNCATE TABLE pre_forum_collectionrelated`);
-    await manager.query(`INSERT INTO pre_forum_collectionrelated (tid, collection) SELECT tid, ctid AS collection FROM pre_forum_collectionthread`);
+    await manager.query(`UPDATE forum_collectionthread ct SET ct.dateline = (SELECT t.dateline FROM forum_thread t WHERE t.tid = ct.tid)`);
+    await manager.query(`TRUNCATE TABLE forum_collectionrelated`);
+    await manager.query(`INSERT INTO forum_collectionrelated (tid, collection) SELECT tid, ctid AS collection FROM forum_collectionthread`);
     await manager.query(`UPDATE forum_thread LEFT JOIN forum_collectionrelated USING ( tid ) SET status = status & ~(1 << 8) | ((collection IS NOT NULL) << 8)`);
   });
 
