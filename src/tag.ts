@@ -3,30 +3,24 @@ import { density1d } from 'fast-kde';
 import * as _ from 'lodash-es';
 import OpenAI from 'openai';
 // @ts-ignore
-import grammar from './characters.gbnf';
+import grammarCharacters from './characters.gbnf';
+// @ts-ignore
+import grammarTags from './tags.gbnf';
+
 import { log } from './uitls';
 
 const openai = new OpenAI();
 const limit = 16000;
 
 export async function doTag(message: string, subject: string): Promise<[string[], any]> {
-  return [...(await 性别(message, subject))];
+  // return [...(await 性别(message, subject))];
+  return await 综合AI(truncate(message));
 }
 
 async function 性别(message: string, subject: string): Promise<[string[], any]> {
   if (/男女都有|男女憋/i.test(subject)) return [['男憋', '女憋'], '标题1'];
   if (/男憋|GB|BL|耽美|原耽|女攻|女控|男奴|（男|\(男/i.test(subject)) return [['男憋'], '标题2'];
   if (/女憋|BG|GL|百合|少女|女孩|女生|美女|女主播/i.test(subject)) return [['女憋'], '标题3'];
-
-  // const noQuote = message.replaceAll(/["“「][^\n]{1,300}?["”」]/g, '');
-  // const 我 = charCount(noQuote, '我') / message.length;
-  // if (我 < 0.01) {
-  //   // 第三人称，其实大概要 < 0.05 才是第三人称，< 0.1 的依然有很多是有主视角，但是这种一般我只是个旁观者，憋是别人憋的，所以这里依然用 0.1 作为阈值。
-  //   const 她 = charCount(noQuote, '她');
-  //   const 他 = charCount(noQuote, '他');
-  //   const 性别 = threshold(她 / (她 + 他), 0.33, 0.67, '男憋', '女憋');
-  //   if (性别) return [[性别], { 我, 她, 他 }];
-  // }
 
   return await 性别AI(truncate(message));
 }
@@ -47,7 +41,7 @@ export interface Character {
   '憋尿、尿裤子的行为或隐喻': Has;
 }
 
-async function AI(message: string, prompt: string): Promise<Character[]> {
+async function AI(message: string, prompt: string, grammar: any): Promise<string> {
   log(message);
   log('\n');
   log(prompt);
@@ -59,18 +53,18 @@ async function AI(message: string, prompt: string): Promise<Character[]> {
     messages: [
       {
         role: 'system',
-        content: message
+        content: message,
       },
       {
         role: 'user',
-        content: prompt
-      }
+        content: prompt,
+      },
     ],
-    logprobs: true,
+    // logprobs: false,
     temperature: 0,
-    seed: 1,
+    seed: 0,
     max_completion_tokens: 1000,
-    grammar
+    grammar,
   });
 
   // let s = ''
@@ -86,25 +80,59 @@ async function AI(message: string, prompt: string): Promise<Character[]> {
   log('\n');
   log('\n');
 
-  return result
+  return result;
+}
+
+async function 性别AI(message: string): Promise<[string[], string]> {
+  const response = (await AI(message, `仔细阅读文章，提取里面的角色，回答每个角色的姓名、性别，角色本人是否有憋尿、尿裤子的行为或隐喻？`, grammarCharacters))!;
+  const characters = response
     .matchAll(/\d. \*\*([^\n]+)\*\*\n   - \*\*性别\*\*：(男|女)\n   - \*\*憋尿、尿裤子的行为或隐喻\*\*：(有|无)/g)
     .map((m) => ({ 姓名: m[1], 性别: m[2] as Gender, '憋尿、尿裤子的行为或隐喻': m[3] as Has }))
     .toArray();
-}
-
-async function 性别AI(message: string): Promise<[string[], Character[]]> {
-  const data = (await AI(message, `仔细阅读文章，提取里面的角色，回答每个角色的姓名、性别，角色本人是否有憋尿、尿裤子的行为或隐喻？`))!;
   const result = [];
-
-  const holding = data.filter((p) => p['憋尿、尿裤子的行为或隐喻'] === Has.有);
+  const holding = characters.filter((p) => p['憋尿、尿裤子的行为或隐喻'] === Has.有);
   if (holding.length) {
     if (holding.some((p) => p.性别 === Gender.男)) result.push('男憋');
     if (holding.some((p) => p.性别 === Gender.女)) result.push('女憋');
-  } else if (data.length) {
-    if (data.every((p) => p.性别 === Gender.女)) result.push('女憋');
+  } else if (characters.length) {
+    if (characters.every((p) => p.性别 === Gender.女)) result.push('女憋');
   }
+  return [result, response];
+}
 
-  return [result, data];
+async function 综合AI(message: string): Promise<[string[], string]> {
+  const response = (await AI(
+    message,
+    `仔细阅读文章，为文章打标签，可选的标签及定义如下：
+性转：有使用药物或魔法改变了性别的角色
+伪娘：有男性角色穿女装
+百合：有两名女性角色有亲密关系
+BL：有两名男性角色有亲密关系
+都市：故事发生在现代都市
+校园：故事发生在学校
+古风：故事发生在中国封建时代
+科幻：故事发生在未来，有超过现代的科技
+仙侠：故事发生在古代，存在玄幻、修仙元素
+皇宫：故事发生在皇宫内
+贞操带：故事中含有贞操带，或其他防止性行为的装置
+拘束：故事中含有捆绑或其他捅过某种装置限制角色行动能力的行为
+项圈：故事中的角色明确说明戴着宠物项圈
+淫纹：故事中的角色有淫纹，一种位于女性小腹部或下腹部的特殊图案。
+高跟鞋：故事中明确说明提到高跟鞋
+女仆：故事中明确说明有至少一个角色的身份是女仆
+OL：故事中明确说明有至少一个角色的身份是上班族女性，包括女性总裁，女性上司，女性董事长等职位。
+魅魔：故事中明确说明有至少一个角色的身份是魅魔
+修女：故事中明确说明有至少一个角色的身份是修女
+魔法少女：故事中明确说明有至少一个角色的身份是魔法少女`,
+    grammarTags,
+  ))!;
+  const tags = response
+    .matchAll(/- (.*?)：/g)
+    .map((m) => m[1])
+    .toArray();
+  if (tags.includes('校园')) _.pull(tags, '都市');
+
+  return [tags, response];
 }
 
 export function truncate(message: string) {
