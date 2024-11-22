@@ -10,7 +10,7 @@ import grammarTags from './tags.gbnf';
 import { log } from './uitls';
 
 const openai = new OpenAI();
-const limit = 16000;
+const limit = 10000;
 
 export async function doTag(message: string, subject: string): Promise<[string[], any]> {
   // return [...(await 性别(message, subject))];
@@ -103,17 +103,7 @@ async function 性别AI(message: string): Promise<[string[], string]> {
 async function 综合AI(message: string): Promise<[string[], string]> {
   const response = (await AI(
     message,
-    `仔细阅读文章，为文章打标签，可选的标签及定义如下：
-性转：有使用药物或魔法改变了性别的角色
-伪娘：有男性角色穿女装
-百合：有两名女性角色有亲密关系
-BL：有两名男性角色有亲密关系
-都市：故事发生在现代都市
-校园：故事发生在学校
-古风：故事发生在中国封建时代
-科幻：故事发生在未来，有超过现代的科技
-仙侠：故事发生在古代，存在玄幻、修仙元素
-皇宫：故事发生在皇宫内
+    `仔细阅读文章，为文章打标签，不要打不存在的标签，打标签时不要推测，仅回复存在的标签组成的数组和打标签的原因，使用json格式{result:[],reason:[]}，如果没有任何符合的标签就仅回复一个空数组，不再列出标签列表。可选的标签及定义如下：
 贞操带：故事中含有贞操带，或其他防止性行为的装置
 拘束：故事中含有捆绑或其他捅过某种装置限制角色行动能力的行为
 项圈：故事中的角色明确说明戴着宠物项圈
@@ -123,7 +113,8 @@ BL：有两名男性角色有亲密关系
 OL：故事中明确说明有至少一个角色的身份是上班族女性，包括女性总裁，女性上司，女性董事长等职位。
 魅魔：故事中明确说明有至少一个角色的身份是魅魔
 修女：故事中明确说明有至少一个角色的身份是修女
-魔法少女：故事中明确说明有至少一个角色的身份是魔法少女`,
+魔法少女：故事中明确说明有至少一个角色的身份是魔法少女
+警察：故事中明确说明有至少一个角色的身份是警察`,
     grammarTags,
   ))!;
   const tags = response

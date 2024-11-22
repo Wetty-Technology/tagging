@@ -1,7 +1,4 @@
-root ::= ("根据文章内容，可以给文章打以下标签：\n"
-"\n"
-tag{1,10}
-"\n"
-"因此")
-
-tag ::= "- " [^:：\n]{1,4} "：" [^\n]{1,200} "\n"
+root      ::= "{result: " result ", reason: " reason "}"
+result    ::= "[" quoted_string {", " quoted_string} "]"
+reason    ::= quoted_string
+quoted_string ::= '"' ([^\n"\\] | '\\"' | '\\\\')* '"'
