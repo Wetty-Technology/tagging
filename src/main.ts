@@ -212,7 +212,7 @@ import { doTag } from './tag';
 
   // const ctags: [];
 
-  for (const collection of forum_collections.filter((c) => c.ctid <= 25)) {
+  for (const collection of forum_collections.filter((c) => c.ctid <=100)) {
     const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
 
     const messages: string[] = [];
@@ -224,7 +224,7 @@ import { doTag } from './tag';
     if (!messages.length) continue;
     const full = messages.join('\n');
 
-    const oldTags = collection.keyword.split(',');
+    const oldTags = collection.keyword.split(',').filter(s=>s);
     const [newTags, info] = await doTag(full, threads1.map((t) => t.subject).join());
 
     if (_.xor(oldTags, newTags).length == 0) {
@@ -242,7 +242,7 @@ import { doTag } from './tag';
     console.log('');
 
     collection.keyword = newTags.join();
-    dataSource.manager.getRepository(PreForumCollection).save(collection);
+    // dataSource.manager.getRepository(PreForumCollection).save(collection);
   }
 
   // for (const thread of threads2.filter((t) => t.fid == 7 && !forum_collectionthreads.some((ct) => ct.tid == t.tid))) {

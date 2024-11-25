@@ -1,4 +1,8 @@
-root      ::= "{result: " result ", reason: " reason "}"
-result    ::= "[" quoted_string {", " quoted_string} "]"
-reason    ::= quoted_string
-quoted_string ::= '"' ([^\n"\\] | '\\"' | '\\\\')* '"'
+root ::= "{" space result-kv "," space reason-kv "}" space
+char ::= [^"\\\x7F\x00-\x1F] | [\\] (["\\bfnrt] | "u" [0-9a-fA-F]{4})
+reason ::= "[" space (string ("," space string)*)? "]" space
+reason-kv ::= "\"reason\"" space ":" space reason
+result ::= "[" space (string ("," space string)*)? "]" space
+result-kv ::= "\"result\"" space ":" space result
+space ::= | " " | "\n" [ \t]{0,20}
+string ::= "\"" char* "\"" space
