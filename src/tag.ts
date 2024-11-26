@@ -60,8 +60,8 @@ async function AI(message: string, prompt: string, grammar: any): Promise<string
         content: prompt,
       },
     ],
-    // logprobs: false,
-    temperature: 0,
+    logprobs:true,
+    temperature: 0.2,
     seed: 0,
     max_completion_tokens: 1000,
     grammar,
@@ -74,6 +74,8 @@ async function AI(message: string, prompt: string, grammar: any): Promise<string
   // }
 
   console.log(Date.now() - t);
+  // @ts-ignore
+  console.log( chatCompletion.completion_probabilities);
   const result = chatCompletion.choices[0].message.content!;
 
   log(result);
