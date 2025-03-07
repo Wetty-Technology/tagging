@@ -200,15 +200,15 @@ import { doTag } from './tag';
   // });
 
   // tagging
-  const threads = await dataSource.manager.find(PreForumThread, {
-    where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
-    // order: { dateline: 'DESC' },
-    // where: { tid: In([263564,264427,263219]) },
-    // skip: 10,
-    // take: 110
-  });
-
-  console.log(`load ${threads2.length} threads`);
+  // const threads = await dataSource.manager.find(PreForumThread, {
+  //   where: { typeid: 21, displayorder: MoreThanOrEqual(0), dateline: Between(1658826253, 1711039295) },
+  //   // order: { dateline: 'DESC' },
+  //   // where: { tid: In([263564,264427,263219]) },
+  //   // skip: 10,
+  //   // take: 110
+  // });
+  //
+  // console.log(`load ${threads2.length} threads`);
 
   // const ctags: [];
 

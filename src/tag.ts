@@ -10,7 +10,7 @@ import grammarTags from './tags.gbnf';
 import { log } from './uitls';
 
 const openai = new OpenAI();
-const limit = 10000;
+const limit = 16000;
 
 export async function doTag(message: string, subject: string): Promise<[string[], any]> {
   // return [...(await 性别(message, subject))];
@@ -60,27 +60,28 @@ async function AI(message: string, prompt: string, grammar: any): Promise<string
         content: prompt,
       },
     ],
-    logprobs:true,
+    // stream: false,
+    // logprobs:true,
     temperature: 0.2,
     seed: 0,
-    max_completion_tokens: 1000,
+    max_completion_tokens: 4000,
     grammar,
   });
 
-  // let s = ''
-  // for await (const chunk of stream) {
-  //   process.stdout.write(chunk.choices[0]?.delta?.content || '');
-  //   s += chunk.choices[0]?.delta?.content;
+  // let result = '';
+  // for await (const chunk of chatCompletion) {
+  //   // process.stdout.write(chunk.choices[0]?.delta?.content || '');
+  //   result += chunk.choices[0]?.delta?.content;
   // }
 
-  console.log(Date.now() - t);
-  // @ts-ignore
-  console.log( chatCompletion.completion_probabilities);
-  const result = chatCompletion.choices[0].message.content!;
+  // console.log(Date.now() - t);
+  let result = chatCompletion.choices[0].message.content!;
 
   log(result);
   log('\n');
   log('\n');
+
+  result = result.replace(/<think>[.\n]*<\/think>/, '').trim();
 
   return result;
 }
@@ -105,7 +106,7 @@ async function 性别AI(message: string): Promise<[string[], string]> {
 async function 综合AI(message: string): Promise<[string[], string]> {
   const response = (await AI(
     message,
-    `仔细阅读文章，为文章打标签，不要打不存在的标签，打标签时不要推测，仅回复存在的标签组成的数组和打标签的原因，使用json格式{result:[],reason:[]}，如果没有任何符合的标签就仅回复一个空数组，不再列出标签列表。可选的标签及定义如下：
+    `仔细阅读文章，为文章打标签，不要打不存在的标签，回复存在的标签组成的数组，使用 json 格式 string[]，如果没有任何符合的标签就回复一个空数组。可选的标签及定义如下：
 性转：有使用药物或魔法改变了性别的角色
 伪娘：有男性角色穿女装。
 百合：有两名女性角色有亲密关系。
@@ -128,32 +129,34 @@ OL：故事中明确说明有至少一个角色的身份是上班族女性。
 警察：故事中明确说明有至少一个角色的身份是警察。`,
     grammarTags,
   ))!;
-  const res = JSON.parse(response);
-  const tags = res.result;
+  const matched = response.match(/\[.*]/);
+  const tags = JSON.parse(matched![0]);
+  // const tags = res.result;
   if (tags.includes('皇宫') || tags.includes('玄幻')) _.pull(tags, '古风');
   if (tags.includes('娱乐')) {
     _.pull(tags, '娱乐');
     tags.push('都市');
   }
 
-  return [tags, res.reson];
+  return [tags, ''];
 }
 
 export function truncate(message: string) {
   if (message.length > limit) {
-    let data: number[] = [];
-    for (let i = 0; i < message.length; i++) {
-      if (['憋', '尿', '禁', '漏', '急', '夹', '腿', '厕', '颤'].includes(message.charAt(i))) data.push(i);
-    }
-    let center;
-    if (data.length === 0) {
-      center = message.length / 2;
-    } else {
-      const d1: { x: number; y: number }[] = [...density1d(data, { extent: [0, message.length] })];
-      center = _.maxBy(d1, (d) => d.y)!.x;
-    }
-    const start = _.clamp(center - limit / 2, 0, message.length - limit);
-    return message.slice(start, start + limit);
+    // let data: number[] = [];
+    // for (let i = 0; i < message.length; i++) {
+    //   if (['憋', '尿', '禁', '漏', '急', '夹', '腿', '厕', '颤'].includes(message.charAt(i))) data.push(i);
+    // }
+    // let center;
+    // if (data.length === 0) {
+    //   center = message.length / 2;
+    // } else {
+    //   const d1: { x: number; y: number }[] = [...density1d(data, { extent: [0, message.length] })];
+    //   center = _.maxBy(d1, (d) => d.y)!.x;
+    // }
+    // const start = _.clamp(center - limit / 2, 0, message.length - limit);
+    // return message.slice(start, start + limit);
+    return message.slice(0, limit);
   }
   return message;
 }

@@ -34,7 +34,9 @@
     "auto-group-strings-array": "^1.1.6",
     "csv": "^6.3.10",
     "extra-string": "^2.2.0",
+    "json-loose": "^1.2.4",
     "ml-hclust": "^3.1.0",
+    "p-retry": "^6.2.1",
     "yaml": "^2.6.0"
   }
 }
