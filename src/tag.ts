@@ -41,41 +41,41 @@ export interface Character {
   '憋尿、尿裤子的行为或隐喻': Has;
 }
 
-async function AI(message: string, prompt: string, grammar: any): Promise<string> {
-  log(message);
+async function AI(system: string, user: string, grammar: any): Promise<string> {
+  log(system);
   log('\n');
-  log(prompt);
+  log(user);
   log('\n');
 
   let t = Date.now();
-  const chatCompletion = await openai.chat.completions.create(<OpenAI.Chat.ChatCompletionCreateParamsNonStreaming>{
+  const chatCompletion = await openai.chat.completions.create(<OpenAI.Chat.ChatCompletionCreateParamsStreaming>{
     model: '',
     messages: [
       {
         role: 'system',
-        content: message,
+        content: system,
       },
       {
         role: 'user',
-        content: prompt,
+        content: user,
       },
     ],
-    // stream: false,
+    stream: true,
     // logprobs:true,
-    temperature: 0.2,
+    temperature: 0,
     seed: 0,
     max_completion_tokens: 4000,
-    grammar,
+    // grammar,
   });
 
-  // let result = '';
-  // for await (const chunk of chatCompletion) {
-  //   // process.stdout.write(chunk.choices[0]?.delta?.content || '');
-  //   result += chunk.choices[0]?.delta?.content;
-  // }
+  let result = '';
+  for await (const chunk of chatCompletion) {
+    process.stdout.write(chunk.choices[0]?.delta?.content || '');
+    result += chunk.choices[0]?.delta?.content;
+  }
 
   // console.log(Date.now() - t);
-  let result = chatCompletion.choices[0].message.content!;
+  // let result = chatCompletion.choices[0].message.content!;
 
   log(result);
   log('\n');
@@ -105,12 +105,11 @@ async function 性别AI(message: string): Promise<[string[], string]> {
 
 async function 综合AI(message: string): Promise<[string[], string]> {
   const response = (await AI(
-    message,
-    `仔细阅读文章，为文章打标签，不要打不存在的标签，回复存在的标签组成的数组，使用 json 格式 string[]，如果没有任何符合的标签就回复一个空数组。可选的标签及定义如下：
+    `仔细阅读文章，为文章打标签。可选的标签及定义如下：
 性转：有使用药物或魔法改变了性别的角色
 伪娘：有男性角色穿女装。
 百合：有两名女性角色有亲密关系。
-BL：有两名男性角色有亲密关系。
+男同：有两名男性角色有亲密关系。
 娱乐：故事明确出现了酒吧、KTV、夜总会，俱乐部，夜店，会所这些场所。
 校园：故事发生在学校。
 古风：故事发生在中国封建时代。
@@ -122,11 +121,12 @@ BL：有两名男性角色有亲密关系。
 项圈：故事中的角色明确说明戴着项圈。
 淫纹：故事中的角色明确说明有淫纹，一种位于女性小腹部或下腹部的特殊图案。
 女仆：故事中明确说明有至少一个角色的身份是女仆。
-OL：故事中明确说明有至少一个角色的身份是上班族女性。
+OL：故事中明确说明有至少一个角色的身份是上班族女性。但不包括教师，医护人员，警察。
 魅魔：故事中明确说明有至少一个角色的身份是魅魔。
 修女：故事中明确说明有至少一个角色的身份是修女。
 魔法少女：故事中明确说明有至少一个角色的身份是魔法少女。
 警察：故事中明确说明有至少一个角色的身份是警察。`,
+    message,
     grammarTags,
   ))!;
   const matched = response.match(/\[.*]/);
@@ -136,6 +136,10 @@ OL：故事中明确说明有至少一个角色的身份是上班族女性。
   if (tags.includes('娱乐')) {
     _.pull(tags, '娱乐');
     tags.push('都市');
+  }
+  if (tags.includes('BL')) {
+    _.pull(tags, '男同');
+    tags.push('BL');
   }
 
   return [tags, ''];
