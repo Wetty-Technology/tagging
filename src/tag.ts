@@ -8,9 +8,10 @@ import grammarCharacters from './characters.gbnf';
 import grammarTags from './tags.gbnf';
 
 import { log } from './uitls';
+import jsonLoose from 'json-loose';
 
-const openai = new OpenAI();
-const limit = 16000;
+const openai = new OpenAI({});
+export const limit = 20000;
 
 export async function doTag(message: string, subject: string): Promise<[string[], any]> {
   // return [...(await 性别(message, subject))];
@@ -48,8 +49,8 @@ async function AI(system: string, user: string, grammar: any): Promise<string> {
   log('\n');
 
   let t = Date.now();
-  const chatCompletion = await openai.chat.completions.create(<OpenAI.Chat.ChatCompletionCreateParamsStreaming>{
-    model: '',
+  const chatCompletion = await openai.chat.completions.create(<OpenAI.Chat.ChatCompletionCreateParamsNonStreaming>{
+    model: 'Qwen/QwQ-32B:free',
     messages: [
       {
         role: 'system',
@@ -60,28 +61,32 @@ async function AI(system: string, user: string, grammar: any): Promise<string> {
         content: user,
       },
     ],
-    stream: true,
+    // provider: {
+    //   order: ["Nineteen"],
+    //   allow_fallbacks: false,
+    // },
+    // stream: true,
+    // include_reasoning: true,
     // logprobs:true,
     temperature: 0,
     seed: 0,
     max_completion_tokens: 4000,
-    // grammar,
+    grammar,
   });
 
-  let result = '';
-  for await (const chunk of chatCompletion) {
-    process.stdout.write(chunk.choices[0]?.delta?.content || '');
-    result += chunk.choices[0]?.delta?.content;
-  }
+  // let result = '';
+  // for await (const chunk of chatCompletion) {
+  //   process.stdout.write(chunk.choices[0]?.delta?.content || '');
+  //   result += chunk.choices[0]?.delta?.content;
+  // }
 
-  // console.log(Date.now() - t);
-  // let result = chatCompletion.choices[0].message.content!;
+  let result = chatCompletion.choices[0].message.content!;
 
   log(result);
   log('\n');
   log('\n');
 
-  result = result.replace(/<think>[.\n]*<\/think>/, '').trim();
+  result = result.replace(/<think>(.|\n)*<\/think>/, '').trim();
 
   return result;
 }
@@ -107,40 +112,50 @@ async function 综合AI(message: string): Promise<[string[], string]> {
   const response = (await AI(
     `仔细阅读文章，为文章打标签。可选的标签及定义如下：
 性转：有使用药物或魔法改变了性别的角色
-伪娘：有男性角色穿女装。
-百合：有两名女性角色有亲密关系。
-男同：有两名男性角色有亲密关系。
+伪娘：有男性角色穿女装。女扮男装不算。
+百合：有两名女性角色有亲密关系、主奴关系或性相关行为。
+男同：有两名男性角色有亲密关系、主奴关系或性相关行为。
 娱乐：故事明确出现了酒吧、KTV、夜总会，俱乐部，夜店，会所这些场所。
-校园：故事发生在学校。
-古风：故事发生在中国封建时代。
-科幻：故事发生在未来，有超过现代的科技。
-玄幻：故事发生在古代，存在武功、玄幻、修仙元素。
+校园：主要故事情节发生在学校内。
+古风：故事发生在中国封建王朝时代，民国时代（旧社会）不算。
+科幻：故事中含有较多科技元素。
+玄幻：故事发生在古代，存在武侠、武功、玄幻、修仙元素。
+武侠：故事发生在古代，存在武侠、武功、玄幻、修仙元素。
 皇宫：故事发生在皇宫内。
 贞操带：故事中含有贞操带，或其他防止性行为的装置。
-拘束：故事中含有捆绑或其他使用道具限制角色四肢行动能力的行为。
-项圈：故事中的角色明确说明戴着项圈。
-淫纹：故事中的角色明确说明有淫纹，一种位于女性小腹部或下腹部的特殊图案。
-女仆：故事中明确说明有至少一个角色的身份是女仆。
-OL：故事中明确说明有至少一个角色的身份是上班族女性。但不包括教师，医护人员，警察。
-魅魔：故事中明确说明有至少一个角色的身份是魅魔。
-修女：故事中明确说明有至少一个角色的身份是修女。
-魔法少女：故事中明确说明有至少一个角色的身份是魔法少女。
-警察：故事中明确说明有至少一个角色的身份是警察。`,
+拘束：故事中含有捆绑或限制手脚行动能力的行为。
+项圈：故事中的主要角色明确说明戴着项圈。
+淫纹：故事中的主要角色明确说明有淫纹，一种位于女性小腹部或下腹部的特殊图案。
+职场女性：主要故事情节发生在职场，且故事中明确说明有至少一个主要角色的身份是上班族女性。但不包括教师，医护人员，警察。
+魅魔：故事中明确说明有至少一个主要角色的身份是魅魔。
+修女：故事中明确说明有至少一个主要角色的身份是修女。
+魔法少女：故事中明确说明有至少一个主要角色的身份是魔法少女。
+警察：故事中明确说明有至少一个主要角色的身份是警察或警校生。
+
+输出为 json object 格式，key 为标签名，value 为 boolean 表示这篇文章是否包含这个标签。
+如果包含多个故事，合并处理。`,
     message,
     grammarTags,
   ))!;
-  const matched = response.match(/\[.*]/);
-  const tags = JSON.parse(matched![0]);
-  // const tags = res.result;
-  if (tags.includes('皇宫') || tags.includes('玄幻')) _.pull(tags, '古风');
+  const matched = response.match(/\{(.|\n)*}/);
+
+  const obj = JSON.parse(jsonLoose(matched![0]));
+  const tags = Object.keys(obj).filter((key) => obj[key]);
   if (tags.includes('娱乐')) {
     _.pull(tags, '娱乐');
     tags.push('都市');
   }
-  if (tags.includes('BL')) {
+  if (tags.includes('男同')) {
     _.pull(tags, '男同');
     tags.push('BL');
   }
+  if (tags.includes('职场女性')) {
+    _.pull(tags, '职场女性');
+    tags.push('OL');
+  }
+
+  if (message.includes('女仆')) tags.push('女仆');
+  // const tags = res.result;
 
   return [tags, ''];
 }

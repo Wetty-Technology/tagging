@@ -10,7 +10,7 @@ import * as _ from 'lodash-es';
 import { PreForumCollection } from '../import/entities/PreForumCollection';
 import { PreForumCollectionthread } from '../import/entities/PreForumCollectionthread';
 import { clean } from './uitls';
-import { doTag } from './tag';
+import { doTag, limit } from './tag';
 // import { doTag } from './tag';
 
 (async function main() {
@@ -54,7 +54,10 @@ import { doTag } from './tag';
     where: { typeid: In([21, 546, 22, 3, 547, 4, 65, 548, 66, 1, 2]), displayorder: MoreThanOrEqual(0) },
     order: { dateline: 'ASC' },
   });
-  const forum_collections = await dataSource.manager.find(PreForumCollection);
+  const forum_collections = await dataSource.manager.find(PreForumCollection, {
+    where: { ctid: Between(1, 50) },
+    order: { ctid: 'ASC' },
+  });
   const forum_collectionthreads = await dataSource.manager.find(PreForumCollectionthread);
 
   // series
@@ -212,20 +215,29 @@ import { doTag } from './tag';
 
   // const ctags: [];
 
-  for (const collection of forum_collections.filter((c) => c.ctid <=100)) {
+  for (const collection of forum_collections) {
     const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
 
     const messages: string[] = [];
     const threads1 = tids.map((tid) => threads2.find((t) => t.tid == tid)!);
     for (const thread of threads1) {
       const posts = await dataSource.manager.findBy(PreForumPost, { tid: thread.tid, authorid: thread.authorid });
-      messages.push(...clean(posts));
+      messages.push(clean(posts).join('\n') + '\n');
     }
     if (!messages.length) continue;
-    const full = messages.join('\n');
 
-    const oldTags = collection.keyword.split(',').filter(s=>s);
-    const [newTags, info] = await doTag(full, threads1.map((t) => t.subject).join());
+    const oldTags = collection.keyword.split(',').filter((s) => s);
+    let newTags: string[] = [];
+    for (const piece of merge(messages, limit)) {
+      const [newTags1, info] = await doTag(piece, threads1.map((t) => t.subject).join());
+      newTags.push(...newTags1);
+    }
+    newTags = _.uniq(newTags);
+    if (newTags.includes('皇宫') || newTags.includes('玄幻')) _.pull(newTags, '古风');
+    if (newTags.includes('武侠')) {
+      _.pull(newTags, '武侠');
+      if (!newTags.includes('玄幻')) newTags.push('玄幻');
+    }
 
     if (_.xor(oldTags, newTags).length == 0) {
       pass++;
@@ -238,7 +250,7 @@ import { doTag } from './tag';
     console.log(`https://www.shireyishunjian.com/main/forum.php?mod=collection&action=view&ctid=${collection.ctid}`);
     console.log(`${collection.keyword}=>${newTags.join()}`);
     console.log(`${pass / (pass + fail)}`);
-    console.log(info);
+    // console.log(info);
     console.log('');
 
     collection.keyword = newTags.join();
@@ -291,3 +303,14 @@ import { doTag } from './tag';
   console.log('all done');
   process.exit();
 })();
+
+function merge(messages: string[], limit: number) {
+  return messages.reduce((result: string[], current) => {
+    if (result.length > 0 && result[result.length - 1].length + current.length <= limit) {
+      result[result.length - 1] += current;
+    } else {
+      result.push(current);
+    }
+    return result;
+  }, []);
+}

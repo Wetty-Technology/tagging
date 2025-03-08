@@ -1,12 +1,33 @@
 root ::= ("<think>\n"
-[^<]{0,1000}
+[^<]{0, 4000}
 "</think>\n"
 "\n"
 "```json\n"
-(array "\n")
+(object "\n")
 "```"
 )
-array ::= "[" items? "]"
-items ::= item (", " item)*
-item ::= "\"" tag "\""
-tag ::= "性转" | "伪娘" | "百合" | "BL" | "娱乐" | "校园" | "古风" | "科幻" | "玄幻" | "皇宫" | "贞操带" | "拘束" | "项圈" | "淫纹" | "女仆" | "OL" | "魅魔" | "修女" | "魔法少女" | "警察"
+object ::= ("{\n"
+"  \"性转\": " boolean ",\n"
+"  \"伪娘\": " boolean ",\n"
+"  \"百合\": " boolean ",\n"
+"  \"男同\": " boolean ",\n"
+"  \"娱乐\": " boolean ",\n"
+"  \"校园\": " boolean ",\n"
+"  \"古风\": " boolean ",\n"
+"  \"科幻\": " boolean ",\n"
+"  \"玄幻\": " boolean ",\n"
+"  \"武侠\": " boolean ",\n"
+"  \"皇宫\": " boolean ",\n"
+"  \"贞操带\": " boolean ",\n"
+"  \"拘束\": " boolean ",\n"
+"  \"项圈\": " boolean ",\n"
+"  \"淫纹\": " boolean ",\n"
+"  \"职场女性\": " boolean ",\n"
+"  \"魅魔\": " boolean ",\n"
+"  \"修女\": " boolean ",\n"
+"  \"魔法少女\": " boolean ",\n"
+"  \"警察\": " boolean "\n"
+"}")
+
+
+boolean ::= "true" | "false"
