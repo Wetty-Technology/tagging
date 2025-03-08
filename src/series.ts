@@ -28,13 +28,17 @@ export async function series(threads: PreForumThread[]): Promise<Record<string, 
   const stream = await openai.chat.completions.create(<OpenAI.Chat.ChatCompletionCreateParamsStreaming>{
     model: '',
     messages: [
-      {
-        role: 'system',
-        content: system,
-      },
+      // {
+      //   role: 'system',
+      //   content: system,
+      // },
       {
         role: 'user',
-        content: user,
+        content: `${system}
+<document>
+${user}
+</document>
+`,
       },
     ],
     temperature: 0,
@@ -60,29 +64,7 @@ export async function series(threads: PreForumThread[]): Promise<Record<string, 
       .matchAll(/\*\*(.+)系列\*\*\n((?:.+\n)+)\n/g)
       .map((m) => [m[1], threads.filter((t) => m[2].includes(t.subject))] as const)
       .filter(([, t]) => t.length >= 2)
-      .filter(
-        ([s]) =>
-          ![
-            '憋尿',
-            '尿裤',
-            '尿裤子',
-            '尿',
-            '失禁',
-            '真实',
-            '真实经历',
-            'BL',
-            'bl',
-            '古风bl',
-            '男憋',
-            '小',
-            '同人',
-            '隨筆',
-            '随笔',
-            '男女都有'
-          ].includes(s),
-      )
-      .map(
-        ([s, t]) => [t.filter((t) => t.subject.includes('系列')).length >= t.length / 2 ? `${s}系列` : s, t] as [string, PreForumThread[]],
-      ),
+      .filter(([s]) => !['憋尿', '尿裤', '尿裤子', '尿', '失禁', '真实', '真实经历', 'BL', 'bl', '古风bl', '男憋', '小', '同人', '隨筆', '随笔', '男女都有'].includes(s))
+      .map(([s, t]) => [t.filter((t) => t.subject.includes('系列')).length >= t.length / 2 ? `${s}系列` : s, t] as [string, PreForumThread[]]),
   );
 }

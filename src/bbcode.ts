@@ -2,8 +2,8 @@ import { createPreset } from '@bbob/preset';
 import type { TagNodeObject } from '@bbob/types';
 import { html } from '@bbob/html';
 
-const removeTags = ['attachimg', 'attach', 'img', 'flash', 'hr', 'index', 'table', 'quote'];
-const keepTags = ['b', 'i', 'u', 's', 'code', 'color', 'backcolor', 'hide', 'free', 'p', 'align', 'list', 'float', 'url', 'font', 'size'];
+const removeTags = ['attachimg', 'attach', 'img', 'flash', 'hr', 'index'];
+const keepTags = ['b', 'i', 'u', 's', 'code', 'color', 'backcolor', 'hide', 'free', 'p', 'align', 'list', 'float', 'url', 'font', 'size', 'table', 'tr', 'td', 'quote'];
 
 const preset = createPreset(Object.fromEntries(removeTags.map((tag) => [tag, (_) => <TagNodeObject>(<unknown>null)])));
 
