@@ -238,6 +238,7 @@ import { parse } from 'csv/sync';
       if (!newTags.includes('玄幻')) newTags.push('玄幻');
     }
     if (newTags.includes('皇宫') || newTags.includes('玄幻')) _.pull(newTags, '古风');
+    if (newTags.includes('皇宫') || newTags.includes('玄幻') || newTags.includes('古风')) _.pull(newTags, '警察');
 
     const subkeywords = records.find((r) => r.ctid == collection.ctid)!.subkeyword.split(',');
 
