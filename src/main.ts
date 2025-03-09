@@ -11,6 +11,8 @@ import { PreForumCollection } from '../import/entities/PreForumCollection';
 import { PreForumCollectionthread } from '../import/entities/PreForumCollectionthread';
 import { clean } from './uitls';
 import { doTag, limit } from './tag';
+import * as fs from 'node:fs';
+import { parse } from 'csv/sync';
 // import { doTag } from './tag';
 
 (async function main() {
@@ -63,16 +65,14 @@ import { doTag, limit } from './tag';
   // series
 
   //
-  // const records: {
-  //   tid: number;
-  //   name: string;
-  //   author: string;
-  //   ignore: number;
-  // }[] = parse(await fs.promises.readFile('series.csv'), {
-  //   columns: true,
-  //   skip_empty_lines: true,
-  //   cast: true,
-  // });
+  const records: {
+    ctid: number;
+    subkeyword: string;
+  }[] = parse(fs.readFileSync('collectionkeyword.csv'), {
+    columns: true,
+    skip_empty_lines: true,
+    cast: true,
+  });
   //
   //
   // const result: { tid: number; subject: string; name: string; author: string }[] = [];
@@ -233,13 +233,15 @@ import { doTag, limit } from './tag';
       newTags.push(...newTags1);
     }
     newTags = _.uniq(newTags);
-    if (newTags.includes('皇宫') || newTags.includes('玄幻')) _.pull(newTags, '古风');
     if (newTags.includes('武侠')) {
       _.pull(newTags, '武侠');
       if (!newTags.includes('玄幻')) newTags.push('玄幻');
     }
+    if (newTags.includes('皇宫') || newTags.includes('玄幻')) _.pull(newTags, '古风');
 
-    if (_.xor(oldTags, newTags).length == 0) {
+    const subkeywords = records.find((r) => r.ctid == collection.ctid)!.subkeyword.split(',');
+
+    if (_.xor(_.difference(oldTags, subkeywords), _.difference(newTags, subkeywords)).length == 0) {
       pass++;
       console.log(`${pass / (pass + fail)}`);
       continue;
