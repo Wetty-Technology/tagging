@@ -82,6 +82,8 @@ async function AI(system: string, user: string, grammar: any): Promise<string> {
 
   let result = chatCompletion.choices[0].message.content!;
 
+  console.log(Date.now() - t);
+
   log(result);
   log('\n');
   log('\n');
@@ -117,7 +119,7 @@ async function 综合AI(message: string): Promise<[string[], string]> {
 男同：有两名男性角色有亲密关系、主奴关系或性相关行为。
 娱乐：故事明确出现了酒吧、KTV、夜总会，俱乐部，夜店，会所这些场所。餐馆不算。
 校园：主要故事情节发生在学校内。
-古代：故事发生在中国封建王朝时代，民国时代（旧社会）不算。
+古代：主要故事情节发生在中国封建王朝时代，民国时代（旧社会）不算。
 科幻：故事中含有较多未来科技元素，超能力不算。
 玄幻：故事发生在古代，存在玄幻、修仙元素。
 武侠：故事发生在古代，存在武侠、武功元素。或者由武侠小说改编。

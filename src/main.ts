@@ -57,7 +57,7 @@ import { parse } from 'csv/sync';
     order: { dateline: 'ASC' },
   });
   const forum_collections = await dataSource.manager.find(PreForumCollection, {
-    where: { ctid: Between(1, 50) },
+    where: { ctid: Between(2, 2) },
     order: { ctid: 'ASC' },
   });
   const forum_collectionthreads = await dataSource.manager.find(PreForumCollectionthread);
