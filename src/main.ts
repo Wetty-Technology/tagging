@@ -226,11 +226,14 @@ import { parse } from 'csv/sync';
     }
     if (!messages.length) continue;
 
-    const oldTags = collection.keyword.split(',').filter((s) => s);
+    let oldTags = collection.keyword.split(',').filter((s) => s);
     let newTags: string[] = [];
     for (const piece of merge(messages, limit)) {
-      const [newTags1, info] = await doTag(piece, threads1.map((t) => t.subject).join());
-      newTags.push(...newTags1);
+      for(let i=0; i<10;i++){
+        const [newTags1, info] = await doTag(piece, threads1.map((t) => t.subject).join());
+        console.log(newTags1);
+        newTags.push(...newTags1);
+      }
     }
     newTags = _.uniq(newTags);
     if (newTags.includes('武侠')) {
@@ -241,6 +244,9 @@ import { parse } from 'csv/sync';
     if (newTags.includes('皇宫') || newTags.includes('玄幻') || newTags.includes('古风')) _.pull(newTags, '警察');
 
     const subkeywords = records.find((r) => r.ctid == collection.ctid)!.subkeyword.split(',');
+
+    oldTags = _.intersection(oldTags, ['拘束','贞操带'])
+    newTags = _.intersection(newTags, ['拘束','贞操带'])
 
     if (_.xor(_.difference(oldTags, subkeywords), _.difference(newTags, subkeywords)).length == 0) {
       pass++;
