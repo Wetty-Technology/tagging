@@ -215,6 +215,7 @@ import { parse } from 'csv/sync';
 
   // const ctags: [];
 
+  let index = 0;
   for (const collection of forum_collections) {
     const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
 
@@ -229,12 +230,15 @@ import { parse } from 'csv/sync';
     let oldTags = collection.keyword.split(',').filter((s) => s);
     let newTags: string[] = [];
     for (const piece of merge(messages, limit)) {
-      for(let i=0; i<10;i++){
+      console.log(index++, collection.ctid);
+      continue;
+      // for(let i=0; i<10;i++){
         const [newTags1, info] = await doTag(piece, threads1.map((t) => t.subject).join());
         console.log(newTags1);
         newTags.push(...newTags1);
-      }
+      // }
     }
+    continue;
     newTags = _.uniq(newTags);
     if (newTags.includes('武侠')) {
       _.pull(newTags, '武侠');
