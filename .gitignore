@@ -2,3 +2,6 @@
 /dist/
 /node_modules/
 /.log.txt
+/collectionkeyword.csv
+/log.txt
+/stdout

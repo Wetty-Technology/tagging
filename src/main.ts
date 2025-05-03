@@ -218,6 +218,7 @@ import { parse } from 'csv/sync';
   let index = 0;
   for (const collection of forum_collections) {
     const tids = forum_collectionthreads.filter((ct) => ct.ctid == collection.ctid).map((ct) => ct.tid);
+    const subkeywords = records.find((r) => r.ctid == collection.ctid)!.subkeyword.split(',');
 
     const messages: string[] = [];
     const threads1 = tids.map((tid) => threads2.find((t) => t.tid == tid)!);
@@ -231,14 +232,15 @@ import { parse } from 'csv/sync';
     let newTags: string[] = [];
     for (const piece of merge(messages, limit)) {
       console.log(index++, collection.ctid);
-      continue;
-      // for(let i=0; i<10;i++){
-        const [newTags1, info] = await doTag(piece, threads1.map((t) => t.subject).join());
+      // continue;
+      for(let i=0; i<4;i++){
+        let [newTags1, info] = await doTag(piece, threads1.map((t) => t.subject).join());
+        newTags1 = _.difference(newTags1, subkeywords)
         console.log(newTags1);
         newTags.push(...newTags1);
-      // }
+      }
     }
-    continue;
+    // continue;
     newTags = _.uniq(newTags);
     if (newTags.includes('武侠')) {
       _.pull(newTags, '武侠');
@@ -247,7 +249,6 @@ import { parse } from 'csv/sync';
     if (newTags.includes('皇宫') || newTags.includes('玄幻')) _.pull(newTags, '古风');
     if (newTags.includes('皇宫') || newTags.includes('玄幻') || newTags.includes('古风')) _.pull(newTags, '警察');
 
-    const subkeywords = records.find((r) => r.ctid == collection.ctid)!.subkeyword.split(',');
 
     oldTags = _.intersection(oldTags, ['拘束','贞操带'])
     newTags = _.intersection(newTags, ['拘束','贞操带'])
