@@ -14,6 +14,7 @@
 | 酒店 | [在G7-G11中，Z市的五星级酒店是主要故事发生地。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315993) |
 | OL | [故事背景设定在G公司，主要角色小凌、李娜、张宜等均为公司职员（财务部、人事部、市场部等）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315986) |
 | 性工作者 | [角色乐乐在夜总会工作，被描述为“新来的”、“培训过”、“客人是上帝”，符合性工作者定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
+| 学生 | [校园番外完整围绕中学二年级学生小凌在晚自习、宿舍和废校舍中的憋尿自拍展开，学生身份与校园生活共同构成角色塑造和冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
 | 特工 | [小志和斯琪被明确设定为卧底警察/特工，执行保护证人、监视、潜入等秘密任务。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 淑女 | [在电梯故障被困场景中，李娜为了在男同事面前维持形象，不敢直接表达尿意，而是通过暗示和向女同事求助卫生巾来掩饰，体现了因羞于暴露私密需求而主动隐瞒并忍耐的特征。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315990) |
 | 萝莉 | [在《激忍档案番外篇（校园）》中，主角小凌被明确设定为“Z中学二年级学生”，符合定义中“初中低年级等低龄少女型角色”及“正文明确写‘初中一/二年级’”的条件。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
@@ -96,6 +97,7 @@
 | 标签 | 理由 |
 | --- | --- |
 | 校园 | [故事核心场景完全设定在男校内部，详细描写了教室上课、走廊行走、食堂午餐等校园生活细节，以及师生、同学间的互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
+| 学生 | [小芸因女校课程安排被送到男校旁听，选课、课堂、同年级向导和“唯一女生”身份共同造成了无女厕的核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 单人 | [故事核心情节围绕女主角小芸独自应对膀胱压力展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 淑女 | [文中明确描写小芸因身为唯一女生感到害羞，且“一个女孩子实在没有办法向一个男生开口问这个问题”，为了维持形象而主动隐瞒尿意并忍耐，符合定义中‘因羞于向他人提及...而主动隐瞒并继续忍耐’的核心要素。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 女憋 | [全文核心情节围绕女主角小芸在男校因无女厕而被迫长时间憋尿展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
@@ -109,6 +111,7 @@
 | 标签 | 理由 |
 | --- | --- |
 | 体育 | [正文明确交代主角蒋小雯从小学三年级开始参加芭蕾舞训练，已持续7年，且故事核心背景为‘汇报演出’兼‘芭蕾舞比赛’，旨在选拔节目参加全国比赛。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
+| 学生 | [十七岁的高一学生小雯作为市一中舞蹈队成员代表学校参加芭蕾比赛，学生和校队身份是演出冲突的明确人物框架。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 女憋 | [全文核心情节围绕女主角蒋小雯被下药后在芭蕾舞演出中极度憋尿直至失禁的过程展开，详细描写了生理反应、心理挣扎及最终尿裤子的场景，完全符合定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 虐待 | [文中明确描述了张莉和王薇联合起来对付小雯，在奶茶中秘密加入利尿剂，并故意锁住厕所门阻止其如厕。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 羞耻 | [文中明确描写了小雯在失禁瞬间的心理活动：“她担心自己在舞台上出丑，甚至胜过担心自己的膀胱被憋破”，以及“几乎被这一突发事件惊晕过去”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
@@ -121,6 +124,7 @@
 | 标签 | 理由 |
 | --- | --- |
 | 公共厕所 | [故事中，主角小玉和小红在游乐场寻找厕所，最终发现只有“流动厕所”（公共厕所）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=26) |
+| 学生 | [小玉被塑造成已有小学失禁经历的初二学生，“已经初二、不能再尿裤子”的自我要求和姐姐形象持续加重她的羞耻与忍耐。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=26) |
 | 萝莉 | [文中明确设定小玉为“初中二年级的学生”，小红为“四年纪”学生，且文中出现“LOLI迷”等描述，符合萝莉标签关于低龄少女型角色的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=26) |
 | 淑女 | [文中明确描写小玉为了“保持自己在妹妹心中的形象”、“不想露出尿急的样子”，在自身也尿急的情况下，对妹妹说“姐姐不急”并教导妹妹“女孩子就是有时候要会憋”，体现了为了维持端庄形象而主动隐瞒需求并忍耐的行为，符合淑女标签定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=26) |
 | 女憋 | [全文核心情节围绕小玉和小红两位女性角色因饮水过多、寻找厕所困难而导致的憋尿过程展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=26) |
@@ -135,10 +139,11 @@
 | 标签 | 理由 |
 | --- | --- |
 | 校园 | [故事核心冲突（尿裤子）完全发生在小学课堂及校园环境中。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
-| 教师 | [文中详细描写了老师作为课堂权威（‘学校的铃声，是老师命令’），其点名行为直接导致主角因紧张而尿裤子，且主角为了获得老师的表扬而刻意忍耐生理需求。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
+| 学生 | [小丫作为小学生，为取得老师公开表扬而放弃课间如厕，并因上课纪律不敢离席，学生身份直接决定了核心失禁冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 萝莉 | [正文明确指出主角小丫在事件发生时是‘五、六岁的孩子’，属于幼女/低龄少女型角色，符合‘明确把主要癖好角色设定为幼女...等低龄少女型角色’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 淑女 | [主角小丫为了维持‘乖孩子’、‘出众’的形象，以及避免被同学耻笑（维护尊严/形象），在极度尿意下选择隐瞒并忍耐，甚至用抹布试图掩盖。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 单人 | [故事核心情节为小丫独自面对尿意，因心理因素（想获得老师表扬、害怕迟到）选择忍耐，最终在无人直接命令或控制的情况下自行失控尿裤。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
+| 师生 | [小丫为了获得老师当众表扬而放弃课间如厕，并把上课铃和老师点名视为必须服从的命令；师生评价权持续支配她的忍耐与失禁冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 女憋 | [全文围绕女主角小丫在小学时期因追求老师表扬而刻意憋尿，最终导致尿裤子的经历展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 羞耻 | [文本详细描写了小丫尿裤子后强烈的羞耻感：她试图用抹布掩盖、担心被同学耻笑、被姐姐发现后脸涨红、躲进桌下躲避目光，以及多年后仍记得那种“无地自容”和“耻辱”的感觉。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 尿失禁 | [文中详细描写了主角小丫因极度憋尿导致身体失控，尿液‘突袭成功’且‘无法阻挡’，属于非自愿的排尿行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
@@ -151,9 +156,10 @@
 | 剧情向 | [作品具有完整的悬疑犯罪叙事结构，包含绑架、心理博弈、反杀、连环失踪案调查等强剧情元素。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098794) |
 | 多结局 | [作品明确提供了三个不同的结局（结局一：泡沫的塞壬；结局二：深渊的潮汐；结局三：鲜血的结末），分别对应不同的故事走向和人物命运，符合多结局定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098149) |
 | 悬疑 | [故事包含明显的悬疑和反转结构。前半部分看似是男主视角的绑架拘禁，后半部分（结局B和C）揭示了女主千倾的冷静反杀计划（电容陷阱），以及辅导员陈汐作为连环失踪案真凶的隐藏身份。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098148) |
-| 校园 | [故事背景设定在大学期间，主要角色均为大学生（郭文潜、千倾、白雨等）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098132) |
+| 校园 | [陈汐在学校内调取全校学生假期去向登记表追查千倾，作品还持续描写教学楼、宿舍与辅导员管理，校园制度直接推动了失踪调查。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
 | 犯罪 | [故事核心情节涉及非法拘禁、绑架、性暴力威胁、以及后续的谋杀/反杀。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098134) |
 | 教师 | [角色陈汐具有明确的教师身份（辅导员/陈老师），且在结局B和C中，他利用教师身份获取信任并直接实施了针对女主的暴力犯罪（强奸、谋杀），是核心冲突和悲剧结局的直接制造者，符合定义中‘直接塑造核心关系或冲突’的要求。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098155) |
+| 学生 | [千倾、郭文潜等大学生的宿舍、同学网络和假期去向登记持续参与叙事，学生身份还使陈汐能够利用辅导员权限追查千倾。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
 | 病娇 | [男主郭文潜表现出极端的占有欲、控制欲和伤害行为（绑架、监禁、侮辱），以“爱”为名实施犯罪，符合病娇定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098134) |
 | BG | [文中郭文潜（男）对千倾（女）实施了绑架、拘束、强制灌尿、性羞辱及性侵犯等行为，男性处于绝对的主动进攻和控制地位，女性为承受方，完全符合BG定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
 | 单恋 | [故事开篇及前期大量篇幅描写男主郭文潜对女主千倾的单向痴迷、跟踪及幻想，且女主初期并不知晓或回应这种感情。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098132) |
@@ -206,6 +212,7 @@
 | 校园 | [故事开篇及前半部分核心情节发生在大学课堂及学校厕所，涉及上课、下课、同学互动等校园生活细节，且“在学校憋尿/自慰”是构建角色羞耻感和剧情张力的关键场景，符合校园标签定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 公共交通 | [文中详细描写了主角在地铁上因憋尿和发情产生的生理反应、心理活动以及与主人的互动（打字交流、被命令自慰），该场景构成了故事中段的重要情节单元，符合‘封闭乘行与乘客风险构成主要场景’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 浴室 | [浴室场景在文中多次出现且篇幅较长。包括七海在办公室浴室冲洗、两人回家后一起洗澡（涉及脱衣、淋浴刺激尿意、惩罚互动）、以及后续在浴室磨蹭等。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
+| 学生 | [作品明确以“作为一个学生”强调小花茶在大学课堂和学校厕所依主人命令憋尿、视频自慰，学生身份与公共环境的反差是玩法重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 淑女 | [文中反复强调“淑女”这一概念作为核心调教规则。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 女憋 | [全文核心情节围绕女主角小花茶在主人七海的指令下进行憋尿训练展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 百合 | [作品核心围绕两名女性角色（七海与小花茶）之间的BDSM主奴关系展开，包含明确的性吸引、性互动（如隔着贞操带摩擦、互相自慰、体液交换等）以及情感依赖。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
