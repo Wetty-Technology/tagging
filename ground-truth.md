@@ -1428,7 +1428,7 @@
 | 科幻 | [基因改良、神经软件、仿生义肢和信息素技术持续支撑核心世界观。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
 | 瘟疫 | [具有尿液接触传播线索的尿布依存症形成不断增加的感染群体并影响政府管控。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351467) |
 | 特工 | [主要角色接受组织派遣，执行渗透敌方、营救间谍和保护秘密的行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
-| 赛博格 | [主要角色的神经连接机械耳、尾和替换四肢持续影响身体、身份及任务。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
+| 义体 | [主要角色的神经连接机械耳、尾和替换四肢持续影响身体、身份及任务。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
 | 女 | [女性主角韩安妮从童年起主动穿尿布并故意弄湿，作品又持续从她的经历和身体改造展开尿布依存题材。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
 | 尿布 | [主角童年主动穿戴并彻底弄湿尿布，尿布依存又是全篇疾病与阵营核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
 | 年龄变小 | [感染使人实际变成低幼者，变化后的儿童状态与社会位置构成主要冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
