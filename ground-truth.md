@@ -853,11 +853,11 @@
 | 尿失禁 | [开篇即以一整场非自愿大量排尿失控（尿液决堤、湿透裤鞋、地上积尿、当事人崩溃大哭）作为全文起点，视角完整停留；失禁体质此后持续构成主线设定。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2414839) |
 | 尿裤子 | [开篇失禁明确使普通外裤和鞋子湿透，尿液穿过尿布后实际浸湿所穿衣物，且湿裤结果是该完整场景的视觉与羞耻焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2414839) |
 | 尿床 | [睡眠中排尿是叶一状况的核心表现：假期独自在家尿床成为推动攻赶去陪伴的情节，年夜后一章完整写了尿透隔尿垫与攻睡裤、被叫醒后的羞耻与安抚，前史章节也说明夜间失禁是纸尿裤的起因。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2418845) |
-| 幼态化 | [远超“仅因失禁而穿尿布”：奶嘴、奶瓶奶粉、定制儿童床与卡通壁纸、抱走喂饭、讲故事哄睡、婴语称呼与自称“一一”，由攻与其父母共同持续维持的年龄退行式照护是作品主要关系与玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2424199) |
+| 退行 | [远超“仅因失禁而穿尿布”：奶嘴、奶瓶奶粉、定制儿童床与卡通壁纸、抱走喂饭、讲故事哄睡、婴语称呼与自称“一一”，由攻与其父母共同持续维持的年龄退行式照护是作品主要关系与玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2424199) |
 | 尿布 | [穿戴、尿湿、检查、更换、依赖纸尿裤（含夜用型、拉拉裤、尿布兜、隔尿垫）是全篇主线设定与核心玩法，几乎每章都有完整的更换场景，并有专章交代其来历。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2414839) |
 | 排泄管理 | [照护者把每日换尿布、定时排便、如厕协助、夜间检查与清理作为持续机制管理同一角色的排泄。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2417793) |
-| 奶嘴 | [安抚奶嘴由非婴幼儿角色反复实际含用，是入睡、安抚与幼态化控制的固定道具，多章出现并被用来交换条件（不乖就当着表妹换尿布）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2430234) |
-| 奶瓶 | [冲奶粉、用奶瓶喂奶是每日固定照护环节，与幼态化和攻的照顾者身份直接绑定，多章反复出现。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2424199) |
+| 奶嘴 | [安抚奶嘴由非婴幼儿角色反复实际含用，是入睡、安抚与退行控制的固定道具，多章出现并被用来交换条件（不乖就当着表妹换尿布）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2430234) |
+| 奶瓶 | [冲奶粉、用奶瓶喂奶是每日固定照护环节，与退行和攻的照顾者身份直接绑定，多章反复出现。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2424199) |
 | 泌乳 | [「番外一（攻产奶设定）」是一个完整独立故事单元，全篇即围绕男性角色开始分泌乳汁、乳汁喷涌、次日涨奶胀痛并需被吸出展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
 | 乳房 | [攻的胸部/乳头被反复凝视与刺激：受睡觉必须摸胸、无意识吮吸、揉捏乳头，番外整篇以乳头外观、吸吮触感与涨痛为核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
 | 乳汁 | [乳汁的产生、流量、饮用和排出本身是番外的核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
@@ -999,7 +999,7 @@
 | 百合 | [小瑄、小月等本性女性角色之间有持续的亲密与性关系，包括姐妹互相性刺激、哺乳、共同生活和照护依恋；无需依赖雨希处于伪娘状态时的互动即可独立成立。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1957296) |
 | 骨科 | [亲姐妹小瑄与小月长期互为宝宝与照护者，并在多个完整场景中直接刺激彼此性器、舔舐和达到高潮，已是明确近亲性关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 人口贩卖 | [雨臣回忆自己十二岁被弃置于黑市“人口交易商店”、等待被转送，交易受害者身份随后解释其长期关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
-| 虐童 | [大量明确未成年角色遭家庭殴打、秘密下药、拘束、性刺激、羞辱和强迫幼态化，且这些事件是全作主要内容。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
+| 虐童 | [大量明确未成年角色遭家庭殴打、秘密下药、拘束、性刺激、羞辱和强迫退行，且这些事件是全作主要内容。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | 强迫 | [角色反复在拒绝后被下药、绑住、威胁公开影像、阻止离开或强行实施排泄和幼态玩法，后续产生快感不抹去最初非自愿控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1907017) |
 | 心理创伤 | [爱丽丝因既往囚禁和悲惨遭遇持续不信任他人、重构关系并在后续反复表现防备与依恋障碍，创伤不是一次说明后消失。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3306617) |
 | 活体实验 | [调整体、危险药物、永久神经破坏和人体改造被实际用于活人并作为研究或报复流程展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3331140) |
@@ -1046,7 +1046,7 @@
 | 把尿 | [角色被托住双腿或固定在儿童便盆上排尿，协助姿势、嘘声、尿流和羞耻在多个完整场景中成为重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1955558) |
 | 腹部按压 | [照护者反复揉按或突然用力压迫下腹和膀胱体表，以制造尿急、促使排尿或让憋尿角色失守。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 泻药 | [软便剂被秘密加入果冻并实际造成急迫便意及尿布排便，使用与后果均明确。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
-| 幼态化 | [尿布、婴儿服、婴语、爬行、奶嘴奶瓶、婴儿床和终生幼儿园由他人或制度持续维持，是全作最主要的关系与控制玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3248474) |
+| 退行 | [尿布、婴儿服、婴语、爬行、奶嘴奶瓶、婴儿床和终生幼儿园由他人或制度持续维持，是全作最主要的关系与控制玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3248474) |
 | 尿布 | [穿戴、尿湿、弄脏、检查、更换、公开隐藏和依赖尿布贯穿全作，几乎每条人物线都有完整使用场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | 成人宝宝 | [乐园明确为成年 AB/DL 参与者设置长期宝宝身份与生活区，成年角色也持续以婴儿身份接受尿布和照护。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 | 年龄扮演 | [成年参与者在宝宝日和乐园生活中明确知道自己在主动扮演更小年龄身份，并持续自称宝宝、认同照护规则。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
@@ -1465,7 +1465,7 @@
 | 骨科 | [兄弟身份在私密尿布愿望、幼态照护和湿尿布摄影中不可替代，形成强烈近亲编码。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 羞耻 | [弟弟因幼儿用品爱好被发现、说出口和拍照而反复脸红难堪。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 主动 | [弟弟此前已反复主动寻找纸尿裤、购买奶嘴并期待穿着体验，最终也开心参与。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
-| 幼态化 | [哥哥跨越超市和家庭场景，以宝宝称谓、纸尿裤、宝宝袜、奶粉和奶瓶塑造年龄退行玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
+| 退行 | [哥哥跨越超市和家庭场景，以宝宝称谓、纸尿裤、宝宝袜、奶粉和奶瓶塑造年龄退行玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 尿布 | [弟弟对纸尿裤的隐秘向往、购买以及实际穿着和弄湿构成全文核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 私密影像 | [哥哥拍摄并保存弟弟穿湿纸尿裤、使用奶瓶的私密照片，保密承诺与影像构成结尾。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 奶瓶 | [非婴幼儿焦点角色实际使用奶瓶饮用，且奶瓶是结尾幼态画面的突出道具。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
