@@ -39,6 +39,7 @@
 | 虐待 | [文本中明确描写了BT总经理利用职权，通过限制公司女厕数量、设置监控、使用药物等手段，刻意制造女性员工憋尿痛苦并从中获得性满足和支配快感。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315986) |
 | 暴力 | [在 tid 90565 的文本中，详细描写了两名男子对受害者小优实施的严重暴力侵害。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1545403) |
 | 死亡 | [小遥的自杀及其遗信构成张然、小宜关系冲突与心理创伤的核心前史；第三季又实际展开张总被杀的犯罪事件，均为登场角色死亡。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316009) |
+| 女性支配 | [在G5-G6（李娜的过去）中，张然在电梯故障及后续场景中，通过反锁卫生间、言语诱导、身体控制及性支配，完全掌控了李娜的行为与心理，使其从反抗转为顺从，符合女性角色主动制定规则、操纵条件并掌握核心推进权的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315990) |
 | 规训 | [文本详细描述了G公司新总经理BT上任后，通过物理改造（仅保留58层女厕、加装红外感应器和保安限制离岗）和制度惩罚（请假扣工资、影响奖金）来强制改变女性员工的排泄习惯。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315986) |
 | 羞耻 | [在G3中，小凌在BT面前失禁后，内心极度尴尬、脸红、流泪，并担心被辞退，明确体验了强烈的难堪与自我否定。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315988) |
 | 羞辱 | [在66255:1316006（第二季第六集）中，BT利用张然服用药物后极度尿急且无法自控的生理弱点，故意拖延时间并制造封闭环境，随后强行抱住张然，不顾其反抗将其内裤拉下，并当面舔食其失禁的尿液。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316006) |
@@ -121,6 +122,7 @@
 | 女 | [全文核心情节围绕女主角蒋小雯被下药后在芭蕾舞演出中极度憋尿直至失禁的过程展开，详细描写了生理反应、心理挣扎及最终尿裤子的场景，完全符合定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 虐待 | [文中明确描述了张莉和王薇联合起来对付小雯，在奶茶中秘密加入利尿剂，并故意锁住厕所门阻止其如厕。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 强迫 | [张莉和王薇秘密给小雯下利尿剂并故意锁住后台洗手间，剥夺其知情选择和如厕出口，迫使她在药效下继续完成演出。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
+| 女性支配 | [两名女性通过合谋、秘密投药和锁门主动操纵小雯的身体条件与行动，使其在整个演出单元中持续处于她们设计的受控困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 羞耻 | [文中明确描写了小雯在失禁瞬间的心理活动：“她担心自己在舞台上出丑，甚至胜过担心自己的膀胱被憋破”，以及“几乎被这一突发事件惊晕过去”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 尿失禁 | [故事核心情节围绕主角小雯在服用利尿剂后，于芭蕾舞演出中因膀胱极度充盈而最终无法控制、发生非自愿排尿（尿失禁）展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
 | 尿裤子 | [小雯在仍穿着芭蕾演出服和内裤时失控排尿，正文把舞台上尿湿衣物的过程与公开后果作为全文高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=20) |
@@ -242,7 +244,7 @@
 | 虐待 | [文中详细描写了主人七海对小花茶实施的系统性身心控制与折磨。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 主奴 | [文中明确存在“主人”与“小奴”的身份设定，小花茶称呼七海为主人，七海拥有对小花茶身体（排尿、自慰、高潮）的绝对控制权，且这种关系贯穿全文，符合持续的所有权式关系定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 羞辱 | [文中存在明确的羞辱性情节设计。例如在洗澡场景中，主角因憋尿失控做出‘不淑女’动作后，被主人命令‘跪在地上吃饭，趴着舔光猫碗里的牛奶’，并明确描述为‘在不配上桌吃饭的羞辱里结束了这场惩罚’。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
-| 女性支配 | [七海与小花茶建立明确的女性主导主奴关系；小花茶自称“小奴”、主动汇报并配合命令，七海直接控制其憋尿、自慰、高潮、姿势与排尿许可。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
+| 女性支配 | [女性角色七海在关系中占据绝对主导地位，制定规则（如淑女训练、禁欲、排尿许可），命令并惩罚小花茶，掌握核心玩法的推进权。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 宠物化 | [文中出现“小宠物该用的地漏”、“趴着舔光猫碗里的牛奶”、“不配上桌吃饭”等情节，明确将角色当作宠物饲养和对待，剥夺其作为人的进食尊严，符合宠物化定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3436244) |
 | 性奴 | [小花茶丧失性自主权，高潮被长期剥夺（“永远不需要高潮”），性行为（自慰、蹭穴）完全受主人控制，且被当作满足主人性癖的工具，符合性奴定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 支配与服从 | [全文核心围绕‘主人’与‘小奴’的权力关系展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
@@ -355,6 +357,7 @@
 | 酷刑 | [文中详细描写了魅魔茉莉对主角哈维进行的系统性性拷问。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306906) |
 | 主奴 | [文中明确存在‘成为我的仆从’的契约提议与缔结过程（2.3），且后续章节（4.1-4.6）详细描写了哈维作为‘仆从’接受茉莉的射精管理、服从命令及身份认同，符合‘持续的所有权式关系’定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2303739) |
 | 羞辱 | [在2306276（2.4节）中，魅魔茉莉将主角哈维拘束在餐桌前，强迫其保持双腿大开的羞耻姿势，并故意脱下一只丝袜，用裸足与丝袜足交替玩弄其阴茎。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
+| 女性支配 | [全文中女性角色（茉莉、艾莉、奈奈、小欣）始终掌握核心玩法的推进权，制定规则（如射精禁止、寸止条件）、实施拘束与惩罚，男性角色处于被动服从地位，符合定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302390) |
 | 快感堕落 | [主角哈维在经历反复的性快感折磨与拷问后，从最初的抵抗（试图使用遗忘术）转变为身体上的依赖与精神上的沉沦，最终主动请求成为仆从以换取解脱或继续快感，符合‘因反复性快感而放弃抵抗并主动沉沦’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302983) |
 | 性奴 | [主角哈维被剥夺性自主权，阴茎被标记、射精被魔法禁止，身体被当作满足女性角色欲望的工具（如被姐妹当作玩具、被茉莉管理精液），符合‘持续丧失性自主权并被迫接受性控制’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2307095) |
 | 支配与服从 | [在2306906中，主角在极度痛苦下被迫说出‘求主人让我成为主人的仆从’，确立了主仆契约关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306906) |
@@ -590,6 +593,7 @@
 | 军训 | [三日初训、五公里测试、教官纪律和最终选拔被连续展开，训练管理而非一次运动构成主要场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2515482) |
 | 制服 | [白色军官制服的肩章、袖章、金扣和军裤被细致描写，随后制服被失禁弄脏的反差持续成为核心视觉。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2515482) |
 | 单人 | [作品有多个由一名角色独自完成的自灌、开塞露、肛塞、忍耐和自慰单元，旁人并未实施核心玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2436912) |
+| 女性支配 | [西野小桃由自己设局、投药并安排拍摄柳川老师完整失控过程，女性角色持续操纵条件并掌握核心推进权。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401266) |
 | 娱乐圈 | [全球明星的餐厅直播、数百万观众、粉丝追逐和公众形象直接形成疫情传播的关键完整单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3695796) |
 | 偶像 | [佐藤绫是拥有数千万粉丝的职业明星，其直播表演、偶像遗物交易和粉丝行为直接推动感染主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3695796) |
 | 实验体 | [编号女性样本在昏迷裸体状态下连接大量管线，被反复扫描、取样和观察，科研实验流程受到持续经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3709525) |
@@ -692,7 +696,7 @@
 | GB | [全篇亲密/性场景均为女性小花茶主动施为、男性蛙蛙被动承受：她抚弄其性器、为其加装置、牵他出门并布置整场玩法，女攻男受结构是作者经营的关系重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 男 | [承受憋尿、身体控制与失禁风险的核心癖好焦点是男性角色蛙蛙，且贯穿后半篇。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 强迫 | [装置功能事先被隐瞒，男方随后无法说话、解除拘束或停止持续刺激，并明确产生停止意愿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
-| 女性支配 | [情侣以直接权力交换展开玩法：蛙蛙主动饮水、裸体穿上拘束玩偶服并配合小花茶安装装备，小花茶负责牵引、决定饮水与装备规则并控制持续刺激和寸止节奏。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
+| 女性支配 | [小花茶制定饮水与装备规则、实施拘束并决定离开，掌握男性核心玩法的推进权。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 支配与服从 | [作品把饮水命令、拘束装备和控制权交付经营为持续的情侣权力交换玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 放置 | [男方在口塞、锁手和自动刺激状态下被留在街头四十余分钟，漫长等待正是主要困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 羞辱 | [蛙蛙对被围观、拍摄上传、识破裸体拘束状态与当众失控的公开受辱幻想有持续具体铺写，受辱体验本身就是主要恐惧和兴奋焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
@@ -737,6 +741,7 @@
 | 虐待 | [施加者以设计好的关卡持续制造生理痛苦、恐惧与屈服，并从受害者的痛苦与狼狈本身获取满足和收益，明确求助后仍继续加压。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991867) |
 | 酷刑 | [整套游戏以观赏折磨为目的，系统性施加极端尿意、感官刺激与精神痛苦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991867) |
 | 羞辱 | [自慰次数提问、播放其自慰录像、强制暴露性蹲起以及逼她亲口说出淫词求饶，施加者有意贬损尊严并利用私密失态实施控制，贯穿多个完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991862) |
+| 女性支配 | [川崎作为设局者量身设计规则、下达命令、实施惩罚与催尿刺激，并掌握许可、免水与胜负判定的推进权，第5至7节以她的控制视角展开完整叙事单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991867) |
 | 放置 | [游戏故意停摆半小时，把女主留在利尿剂持续生效的受控状态中，等待本身成为折磨。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991862) |
 | 物化 | [犯罪直播将女主反复当作可投注、放大观看和消费的情色对象，否定其主体性。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991869) |
 | 羞耻 | [角色主观的难堪、脸红、想躲避与自我否定被反复细写，是人物塑造与场景表达的核心，而非仅有外部贬损。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991862) |
@@ -793,7 +798,7 @@
 | 虐待 | [施害者以持续灌水禁尿、贬损辱骂、身体折磨迫使受害者屈服，并明确从驯服过程本身获得满足，构成长期的身体与精神虐待。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3950210) |
 | 酷刑 | [俘虏遭受反复、蓄意且严重的身体折磨，具有明确内容警示意义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3950210) |
 | 羞辱 | [施加者有意以逼喝自身排泄物、当众排尿、污言秽语与刻意设计的羞耻安排贬损尊严并实施控制，构成完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800365) |
-| 女性支配 | [夜莺与灵蛇在亲密互动中直接形成女性主导的合意玩法：灵蛇有能力挣脱却自愿配合，夜莺制定禁尿要求、控制姿势并决定何时继续或释放。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800946) |
+| 女性支配 | [夜莺在完整合意场景中制定禁尿规则、控制灵蛇姿势并推进玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800946) |
 | 放置 | [第六章整章写被吊铐的变色龙在无人处理的状态下独自面对够不到的便盆等待一小时，等待与煎熬本身就是该单元的玩法焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3799134) |
 | 羞耻 | [三位少女因失态、被目睹、被迫承认需求而反复体验强烈难堪与想躲避的主观羞耻，是作者停留最久的心理焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800374) |
 | 强制喂食 | [变色龙在严重暴力威胁下被迫吞咽非药物液体。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800365) |
@@ -955,6 +960,7 @@
 | 监禁 | [妫墨伊被俘后置于门窗有人看守的房间，等待陈国接回，无法自由离开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2648788) |
 | 虐待 | [妫墨伊在药物被秘密调换后误服多颗，绞痛、腹泻、虚弱、羞耻和被俘过程被连续作为癖好与战败痛苦的展示焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2647095) |
 | 羞辱 | [岳晴与暗卫在完整抓捕场景中持续以妫墨伊的私密失态嘲弄其尊严。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2647095) |
+| 女性支配 | [高琪和岳晴主动设计药物条件、调度伏兵并掌握对妫墨伊的控制与抓捕进程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645874) |
 | 羞耻 | [多名女性对排泄失控、被旁人发现和衣物弄脏产生强烈且反复铺写的羞耻反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2647095) |
 | 便失禁 | [吕嗳、吕怡等人多次无法控制地将稀便排出并弄脏衣物。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2653416) |
 | 粪便 | [排泄物的颜色、稀稠、气味、触感、接触和地面堆积被持续作为感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2656579) |
@@ -1010,7 +1016,7 @@
 | 虐待 | [家庭长期殴打、持续下药和强迫排泄、以恐惧痛苦迫使服从等伤害被反复作为展示与控制焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | 暴力 | [父亲连续殴打留下多处新旧伤，绑架篇又实际撕扯衣物、准备侵犯并以武装私刑处置，物理侵害有充分展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | 羞辱 | [施加者反复利用尿布、私密录像、公开身份和失败状态迫使对象以“宝宝”身份服从，受辱过程常持续整章。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1930507) |
-| 女性支配 | [区别于早期强迫单元，小月等角色后来主动请求“宝宝日”、自愿交付排泄和幼态玩法的控制；女性照护者以妈咪/姐姐身份直接规定尿布、憋尿、排泄许可、奖惩与停止条件。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
+| 女性支配 | [多名女性持续制定尿布、排泄、幼态和性刺激规则，掌握下药、拘束、奖惩及停止条件，推进权明确集中在女性一方。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1907017) |
 | 忍耐训练 | [角色多次以定时挑战、宝宝日规则和反复比赛训练尿意、羞耻及服从耐受，并呈现从不肯尿布排泄到逐渐习惯的变化。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | 支配与服从 | [妈咪—宝宝、姐姐—宝宝等身份跨章节稳定经营命令、顺从与权力交付，不只是某次绑架中的被迫遵命。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3270495) |
 | 规训 | [乐园及照护者以持续身份规则、尿布制度、排泄许可和奖惩塑造日常行为，规则跨时点和跨人物长期生效。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
@@ -1356,7 +1362,7 @@
 | 下克上 | [年幼外甥反过来命令、惩罚和性支配作为长辈的阿姨。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 | 主奴 | [主人称谓、所有权式命令及不得反抗的从属关系跨多个篇章持续出现。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 羞辱 | [公开失态威胁、贬损称谓和利用私密状态控制角色被持续经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
-| 女性支配 | [区别于此前的威胁和强迫事件，风铃在后续独立单元中主动安排暴露、提供绳索并追求女性支配；伽伽直接命令其配合姿势、拘束和性刺激并控制高潮许可。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
+| 女性支配 | [伽伽持续制定规则、威胁、控制刺激节奏并决定高潮许可。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 调教 | [反复性刺激、服从塑造和羞耻训练是系列主轴。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 性奴 | [黑照威胁造成跨时点的性自主权丧失和持续性使用；后期主动接受不抹去此前关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 支配与服从 | [命令、顺从和权力交付跨多个章节成为稳定关系及玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
@@ -1540,6 +1546,7 @@
 | 死亡 | [实际登场并攻击主角群的天蓝怪和红虫在多次战斗中被明确杀死。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 血腥 | [血便、吐血以及多次严重战斗伤害在不同完整单元中得到具体展示。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 恋童 | [若叶持续照护被明确写成孩子和萝莉的莉莉，并直接因其裸体幼女身体而心动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
+| 女性支配 | [女性博士制定规则、实施灌肠并持续决定另一女性何时可以排泄。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2380543) |
 | 羞耻 | [被看见排泄、裤内失守和公开暴露引发的脸红、哭泣与难堪跨章反复成为焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 强制喂食 | [助手在排泄许可被控制时被迫缓慢吞下整盘咖喱，吞咽和濒临失守被持续描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2380543) |
 | 灌肠 | [博士把水经针筒注入助手直肠，并以促排和控制为完整玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2380543) |
@@ -1701,7 +1708,7 @@
 | 霸凌 | [同伴因嫉妒集体策划孤立、诱骗和公开羞辱转学生，构成持续社会性攻击。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1109) |
 | 暴力 | [对极度充盈下腹的蓄意重压形成一次充分展开的严重物理侵害。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1152) |
 | 酷刑 | [周末单元系统组合监禁、强饮、检查、腹部加压和惩罚，持续蓄意制造剧烈痛苦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1070) |
-| 女性支配 | [在多人自愿参加且可以退出的憋尿比赛中，二姐直接制定饮水、验身、继续比赛和惩罚规则，其他女性参赛者选择配合并把排泄控制交给她推进。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1070) |
+| 女性支配 | [女性角色制定规则、设计骗局、安排饮水与惩罚，并掌握玩法推进权。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1070) |
 | 羞辱 | [外号、围观、名誉刺激和公开失败被有意用于贬损与控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1070) |
 | 羞耻 | [角色对失禁、暴露和他人目光的强烈难堪、自我否定与躲避反复成为心理焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1075) |
 | 月经 | [经期与卫生巾反复成为漏尿吸收、隐瞒和失控进程的重要机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1068) |
@@ -1737,7 +1744,7 @@
 | 暴力 | [开篇性侵及后续高强度尿道侵入均有实质物理伤害和身体反应描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 虐待 | [角色反复以痛苦、求饶和无法停止的性刺激互相施压，虐待性关系具有独立分量。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 下克上 | [处于家庭低位的未成年儿子通过性侵和占有企图反向控制母亲，亲子权力倒置是开篇核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 女性支配 | [在双方自愿建立的后续伴侣关系中，李伟接受“听妈妈的话”等规则；赵玲直接主导性教学、控制其射精许可、决定玩法场景并以惩罚推进互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
+| 女性支配 | [赵玲持续制定关系规则、控制射精许可、决定场景并以惩罚推进玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 支配与服从 | [命令、服从及权力交付被明确设为婚后关系规则，并在多个后续场景实际执行。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 快感堕落 | [原本传统守节且抗拒乱伦的母亲因性快感放弃立场，主动沉入母子性关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 自虐 | [赵玲明知尿道、膀胱玩法疼痛危险，仍主动要求继续并追求身体极限。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
