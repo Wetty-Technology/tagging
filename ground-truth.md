@@ -265,6 +265,7 @@
 | 强制排尿 | [在第二段中，主人命令小花茶在特定时间、以特定方式（站在马桶旁、像淑女一样无声）排尿，并在过程中多次强制中断（‘停下！’），这属于被命令和强迫实际排尿的情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3436244) |
 | 回憋 | [在第二段排尿场景中，主人多次命令小花茶‘停下’，强制中断其排尿过程，导致其无法顺畅排空，符合‘在排尿过程中被强制中断或控制’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3436244) |
 | 排泄管理 | [主人对小花茶的排尿时间（如晚上八点）、排尿许可（需申请）、排尿方式（如用高脚杯、无声）以及惩罚机制（失禁则取消机会）进行了持续且系统的管理，符合‘同一控制者作为持续机制管理’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
+| 如厕训练 | [“淑女训练”跨多个场景反复考核排尿申请、姿势、声音、容器和失禁后果，并以取消许可、改用高脚杯等惩罚塑造固定如厕行为，而非一次命令。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 容器排尿 | [主人把高脚杯设为指定排尿容器，并围绕对准杯口、限定尿量、途中叫停和装尿结果展开完整玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3436244) |
 | 露出 | [文中详细描写了主角小花茶在学校厕所隔间内，隔着门缝或对着摄像头，在可能有他人（如隔壁隔间的人、后续进入者）知晓或潜在目击风险的环境下，进行自慰和排泄相关行为（虽未实际排尿，但模拟排尿并自慰）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 监控 | [正文中明确描述了‘打开摄像头，让主人检查’、‘隔着屏幕能看到自己的小花茶乖巧的按着她制定的游戏规则不敢爽’、‘七海那边同样不方便说话……视频很清晰’等情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
@@ -311,6 +312,7 @@
 | 强制排尿 | [文中多次出现主人命令主角排尿的情节，例如03章中“允许你去尿一半”，09章中“主人命令你，在卧室隔着裤子，尿出来一小股”，以及10章中“主人命令你在8:45之前尿完”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3731155) |
 | 回憋 | [在03章中，主角被允许去厕所，但主人要求“只能尿一半”，主角在排尿过程中“回过神来的轻寒连忙止住尿流”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3730799) |
 | 排泄管理 | [主人对主角的排尿时间、许可、如厕机会进行了持续的管理。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3723771) |
+| 如厕训练 | [主人跨章节以尿意 Level、排尿申请、指定地点、限量释放和加罚饮水反复考核主角，并用奖惩把服从许可塑造成稳定的如厕习惯。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3723771) |
 | 灌水 | [文中多次出现主角被命令喝水的情节，例如01章中“加罚200ml水”，03章中“喝等量的水奖励一下自己”，07章中“先来200ml...加罚100ml”，10章中“喝250ml再走”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3723771) |
 | 露出 | [主角在主人命令下，于小区花园隐蔽处（公共/户外环境）进行随地小便。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3738818) |
 | 野外排尿 | [主角在小区花园的露天隐蔽处实际排尿，寻找地点、户外姿势、陌生人风险和衣物被重新浸湿均有完整描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3738818) |
