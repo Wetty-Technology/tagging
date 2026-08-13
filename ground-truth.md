@@ -1080,9 +1080,8 @@
 | 气味 | [作品反复让角色闻身体和尿布、具体评价“香喷喷”，并以排泄臭味引发调侃、羞耻、哭泣和清理行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3254765) |
 | 乳汁 | [乳汁的味道、产量、饮用、被吸空和作为食物/控制资源受到反复独立描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3270495) |
 | 泌乳 | [药物诱发乳腺发育、乳汁分泌和持续哺乳，泌乳过程与用途在整条人物线中展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1944920) |
-| 催眠 | [人为药物和科技实际把角色思维能力限制到约四岁半、改变认知与行为选择并持续一年，属于实质认知操纵而非普通入睡。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3362229) |
+| 催眠 | [人为药物和科技实际把角色思维能力限制到约四岁半、改变认知与行为选择并持续一年。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3362229) [乐园又以制度性认知塑造让群体把成年人穿尿布、终生上幼儿园及公开幼态照护当成默认常识。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3306617) |
 | 身体控制 | [遥控特制内裤持续决定性器刺激与身体反应，使角色站立困难并一直作用到控制者关闭开关，科技控制本身是完整玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1930507) |
-| 常识修正 | [乐园以制度和教育把成年人穿尿布、终生上幼儿园及公开幼态照护系统性塑造成全体默认常识，正常如厕规则在群体中失效。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3306617) |
 | 脑机接口 | [八名调整体通过脑内晶片与静瑄共享记忆、感情和技能，神经系统与计算系统的直接连接决定结局揭露。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3362229) |
 | 腹部 | [充盈小腹的外观、硬度、内部尿量、揉按触感和受压反应跨多个憋尿及性刺激单元反复受到凝视。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 臀部 | [臀部在尿布包裹、拍打、红肿、触摸和排泄清理中反复成为核心视觉与触觉对象，不只是偶然提到身体部位。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
