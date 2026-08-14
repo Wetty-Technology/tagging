@@ -569,7 +569,7 @@
 | 食物中毒 | [同一宿舍四名女性食用有问题的食物后共同出现严重腹泻并卧床，由摄食到群体发病、照护的因果单元完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3064435) |
 | 大量排便 | [李瑞欣长期便秘后排出远超普通量的宿便并继续出现大量水样便，排出量、持续时间和堆积结果被作为完整场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3105012) |
 | 腹胀 | [灌肠场景反复以“小腹肉眼可见地隆起如孕妇”作为独立视觉焦点，超出普通主观胀感。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2389052) |
-| 裤兜 | [作品发表于“拉裤子\|浣肠小说区”，大量角色把大便排在正穿着的裤子里并围绕后续处置展开完整情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2405353) |
+| 拉裤子 | [作品发表于“拉裤子\|浣肠小说区”，大量角色把大便排在正穿着的裤子里并围绕后续处置展开完整情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2405353) |
 | 偷窥 | [偷窥者和偷拍视频观看者以女性排泄为持续性欲对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401265) |
 | 私密影像 | [西野小桃长期偷拍女生腹泻灌肠视频并与网友交换、熊谷太郎用DV录下全过程、富江浩二回放病房排泄监控录像并留存粪便试管，影像的拍摄与留存在多个场景有实质作用。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401266) |
 | 隐私泄露 | [篮球馆失禁影像被男生拍摄后大量上传校内网并外流至自媒体新闻，吉川千鹤演讲台失禁被记者围拍，均为私密影像实际被公开传播。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2411627) |
@@ -921,7 +921,7 @@
 | 憋便 | [多个女性故事单元持续铺写夹紧括约肌、压制便意、寻找厕所及忍耐失败。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 放屁 | [放屁的产生、忍耐、声音、气味和排出方式在多个完整单元中反复成为焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 腹泻 | [投药后产生的急迫稀便、反复喷泻和持续肠胃反应是主要癖好与情节驱动力。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
-| 裤兜 | [女性将大便排入正在穿着的内裤、打底裤、热裤或皮裙，是多个核心场景的明确结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
+| 拉裤子 | [女性将大便排入正在穿着的内裤、打底裤、热裤或皮裙，是多个核心场景的明确结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 偷窥 | [叶焕之秘密、实时观察不知情的林婕在洗手间排便，并持续以此获得性兴奋。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3072036) |
 | 隐私泄露 | [沈嘉涵的私密失禁信息被目击者实际公开给无权知悉的学员和教师。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 丝袜 | [过膝丝袜、黑丝袜及其勒束腿部和包裹脚趾的视觉触感被反复色情化描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
@@ -971,7 +971,7 @@
 | 集体腹泻 | [多名姐妹共同食用同一批腐坏鳗鱼后相继出现腹泻和呕吐，共同暴露、多人发病及相互照护构成完整群体事件。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2653416) |
 | 食物中毒 | [角色食用保存不当、已经腐坏的鳗鱼后集中出现呕吐与腹泻，摄食原因、持续生理后果和求治过程均被明确展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2653416) |
 | 野外排便 | [媚蝶在树林中寻找遮蔽处蹲下并反复排便，野外环境、姿势、被发现风险和排泄过程共同构成完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2647095) |
-| 裤兜 | [角色多次把稀便排进正在穿着的亵裤或里裤，衣物中的结果具有明确情节和癖好分量。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2653416) |
+| 拉裤子 | [角色多次把稀便排进正在穿着的亵裤或里裤，衣物中的结果具有明确情节和癖好分量。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2653416) |
 | 紧身衣 | [全身紧身衣、连体式服装的轮廓、包裹和紧急脱除困难在多个核心场景中持续受到描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2656579) |
 | 高跟鞋 | [媚蝶夫人在腹中绞痛、运功压制时，高跟鞋具体造成姿势别扭和重心不稳，对手又利用鞋跟将其击飞；鞋履限制直接参与了该完整忍耐与落败场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2647095) |
 | 泻药 | [霹雳五谷轮回化功丸及泻内散被实际用于制造持续腹泻并决定首个篇章胜负。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645872) |
@@ -1057,6 +1057,8 @@
 | 泻药 | [软便剂被秘密加入果冻并实际造成急迫便意及尿布排便，使用与后果均明确。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 退行 | [尿布、婴儿服、婴语、爬行、奶嘴奶瓶、婴儿床和终生幼儿园由他人或制度持续维持，是全作最主要的关系与控制玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3248474) |
 | 尿布 | [穿戴、尿湿、弄脏、检查、更换、公开隐藏和依赖尿布贯穿全作，几乎每条人物线都有完整使用场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
+| 尿布依赖 | [小月已经习惯“天天包着尿布想尿就尿”，甚至无法确定自己还能否忍住两小时不上厕所；尿布已经替代正常如厕并改变其排泄能力与日常习惯。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890679) |
+| 逆如厕训练 | [蓓姬刚到岛上时花了很长时间“努力地想习惯在尿布中解决”，作品又以乐园规则反复要求角色在尿布中排泄，构成对既有如厕习惯的有意消退。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1924951) |
 | 成人宝宝 | [乐园明确为成年 AB/DL 参与者设置长期宝宝身份与生活区，成年角色也持续以婴儿身份接受尿布和照护。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 | 年龄扮演 | [成年参与者在宝宝日和乐园生活中明确知道自己在主动扮演更小年龄身份，并持续自称宝宝、认同照护规则。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 偷窥 | [小瑄躲在门缝外秘密实时观看不知道她在场的换尿布与性刺激，观看后仍继续评论和参与后续情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1957296) |
@@ -1565,7 +1567,7 @@
 | 便秘 | [助手、长尾虎猫、羊驼和河马等角色的持续排便困难与硬便被完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
 | 憋便 | [多名角色夹紧、忍耐、延迟排便并逐步逼近失守，过程跨章反复经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 便失禁 | [莉莉、凛等角色无法控制稀便并持续在衣裤内排空，失守过程得到细写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
-| 裤兜 | [白裤、黑裤和旗袍等下装被大量稀便排入、鼓包并从裤腿溢出。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
+| 拉裤子 | [白裤、黑裤和旗袍等下装被大量稀便排入、鼓包并从裤腿溢出。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 粪便 | [粪便的颜色、形态、气味、覆盖、采样和武器用途跨全篇持续成为核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 粪浴 | [多人被大量粪流覆盖身体和衣物，随后脱衣、清洗和换装构成完整处置场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 大量排便 | [百米喷射、粪堆、堵满马桶和裤内大范围堆积反复突出异常排出量。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
@@ -1636,7 +1638,7 @@
 | 腹泻 | [稀便、喷射、反复腹痛和急迫排泄构成全文核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 憋便 | [夹紧、调整姿势和延迟排便的忍耐过程被持续细写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 便失禁 | [从少量裤内失守到持续无法控制排出稀便的过程得到完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
-| 裤兜 | [大量稀便明确排入正在穿着的裤子，并继续穿着前往办公室和回家。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
+| 拉裤子 | [大量稀便明确排入正在穿着的裤子，并继续穿着前往办公室和回家。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 大量排便 | [裤内无法继续容纳且粪便从腰部延伸至膝上，数量和堆积构成高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 粪便 | [稀便的温度、黏度、覆盖和行走摩擦触感反复成为核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 粪浴 | [大量粪便在裤内从腰到膝包覆臀部与腿部，达到大面积身体覆盖。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
@@ -1834,7 +1836,7 @@
 | 臀部 | [臀部的包裹、按压、触摸和温度变化跨多个单元构成核心触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804822) |
 | 尿浴 | [教室失禁使大量尿液从臀部覆盖大腿、膝后和小腿，淋覆身体的范围与感受被完整细写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771055) |
 | 粪浴 | [液状粪便大量覆盖臀部、胯下和大腿内侧，身体被包覆与摩擦的触感成为后半篇核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771062) |
-| 裤兜 | [作者开篇明示包含拉裤子元素，正文让主角把大量粪便排进正在穿着的裤型尿布并持续行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771062) |
+| 拉裤子 | [作者开篇明示包含拉裤子元素，正文让主角把大量粪便排进正在穿着的裤型尿布并持续行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771062) |
 | 粪便涂抹 | [主角回家后主动重新穿上盛满粪便的尿布并用手按揉，使内容物在臀部和腿间来回涂展。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771066) |
 
 ## [润（男憋）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=135291)
