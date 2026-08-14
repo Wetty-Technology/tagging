@@ -45,6 +45,7 @@
 | 羞辱 | [在66255:1316006（第二季第六集）中，BT利用张然服用药物后极度尿急且无法自控的生理弱点，故意拖延时间并制造封闭环境，随后强行抱住张然，不顾其反抗将其内裤拉下，并当面舔食其失禁的尿液。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316006) |
 | 自虐 | [在G2中，角色小凌在经历首次失禁后，主动购买幼儿纸尿裤并穿着上班。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315987) |
 | 拘束 | [在 G10 章节中，张然将李娜的双手双脚用绳子分别绑在席梦思床边，导致李娜无法动弹，并在该状态下进行了后续的性互动和失禁情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538873) |
+| 封印 | [G10 的乳胶贴突起插入尿道并把尿流完全封死：角色放开手、完全放松排尿时仍“无法流出一丝一毫”，只有揭开封堵后才能释放，属物理手段直接锁死排尿功能。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315995) |
 | 绳缚 | [在 tid 67678 (第三季第三集) 中，张然和张宜将保安拖入密室后，明确描写了“把保安五花大绑的捆好丢在一边”，随后张然利用其家人照片进行威胁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329533) |
 | 破处 | [在帖子1315990（激忍档案第六集）中，明确描写了BT与李娜在山顶车上的性行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315990) |
 | 口交 | [BT强迫张然用口部刺激阴茎，口交动作及双方反应被持续具体描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
@@ -248,6 +249,7 @@
 | 宠物化 | [文中出现“小宠物该用的地漏”、“趴着舔光猫碗里的牛奶”、“不配上桌吃饭”等情节，明确将角色当作宠物饲养和对待，剥夺其作为人的进食尊严，符合宠物化定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3436244) |
 | 性奴 | [小花茶丧失性自主权，高潮被长期剥夺（“永远不需要高潮”），性行为（自慰、蹭穴）完全受主人控制，且被当作满足主人性癖的工具，符合性奴定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 支配与服从 | [全文核心围绕‘主人’与‘小奴’的权力关系展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
+| 封印 | [七海的定制时间锁贞操带用紧贴身体的硬挡板杜绝了自慰和作弊，正文反复写她无论怎样抚摸、摩擦都尝不到快感、无法释放欲望，直到装置定时解锁，是物理装置对高潮功能的完全封锁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 忍耐训练 | [文中详细描写了小花茶在憋尿、自慰边缘、高潮临界点时的忍耐过程，以及“淑女训练”要求她抑制生理反应，呈现了通过规则约束提高对尿意和快感耐受的训练过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 羞耻 | [小花茶在公共场合（教室、地铁、厕所）进行私密行为或处于失禁边缘时，多次体验到强烈的羞耻感（如“红着脸”、“羞耻的看到”、“脸腾一下就红了”），这种主观感受是场景的重要组成部分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 自虐 | [文中明确描写角色小花茶在地铁上因发情难耐，主动产生‘如果被发现……会被肆意玩弄’的幻想，并主动打字向主人请求惩罚（‘小阴蒂不听话，想被主人罚……’），随后在得到允许后主动进行自慰行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
@@ -374,6 +376,7 @@
 | 腹部按压 | [在2.4节中，茉莉以前脚掌有节奏地按压、画圈揉动哈维的小腹，并持续作用于小腹上的射精禁止符文以增强性刺激；按压不是顺带动作，而是作者展开经营的玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 悬吊 | [在3.2节中，魅魔艾莉使用触手将茉莉的四肢扯向四方，并通过触手操控使其保持站立或悬空姿态进行拷问（如‘触手吊起本来就被手铐拷死的双臂’、‘像被玩坏的洋娃娃一样悠悠地悬挂在空中’）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2308483) |
 | 拘束 | [在第一章中，主角被魅魔使用‘禁锢法术’死死按在床上动弹不得，这一拘束状态贯穿了第一章的拷问全过程，是场景的核心设定，符合‘实质限制角色行动并在完整场景中持续影响’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302390) |
+| 封印 | [魅魔在哈维小腹烙下“射精禁止符文”，明确设定在未得到她许可时，即使承受足以触发高潮的强刺激也绝对不可能射精，是法术直接锁死射精功能的核心机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302737) |
 | 口塞 | [在章节 1.4 中，魅魔使用魔法薄膜封堵主角嘴唇（'粉红色的薄膜附在了我的唇上'），导致主角无法说话，只能发出'呜呜呜'的声音。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2303192) |
 | 电击 | [在帖子 2308483 (3.2) 中，魅魔艾莉使用触手对茉莉进行电击拷问，详细描写了电流刺激乳首和阴蒂的过程，包括‘电光炸裂’、‘噼啪噼啪的电击声’、‘巨大的电位差’等细节，并导致茉莉连续高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2308483) |
 | 踩踏 | [在帖子 2306276 (蚀骨之夜 2.4) 中，魅魔茉莉使用双足（一只穿丝袜，一只裸足）对主角的阴茎进行长达数小时的详细足交与寸止调教。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
@@ -408,6 +411,7 @@
 | 腿部 | [茉莉缓慢脱下一只丝袜时，作者沿暴露过程连续描写“少女圣洁的大腿”、细腻白皙的皮肤、完美的小腿曲线和纤细脚踝；腿部本身与随后展开的足部均被有意作为视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 足部 | [在帖子 2306276 (2.4) 和 2306906 (2.5) 中，魅魔茉莉使用双脚（一只穿丝袜，一只裸足）对主角进行长时间的足交和寸止调教。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 催眠 | [主角哈维在遭受拷问时，主动对自己施放了“遗忘术”，导致他彻底忘记了死灵之书的下落以及关于未婚妻洛贝莉亚的重要记忆。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302983) |
+| 诅咒 | [魅魔把持续生效的射精禁止符文烙在主角小腹，明确说明没有她许可时无论刺激多强都绝对不可能射精；该符文在长篇拷问与后续控制关系中持续限制主角的生理功能，属于以法术施加的诅咒机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302737) |
 
 ## [江河湖海](https://www.shireyishunjian.com/main/forum.php?mod=collection&action=view&ctid=1828)
 
@@ -705,6 +709,7 @@
 | 自虐 | [后半篇核心是蛙蛙主动、反复地把自己维持在寸止余韵的欲火煎熬中，正文明确以「自虐般地」定性这一自设压力。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 口塞 | [口球全程封口，剥夺求助与解释能力，是让蛙蛙被「封印」在玩偶服中的核心拘束手段之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 拘束 | [双手被卡环锁死于玩偶服手套，无法触碰身体、摘除装置或解开口球，实质限制行动并决定整场困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
+| 封印 | [玩偶服锁死双手、贞操带固定性器装置，而检测系统每次都在蛙蛙达到高潮边缘时自动停止刺激；他无法手动补充刺激或取下系统，近四十次闭环中始终完全无法高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 手交 | [出门前的完整场景中，小花茶用手持续刺激蛙蛙性器并引发呻吟与快感，构成独立的手部性刺激段落。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 性行为 | [作品实际发生明确的性器刺激与高潮，占据几乎全部篇幅，非仅暧昧或幻想。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 机械奸 | [由传感器驱动、自动闭环运行四十余分钟的球状研磨装置对性器实施程序化、强制性刺激，属自动机械装置而非手持玩具或遥控跳蛋。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
@@ -1113,6 +1118,7 @@
 | 虐童 | [正文明确女子未满十八岁，并在连续情节中呈现其裸体及实质性性接触，具有内容警示分量。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 主动 | [最初饮茶、憋尿和限制触碰均由女子为体验忍耐刺激而自行决定，没有受到他人要求。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 自虐 | [女子主动加重腹压和封堵，在自设的痛苦、急迫状态中产生期待与兴奋。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
+| 封印 | [女子把塞具置入尿道后，即使重按充盈下腹、尿液已冲向出口，仍“没能流出半滴”；直到拔出塞具才立即有尿流涌出，属物理封堵直接使排尿完全不可能。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 忍耐训练 | [她以坚持至正午、不得触碰下身等自设规则锻炼耐受，并逐步提高挑战强度。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 淑女 | [面对丫鬟和来客，她为维持大小姐的端庄形象而主动隐瞒尿意并继续忍耐；与最初主动训练是不同阶段。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 羞耻 | [暴露憋尿丑态、失去大小姐颜面和遭人议论的羞耻持续支配其选择。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
@@ -1753,6 +1759,7 @@
 | 支配与服从 | [命令、服从及权力交付被明确设为婚后关系规则，并在多个后续场景实际执行。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 快感堕落 | [原本传统守节且抗拒乱伦的母亲因性快感放弃立场，主动沉入母子性关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 自虐 | [赵玲明知尿道、膀胱玩法疼痛危险，仍主动要求继续并追求身体极限。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
+| 封印 | [赵玲把尿道棒作为“美人浇花瓶”的物理开关：留置时尿流被完全封堵，只有对性器的刺激使装置在高潮时开放才能排尿，是封印生效期间直接剥夺正常排尿功能的物理机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 疼痛 | [阴茎经尿道强行推进并持续撑开尿道，作为额外的粗暴侵入手段造成强烈痛感、流泪及由痛转为快感的完整过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 破处 | [李伟首次插入性行为及其处男身份是关系转折和后续性教学的重要基础。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 手交 | [母亲用手持续刺激儿子性器并直接推进射精控制场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
