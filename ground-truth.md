@@ -657,6 +657,7 @@
 | 调教 | [作者以任务递进的方式经营长达大半年的服从塑造与尺度条件化，正文直接以“调教”“开发”定位这一主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1944090) |
 | 打屁股 | [儿童章节把反复拍打臀部明确写成性化惩罚场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1952537) |
 | 拘束 | [手铐、脚铐、绳索在深夜冒险与酒店任务两个完整单元中持续限制行动，直接决定逃脱能力、姿势与任务难度。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1954019) |
+| 约束 | [控制者预先让女主体内装入遥控装置，随后按固定间隔远程触发反复高潮和无法自行停止的过量刺激，并以此计时施压、逼迫她加快完成任务，形成完整的预置媒介—触发痛苦/不适—控制行为机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1954020) |
 | 绳缚 | [明确使用棉绳打龟甲缚并反复出现，绳结的走位直接改变身体暴露、行走姿势与感受，是多个核心场景的实际作用要素。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1948460) |
 | 自缚 | [角色亲手把自己绑缚、上铐、上脚铐，并以由此产生的无法逃脱风险（公园被男人追上）作为焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1944090) |
 | 口交 | [作为“最终任务”的指定内容并有独立展开的过程描写（跪姿、手背身后、被顶到喉咙），构成该篇章的核心性行为环节之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1954521) |
