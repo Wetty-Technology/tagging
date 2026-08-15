@@ -101,7 +101,6 @@
 | --- | --- |
 | 单人 | [在《激忍档案第二集》中，主角小凌回家后独自进行了一系列完整的憋尿与失禁体验。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315987) |
 | GL | [在66254帖子的第5集（李娜的过去）中，详细描写了李娜与张然之间从电梯被困到卫生间内的亲密互动，包括接吻、爱抚及口交行为，且李娜对此产生强烈的性兴奋与情感依赖，符合‘两名女性角色的恋爱、性或亲密关系是作品中心关系之一’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315990) |
-| NTR | [在66254的G6章节中，详细描写了李娜与张然建立亲密关系后，BT介入并夺取李娜的情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315991) |
 | 多角关系 | [在66254的第五集（李娜的过去）中，详细描写了李娜、张然与BT三人之间持续且相互牵连的复杂关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315990) |
 | 职场 | [故事主要背景设定在G公司，涉及财务部、人事部、总经理办公室等多个办公场所。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315986) |
 | 主动 | [小凌在首次失禁后，为追求憋尿和失禁带来的兴奋自行购买纸尿裤、故意憋尿并结合自慰练习；该动机没有来自他人的要求。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1315987) |

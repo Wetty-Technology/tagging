@@ -83,7 +83,7 @@
 | 伪娘 | 男性角色在具体阶段或场景中以女性服装或女性化性别表现登场。普通男性偶尔穿单件女装、乔装后没有持续女性化表现不算。 |
 | 假小子 | 女性角色在具体阶段或场景中以男性服装或男性化性别表现登场。普通短发、强势性格、运动爱好或偶尔穿中性服装不算。 |
 | 性转 | 角色通过药物、魔法、科技、诅咒、转生或类似机制改变性别。单纯女装不算。 |
-| 单人 | 一个完整癖好场景的主要行为、忍耐、失控或自我处置由一个角色自行经历。旁人只在场、被担心、事后看见、提出办法或带路，仍算；若同一场景以两人或多人共同忍耐、失控或互动为核心，不算。另一人亲自造成困境，或用命令、刺激、实时监控调度、检查操作或身体协助持续实施核心玩法时，也不算；不要求对方怀有性癖、恶意或支配动机，医生要求灌水后反复按压充盈膀胱等医疗行为只要直接构成核心困境，同样排除单人。 |
+| 单人 | 一个完整癖好场景的主要行为、忍耐、失控或自我处置由一个角色亲自经历和应对；不要求角色主动发起，意外、环境阻碍或身体失控造成的困境也可以算。旁人只在场、被担心、事后看见、提出办法、带路、偷窥或产生幻想，仍算；教师或其他旁人不知道角色的私密困境，只按日常规则行动，也不属于亲自造成。若同一场景以两人或多人共同忍耐、失控或互动为核心，不算。另一人明知或专门通过下药、破坏出口、命令、刺激、实时监控调度、检查操作或身体协助直接制造或持续实施核心玩法时，也不算；不要求对方怀有性癖、恶意或支配动机，医生要求灌水后反复按压充盈膀胱等医疗行为只要直接构成核心困境，同样排除单人。 |
 | BG | 面向读者的普通异性双人场景标签。男女共同参与一个完整的性、性癖或情欲/亲密互动就默认命中，包括男性偷窥、控制、检查、训练或照护女性，以及女性强势、支配、命令男性或普通女上位。只有女性插入男性或正文明确经营女攻男受时不用本标签而用 GB。女性受性别未明的匿名或远程“主人”支配也默认 BG。一次场景即可；男女只同场或纯事务互动不算。 |
 | GB | BG 的窄例外：女性插入男性，或正文明确把女性作为进攻方、男性作为承受方经营女攻男受。女性只是强势、支配、命令男性实践性癖、女强男弱或普通女上位，仍是 BG，不算 GB。一次完整场景即可；与 BG 对同一场景互斥。 |
 | BL | 两名普通男性共同参与一个完整的性、性癖或情欲/亲密互动，或男性明确表现对男性的性/浪漫取向。一次、强迫或情境性互动也算，不要求恋爱或持续关系。普通友情、玩笑、同场和纯事务接触不算。原「男同性恋」并入。 |
@@ -92,14 +92,14 @@
 | 一夜情 | 双方仅发生一次性行为而无长期情感承诺或后续关系的交往模式。 |
 | 初恋 | 首次重要恋爱经历或无法忘怀的初恋对象是核心。 |
 | 单恋 | 一方的爱意未得到回应，并实质推动人物选择、核心冲突或关系发展；不要求另有独立恋爱场景。单恋若反复作为绑架、犯罪或悲剧冲突的因果发动机，仍是作者有意经营，不会因癖好场景篇幅更多而降为背景。只交代角色已有心仪对象，或只幻想对方身体却不影响当前行动、冲突和关系发展，属于背景，不算。 |
-| 青梅竹马 | 主要角色自幼相识并共同经历一段成长过程，童年关系持续塑造当前关系。一次童年相遇或短期相处后长期分离不算；童年约定、成年重逢或后来回忆不能替代“共同成长”。 |
+| 青梅竹马 | 同一对主要角色自幼相识并共同经历一段成长过程，童年关系持续塑造两人当前关系。必须核对人物指代：不能把主要角色与背景朋友的童年经历移接到另一对角色上。一次童年相遇、背景损友只用于交代主角性格、短期相处后长期分离，以及童年约定、成年重逢或后来回忆，均不能替代“同一对主要角色共同成长”。 |
 | 师生 | 涉事双方之间实际存在直接授课、导师指导、训练或教育管理关系，且这层关系或教育权力差实质塑造核心互动、行为或困境；学生为了获得教师评价或表扬而改变核心行为算，教师的课堂纪律、处分权或威慑使自己的学生不敢提出私密需求、无法离开并延续核心困境，也算，不要求教师成为性癖参与者或与学生反复对话。双方只是分别具有教师和学生身份、同处一所学校却无直接教学关系，或仅有前辈/后辈、年龄差、带路介绍、同门关系，不算。剧情证据发生在教师与其自己的学生之间时，只标本标签，不再由同一证据推出「教师」或「学生」；三者按同一个证据情节互斥。只有作品另有教师与非本人学生、或学生与非本人教师之间的独立情节时，作品级才可同时出现相应身份标签。 |
 | 年龄差 | 成年角色之间明显年龄差或辈分差影响吸引、权力、羞耻或关系动态。 |
 | 体型差 | 角色间存在显著的身高、体格或体型差异，常增强支配、保护或性张力。 |
 | 骨科 | 具有真实近亲身份的角色之间发生明确的性、恋爱或持续性欲表达，并且近亲关系参与了场景意义；不要求成为全篇主关系。梦境、幻觉或药物体验中的完整近亲性场景，只要作者对近亲身份与性互动均有实质展开，也算作者有意表达，不因场景并非现实发生而删除。普通亲情、拟亲属称呼、干亲关系、把非亲属“当作亲人”，或一闪而过且未展开的幻想不算。 |
 | 双胞胎 | 双胞胎身份对关系、替代、同步或身体对照有实际作用。 |
 | 水仙 | 同一角色与自身（不同时间线、平行世界、克隆体等）或自我指涉的配对/叙事。 |
-| NTR | 已建立或被角色视为排他的恋爱、亲密关系被第三者介入、夺取或背叛所破坏，且被夺感、嫉妒、报复或关系崩解推动整部作品或一个完整篇章；不要求一定发生性交。只有多人竞争、尚未建立排他关系或普通三角关系不算。 |
+| NTR | 已建立或被角色视为排他的恋爱、亲密关系被第三者实际介入、夺取或背叛所破坏，且被夺感、嫉妒、报复或关系崩解推动整部作品或一个完整篇章；不要求一定发生性交。必须核对时间顺序：第三者行为发生在排他关系成立之后，并且确实造成夺取、背叛或关系损害。排他关系成立前已经结束的暧昧或非实质接触，以及后来只有单恋、自杀、悲痛、内疚或口头说爱而没有破坏现有关系，均不算。单恋者在对方另行确立关系后伤心或尝试追求、第三者引诱但被明确拒绝、多人竞争、尚未建立排他关系或普通三角关系，也不算。 |
 | 多角关系 | 三人或以上形成持续且相互牵连的恋爱、性、占有、背叛或竞争关系，并在整部作品或一个实质篇章中推动人物选择与冲突；恰好三人共同进行性/亲密/癖好互动的完整核心场景也算，不要求三人形成长期关系。多组彼此无交集的独立关系、四人及以上只有单场群体性行为，或短暂争风吃醋不算。原「三人行」并入本标签。 |
 | 后宫 | 一个中心角色拥有多个恋爱/性/癖好对象，形成后宫式结构。 |
 | 逆后宫 | 一名女性核心角色同时被多名男性角色追求、爱慕或围绕，并由这种多对一关系持续推动情节；一男多女的普通后宫不算。 |
@@ -187,7 +187,7 @@
 | 主动 | 角色没有受到他人要求、强制或不可预见外因迫使，而为了体验癖好、获得快感或取悦他人，故意憋尿、忍耐高潮或实施其他相关行为。即使目的是取悦别人，只要没有来自对方的要求，仍属于主动。判断的是行为动机；同一证据与「强迫」「意外」「淑女」互斥。 |
 | 意外 | 交通事故、临时封闭、行程突变、设备故障、计划外延误、计划外人员返回、教师突然点名或发问，或行动开始后才发现厕所、道路、场所等外部条件严重不适用，直接制造、延长或显著升级憋迫、暴露、失禁等核心困境，并成为完整场景的主要驱动力。外部条件不必在当时才产生：角色事前并不知道，到场后才发现连续多个厕所都过于肮脏而放弃使用、被迫继续寻找和憋尿，也算意外。按具体候选事件判断：原始困境即使由角色疏忽、主动或其他原因开始，后来出现的不可预见外部事件若造成新的、有分量的升级或后果，仍可单独命中「意外」；一个充分展开的核心事件或同类处境反复推动情节即可。角色自己忘带物品、没有事先处理本可掌控的事项等个人疏忽，明知条件仍主动选择，以及没有外部事件的普通失手或生理失控本身，不算。仅在事后发现既成私密状态且无关键后果的偶遇或来访、口语中的“如果不出意外”，以及他人明知并专门为了制造该困境而安排的事件不算；他人有意识地做出普通行为，但并不知道角色的私密状态、也无意造成该后果，仍可构成角色所遭遇的意外。判断的是该段困境或升级的来源；同一证据与「主动」「强迫」「淑女」互斥。 |
 | 淑女 | 角色为了维持端庄、优雅、懂事或不暴露私密需求的形象，因羞于向在场他人提及尿意、便意或需要上厕所而主动隐瞒并继续忍耐；正文不必使用“淑女”一词。角色私下向控制者求助，不抹掉她在同事、同学或公众面前故作正常、维护形象的另一段证据。若角色已向同一在场对象直接说明需求，或只是厕所不可用、规则禁止、没找到时机、害怕惩罚而被迫忍耐，没有维护形象的主动隐瞒，不算。判断的是忍耐动机；同一证据与「主动」「强迫」「意外」互斥。 |
-| 强迫 | 他人或制度通过暴力、威胁、命令、权力、惩罚规则、秘密下药（含欺骗、掉包或换药造成不知情药效）、拘束或有意剥夺可选出口，迫使角色实施、忍受或停止某种行为，并且强迫过程有实际情节分量；受害者不必知道手段，也不必收到当场口头命令。既有制度明确以减薪、开除、处分等后果禁止角色离开，角色正因害怕这些后果而继续忍耐，也算。角色后来产生快感、顺从或喜欢上结果，不会倒推抹去此前明确的非自愿操控。普通劝说、没有惩罚后果的一般工作流程、合意角色扮演、角色长期自愿参与且期待的主奴规则，以及角色自己勉强坚持，不算。不能只凭“主人命令”“强迫自己”等字样命中。判断的是行为动机；同一证据与「主动」「意外」「淑女」互斥。 |
+| 强迫 | 他人或制度通过暴力、威胁、命令、权力、惩罚规则、秘密下药（含欺骗、掉包或换药造成不知情药效）、拘束或有意剥夺可选出口，迫使角色实施、忍受或停止某种行为，并且强迫过程有实际情节分量；受害者不必知道手段，也不必收到当场口头命令。既有制度明确以减薪、开除、处分等后果禁止角色离开，角色正因害怕这些后果而继续忍耐，也算。只有上位者平时严厉、角色预想可能挨骂或因羞耻不敢提出私密需求，而上位者并不知道该需求、没有针对该行为下达命令或设置惩罚后果，不算强迫。角色后来产生快感、顺从或喜欢上结果，不会倒推抹去此前明确的非自愿操控。普通劝说、没有惩罚后果的一般工作流程、合意角色扮演、角色长期自愿参与且期待的主奴规则，以及角色自己勉强坚持，不算。不能只凭“主人命令”“强迫自己”等字样命中。判断的是行为动机；同一证据与「主动」「意外」「淑女」互斥。 |
 | 自虐 | 主要癖好压力由当事人自愿、自设或主动追求；角色为获得刺激而主动安排、反复执行或继续接受受控规则，甚至主动请求支配者惩罚，即使另有人监督、拍摄或执行，也算，不要求这种追求独立于合意主奴关系。同一作品前期存在胁迫，不会抹去后来独立、完整的自设挑战。仅在被迫情境中逐渐忍受或获得快感不算。 |
 | 快感堕落 | 角色因反复性快感或集中刺激而放弃原有抵抗、价值或立场并主动沉沦；从起初明确无羞耻、无快感或抵触，发展为主动选择高潮、追加刺激或接受原先拒绝的玩法，已经形成变化。角色一开始自愿参加主奴关系或相关玩法，不妨碍后来在快感态度上形成上述转变。普通享受、单次高潮或始终仅被迫服从不算。 |
 | 系统 | 作品存在可识别的系统界面、任务、数值、奖励或惩罚机制，而且系统实际分配目标、约束选择或改变后果，持续驱动主角行为、完整故事单元或主线。普通 AI、手机应用、游戏内常规界面、一次规则提示和比喻性的“系统”不算。系统存在本身不决定「主动」或「强迫」；仍须按角色在具体事件中是否受到要求及能否拒绝分别判断。原「系统流」并入本标签。 |
@@ -340,7 +340,7 @@
 
 | 标签 | 定义 |
 | --- | --- |
-| 中出 | 必须明确写出精液射在阴道/肛门内部，或射精完成后才从体内拔出。只有体内性交和射精分别出现、射精位置不明、无法在体内射出、逆射或拔出后射出，均不算。 |
+| 中出 | 必须明确写出精液射在阴道/肛门内部，或射精完成后才从体内拔出。插入中双方同时高潮不能推出精液留在体内；只有体内性交和射精分别出现、射精位置不明、无法在体内射出、逆射或拔出后射出，均不算。 |
 | 体外射精 | 精液射在体外这一去向本身被有意描写为性场景焦点。普通自慰或性行为自然把精液射到身体、衣物或床面而未聚焦射精位置，不算；仅说明没有中出也不算。 |
 | 前列腺高潮 | 高潮被明确归因于前列腺刺激。 |
 | 口内射精 | 精液直接射入口腔；是否随后吞咽不再另拆标签。 |
@@ -391,7 +391,7 @@
 | 拘束 | 捆绑、手铐、绑带、枷锁、拘束架或类似手段实质限制角色行动，并在一个完整场景中持续影响控制、性行为、逃脱或惩罚；一个充分展开的核心场景即可命中。短暂抓住、搬运或剧情过渡不算。 |
 | 约束 | 控制者预先在对象身上安放、植入或施加可触发的控制媒介，例如紧箍、项圈、芯片、蛊虫、法术、诅咒或高科技装置，随后能以咒语、遥控器、法术、意念或其他方式主动触发，使对象承受剧烈疼痛、窒息、超量性刺激或快感等难以忍受的痛苦与不适，并以此惩罚不服从、迫使执行命令或持续控制行为；媒介与触发方式不限。普通绳铐拘束、一次现场攻击、无法由控制者按需触发的持续痛苦，以及只为取乐的遥控玩具或没有用于行为控制的强制高潮不算。可与「强迫」「疼痛」「电击」「强制高潮」等触发方式或结果标签并存。 |
 | 封印 | 通过诅咒、法术、契约或贞操带、尿道锁等奇幻或物理手段，直接剥夺角色的排尿、排便、高潮、射精或其他生理功能。封印生效时，角色必须完全做不到该事，直到封印解除或暂时开放；装置只有在正文明确造成完全封锁时才算，不能只凭道具名称命中。传感器在高潮前停止它所提供的刺激，本身只是不再主动刺激，并未剥夺角色接受其他刺激而高潮的能力，不算封印；只有再配合贞操带、锁住手脚、封闭身体等手段，使角色也无法自行或借其他刺激完成高潮，才算。仅以命令、强迫、规则或威胁要求角色自行忍耐，角色仍能释放但会在之后受罚，以及在手段生效时仍能凭自身完成、只是变得困难、减弱或偶尔失败，均不算。可与表示来源的「诅咒」并存。 |
-| 绳缚 | 绳索绑缚本身在完整拘束、强迫或性场景中具有实际作用，例如四肢被绳索分开固定、五花大绑，或绑姿直接改变暴露、行动和身体姿势。只说“绑住”而未明确使用绳索、手铐拘束，以及无展开的临时捆绑不算；可与上位标签「拘束」并存。 |
+| 绳缚 | 绳索绑缚本身在完整拘束、强迫或性场景中具有实际作用，例如四肢被绳索分开固定、明确写作“五花大绑”“捆缚”，或绑姿直接改变暴露、行动和身体姿势。“五花大绑”本身按通常语义即可视为绳索式绑缚，不要求同句再出现“绳索”。只说“绑住”而未说明绳索或绳缚方式、只有手铐拘束，以及无展开的临时捆绑不算；可与上位标签「拘束」并存。 |
 | 自缚 | 角色主动把自己束缚且过程或脱困风险是焦点。 |
 | 真空拘束 | 真空床、真空袋等通过负压包裹并限制身体；不是“不穿内衣”的俗称“真空”。 |
 | 悬吊 | 角色通过绳索、吊具或镣铐被悬空；普通吊威亚不算。 |
@@ -529,7 +529,7 @@
 | 汉服 | 汉服结构和穿着方式具有实际分量。 |
 | 泳装 | 泳衣整体作为衣物、暴露或角色扮演焦点，包括被明确恋物化或用于扮演的日式学校连体泳装（原「死库水」）。普通游泳背景不算。 |
 | 洛丽塔 | Lolita fashion 的裙撑、蕾丝和层叠结构构成明确服饰核心；不表达年龄。 |
-| 湿衣 | 衣物已经浸湿后，角色仍穿着并进行有分量的行动或互动，而且湿衣的视觉变化（贴身、透明、颜色或轮廓）、触觉体验（冷暖、黏贴、摩擦或重量）或相关心理感受受到重点描写，成为核心视觉、感官或情节卖点。湿痕持续扩大、布料变重贴肤，角色仍穿着湿衣挣扎、逃离、行走或在公共环境继续完成任务，已经满足，不要求透明或在排尿结束后长时间停留；尿湿的内裤和裤子被继续穿到户外并再次浸湿也是正例。仅说明衣物因漏尿、尿失禁或主动尿裤子而变湿、出现湿痕或被他人发现，淋雨、洗澡自然造成浸湿后立即换衣或结束场景，以及没有展开浸湿后体验的持续穿着，均不算。 |
+| 湿衣 | 衣物已经浸湿后，角色仍穿着并进行有分量的行动或互动，而且湿衣的视觉变化（贴身、透明、颜色或轮廓）、触觉体验（冷暖、黏贴、摩擦或重量）或相关心理感受受到重点描写，成为核心视觉、感官或情节卖点。浸湿后立即具体描写外裤湿轮廓、湿布料贴住身体，再让角色继续上课、忍耐、挣扎、逃离、行走或完成任务，已经满足；不要求排尿结束后才开始写湿衣，也不要求透明或长时间停留。尿湿的内裤和裤子被继续穿到户外并再次浸湿也是正例。仅说明衣物因漏尿、尿失禁或主动尿裤子而变湿、出现湿痕或被他人发现，淋雨、洗澡自然造成浸湿后立即换衣或结束场景，以及没有展开浸湿后体验的持续穿着，均不算。 |
 | 病号服 | 病号服、住院服或检查服的暴露、身份弱势、穿着控制或医疗情境被持续恋物化。普通住院背景顺带穿着不算。 |
 | 皮裤 | 必须是皮质或仿皮的裤装；皮裙、皮质连衣裙或其他非裤装一律不算。裤装的紧绷、光泽、触感、气味或穿着限制还须被持续恋物化，普通裤装背景不算。 |
 | 皮靴 | 皮质长靴或短靴本身被持续恋物化，或成为足部支配、踩踏、嗅闻等玩法焦点。普通鞋类背景不算。 |
@@ -635,8 +635,8 @@
 | 感官过载 | 单一强烈或多重感官刺激被作为完整测试、折磨或玩法持续施加，并导致明显生理失控、痛苦或意识混乱。强刺激引发无法抑制的喷嚏、流泪、全身震颤等生理崩溃也算，不要求必须失去意识；普通尿意、疼痛或一次噪声带来的自然不适不算。 |
 | 手部 | 手掌、手指、手部外观或动作本身被持续作为核心视觉或感官对象。普通手淫、牵手或偶然描写手不算。 |
 | 精液 | 精液本身的量、质感、气味、收集或用途是恋物焦点；普通射精不自动算。 |
-| 腹部 | 腹部、肚脐、腹形或腹内状态在完整场景中被持续凝视、赞美、触摸，或跨多个实质单元以色情化外观、内部声响、束压、触感反复经营，即算；不因它同时表达排泄或疼痛而删除，也不要求每一处单独构成恋物行为。普通一次腹痛、施压、怀孕或偶然外貌描写不算。 |
-| 腿部 | 大腿或小腿的曲线、肉感、皮肤质感，或衣物包裹、褪下后的腿部效果，在完整场景中被持续凝视、评价、触摸，或跨多个实质单元反复色情化描写，即算；可与丝袜、足部并存。腿部同时参与夹腿、憋迫、奔跑等功能动作不会自动排除：若叙述又反复用性感、柔软、洁白、丰腴等审美表达经营其曲线、皮肤或腿根肉感，仍算。只有普通走路、夹腿、姿势，或扫视身体时只带过一次腿部，才不算。 |
+| 腹部 | 腹部、肚脐、腹形或腹内状态在完整场景中被持续凝视、赞美、触摸，或跨多个实质单元以色情化外观、内部声响、束压、触感反复经营，即算；不因它同时表达排泄或疼痛而删除，也不要求每一处单独构成恋物行为。同一憋尿、进食、怀孕或身体变化场景若连续用容量、形状、压力、内部状态、触摸或旁人凝视追踪腹部变化，也算持续经营；不能把这些分散表述压成“一次普通提及”。普通一次腹痛、施压、怀孕或偶然外貌描写不算。 |
+| 腿部 | 大腿或小腿的曲线、肉感、皮肤质感，或衣物包裹、褪下后的腿部效果，在完整场景中被持续凝视、评价、触摸，或跨多个实质单元反复色情化描写，即算；可与丝袜、足部并存。腿部同时参与夹腿、憋迫、奔跑等功能动作不会自动排除：若叙述又反复用性感、柔软、洁白、丰腴等审美表达经营其曲线、皮肤或腿根肉感，仍算。只有普通走路、夹腿、姿势、尿液自然流过腿部，或性行为中摸/舔一次大腿内侧后立即转向私处的过渡动作，不算。 |
 | 臀部 | 臀部的形状、大小、摆动或触感被持续作为核心视觉或感官对象；仅因紧身裤偶然显露轮廓不算。 |
 | 足部 | 脚、足底、脚趾或足部动作本身被持续作为核心视觉、触觉或感官对象；跨多个实质单元反复描写足形、脚趾动作、触感或气味可以聚合判断。只有丝袜、高跟鞋或偶然提到脚不算。 |
 
@@ -1118,6 +1118,31 @@
         "fail_reason": "硬门槛：只有单向、暂时或推测性的亲近，没有核心互爱关系。"
       }
     },
+    "学生": {
+      "candidate_terms": ["学生", "在校生", "小学生", "初中生", "高中生", "大学生", "研究生", "小学", "初中", "高中", "大学", "年级", "班级", "学籍", "宿舍", "晚自习", "辅导员"],
+      "candidate_term_priorities": {"在校生": 0, "小学生": 0, "初中生": 0, "高中生": 0, "大学生": 0, "研究生": 0, "学籍": 0, "学生": 1, "年级": 1, "班级": 1, "晚自习": 1, "辅导员": 1, "小学": 2, "初中": 2, "高中": 2, "大学": 2, "宿舍": 3},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
+      "review_mode": "structured_singleton",
+      "review_instruction": "候选词只用于定位。确认主要或重要角色当前具有明确在校学生身份，而且学业、年级、班级、校队、宿舍、学籍、学生形象或教育依赖实际参与角色塑造、冲突或性癖表达。若全部有效证据只发生在该学生与其自己的教师之间，按互斥规则只用师生；作品另有学生与非本人教师或单人场景时，仍可独立命中学生。",
+      "review_fields": {
+        "important_character_is_current_student": {"type": "boolean"},
+        "student_status_materially_shapes_character_conflict_or_fetish": {"type": "boolean"},
+        "all_support_is_only_direct_interaction_with_own_teacher": {"type": "boolean"}
+      },
+      "gate": {
+        "mode": "decide",
+        "fusion_override": true,
+        "all": [
+          {"field": "important_character_is_current_student", "equals": true},
+          {"field": "student_status_materially_shapes_character_conflict_or_fetish", "equals": true},
+          {"field": "all_support_is_only_direct_interaction_with_own_teacher", "not_equals": true}
+        ],
+        "pass_reason": "必要条件成立：重要角色的在校学生身份实质参与塑造、冲突或性癖表达。",
+        "fail_reason": "硬门槛：只有年龄或校服背景，学生身份没有实际作用；或证据只属于其与本人教师的师生情节。"
+      }
+    },
     "师生": {
       "candidate_terms": ["师生", "老师", "教师", "导师", "教练", "任课", "课堂", "学生", "教务处", "处分"],
       "candidate_term_priorities": {"师生": 0, "任课": 0, "导师": 0, "教练": 0, "老师": 1, "教师": 1, "教务处": 1, "处分": 1, "课堂": 2, "学生": 3},
@@ -1161,7 +1186,49 @@
     "支配与服从": {
       "candidate_terms": ["支配", "服从", "顺从", "听话", "主人", "命令", "控制权", "交出控制", "按要求"],
       "candidate_term_priorities": {"支配": 0, "服从": 0, "顺从": 0, "主人": 0, "交出控制": 0, "控制权": 1, "听话": 1, "命令": 2, "按要求": 3},
-      "review_instruction": "把整段关系合并判断：角色自愿进入玩法、接受对方安排装备或规则，并反复交付命令权、身体控制权或停止权时，属于持续经营的支配—服从结构；其中某个隐瞒功能超出同意范围而另标强迫，不会自动抹去此前已经成立的合意权力交换。"
+      "review_mode": "structured_singleton",
+      "review_instruction": "把整段关系合并判断：角色自愿进入玩法、接受对方安排装备或规则，并反复交付命令权、身体控制权或停止权时，属于持续经营的支配—服从结构；其中某个隐瞒功能超出同意范围而另标强迫，不会自动抹去此前已经成立的合意权力交换。一次强迫或性侵场景中，受害者因无力反抗、快感或求生而被叙述为‘顺从’，以及一次普通性行为中听从对方动作要求，都不构成稳定 D/s。",
+      "review_fields": {
+        "stable_or_repeated_dominance_submission_structure": {"type": "boolean"},
+        "commands_power_transfer_or_ds_identity_are_independently_developed": {"type": "boolean"},
+        "only_coercion_assault_or_momentary_yielding": {"type": "boolean"}
+      },
+      "gate": {
+        "mode": "decide",
+        "fusion_override": true,
+        "all": [
+          {"field": "stable_or_repeated_dominance_submission_structure", "equals": true},
+          {"field": "commands_power_transfer_or_ds_identity_are_independently_developed", "equals": true},
+          {"field": "only_coercion_assault_or_momentary_yielding", "not_equals": true}
+        ],
+        "pass_reason": "必要条件成立：稳定或反复的命令、顺从、权力交付或身份认同被独立经营为关系或玩法。",
+        "fail_reason": "硬门槛：只有强迫、性侵或因快感与无力反抗造成的一时顺从，没有独立经营的 D/s 结构。"
+      }
+    },
+    "高潮管理": {
+      "candidate_terms": ["高潮管理", "高潮控制", "射精管理", "不许高潮", "不准高潮", "禁止高潮", "允许高潮", "许可高潮", "高潮许可", "禁止射精", "射精禁止", "允许射精", "边缘控制", "寸止"],
+      "candidate_term_priorities": {"高潮管理": 0, "高潮控制": 0, "射精管理": 0, "不许高潮": 0, "不准高潮": 0, "禁止高潮": 0, "允许高潮": 0, "许可高潮": 0, "高潮许可": 0, "禁止射精": 0, "射精禁止": 0, "允许射精": 0, "边缘控制": 0, "寸止": 1},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
+      "review_mode": "structured_singleton",
+      "review_instruction": "候选词只用于定位。必须由他人、规则、装置或持续计划明确决定角色能否高潮、何时高潮、采用何种方式或达到多少次；控制对象必须是高潮或射精本身。普通相互刺激中的节奏变化、应对角色‘快来了’而加速或继续、药物只造成兴奋或多次高潮，以及参与者自行追求同时高潮，均不算。",
+      "review_fields": {
+        "external_actor_rule_device_or_plan_controls_climax": {"type": "boolean"},
+        "control_explicitly_targets_climax_or_ejaculation": {"type": "boolean"},
+        "only_ordinary_mutual_stimulation_arousal_drug_or_simultaneous_climax": {"type": "boolean"}
+      },
+      "gate": {
+        "mode": "decide",
+        "fusion_override": true,
+        "all": [
+          {"field": "external_actor_rule_device_or_plan_controls_climax", "equals": true},
+          {"field": "control_explicitly_targets_climax_or_ejaculation", "equals": true},
+          {"field": "only_ordinary_mutual_stimulation_arousal_drug_or_simultaneous_climax", "not_equals": true}
+        ],
+        "pass_reason": "必要条件成立：外部角色、规则、装置或计划明确管理高潮或射精权。",
+        "fail_reason": "硬门槛：只有普通刺激节奏、致兴奋药物、多次或同时高潮，没有管理高潮权。"
+      }
     },
     "羞辱": {
       "candidate_terms": ["羞辱", "受辱", "社死", "围观", "被拍", "拍下来", "传到网上", "上传网络", "议论"],
@@ -1194,6 +1261,129 @@
         "pass_reason": "必要条件成立：自动、程序化或传感闭环装置持续实施性刺激。",
         "fail_reason": "硬门槛：只有普通手持或由人直接逐次遥控的简单玩具，没有自动机械性刺激。"
       }
+    },
+    "中出": {
+      "candidate_terms": ["中出", "内射", "射在里面", "射进体内", "射入体内", "在里面射", "射完才拔出"],
+      "candidate_term_priorities": {"中出": 0, "内射": 0, "射进体内": 0, "射入体内": 0, "射完才拔出": 0, "射在里面": 1, "在里面射": 1},
+      "candidate_context_limit": 3,
+      "prefer_lexical_evidence": true,
+      "review_mode": "structured_singleton",
+      "review_instruction": "候选词只用于定位，不直接决定标签。必须确认精液明确射在阴道或肛门内部，或者正文明确写出射精完成后才从体内拔出。不能因为插入中两人同时高潮、男性达到顶点、性交后阴茎变软，或体内性交与位置不明的射精分别出现，就推断为中出。",
+      "review_fields": {
+        "explicit_internal_ejaculation_or_post_ejaculation_withdrawal": {"type": "boolean"},
+        "only_penetration_and_orgasm_without_semen_destination": {"type": "boolean"}
+      },
+      "gate": {
+        "mode": "decide",
+        "fusion_override": true,
+        "all": [
+          {"field": "explicit_internal_ejaculation_or_post_ejaculation_withdrawal", "equals": true},
+          {"field": "only_penetration_and_orgasm_without_semen_destination", "not_equals": true}
+        ],
+        "pass_reason": "必要条件成立：精液去向明确在阴道/肛门内部，或明确射精后才拔出。",
+        "fail_reason": "硬门槛：只有插入与高潮，精液去向并未明确。"
+      }
+    },
+    "NTR": {
+      "candidate_terms": ["NTR", "绿帽", "出轨", "劈腿", "偷情", "第三者", "横刀夺爱", "被抢走", "被夺走", "移情别恋", "不能做对不起", "做对不起", "背着她", "背着他", "情敌"],
+      "candidate_term_priorities": {"NTR": 0, "绿帽": 0, "出轨": 0, "劈腿": 0, "偷情": 0, "第三者": 0, "横刀夺爱": 0, "不能做对不起": 0, "做对不起": 1, "背着她": 1, "背着他": 1, "被抢走": 1, "被夺走": 1, "移情别恋": 1, "情敌": 2},
+      "candidate_context_limit": 3,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
+      "review_mode": "structured_singleton",
+      "review_instruction": "候选词只用于定位。先按时间顺序找出排他关系成立点，再确认第三者行为发生在其后，并实际造成夺取、背叛或关系损害，且被夺感、嫉妒、报复或关系崩解推动一个完整篇章。排他关系成立前已经结束的暧昧或非实质接触，后来只有单恋、自杀、悲痛、内疚或口头说爱但现有关系未受第三者破坏，第三者引诱但被拒绝，以及一般竞争或三角关系都不算。不能把求婚、交往或接受关系的时间顺序倒置。",
+      "review_fields": {
+        "exclusive_relationship_exists_before_third_party_intervention": {"type": "boolean"},
+        "chronology_explicitly_places_third_party_intervention_after_exclusivity": {"type": "boolean"},
+        "third_party_actually_causes_takeover_betrayal_or_relationship_damage": {"type": "boolean"},
+        "deprivation_jealousy_revenge_or_collapse_drives_substantial_arc": {"type": "boolean"},
+        "only_unrequited_pursuit_failed_seduction_or_ordinary_triangle": {"type": "boolean"},
+        "only_prior_ambiguity_or_later_grief_without_damage_to_current_relationship": {"type": "boolean"}
+      },
+      "gate": {
+        "mode": "decide",
+        "fusion_override": true,
+        "all": [
+          {"field": "exclusive_relationship_exists_before_third_party_intervention", "equals": true},
+          {"field": "chronology_explicitly_places_third_party_intervention_after_exclusivity", "equals": true},
+          {"field": "third_party_actually_causes_takeover_betrayal_or_relationship_damage", "equals": true},
+          {"field": "deprivation_jealousy_revenge_or_collapse_drives_substantial_arc", "equals": true},
+          {"field": "only_unrequited_pursuit_failed_seduction_or_ordinary_triangle", "not_equals": true},
+          {"field": "only_prior_ambiguity_or_later_grief_without_damage_to_current_relationship", "not_equals": true}
+        ],
+        "pass_reason": "必要条件成立：第三者实际破坏先已存在的排他关系，并形成有分量的被夺、背叛或关系崩解篇章。",
+        "fail_reason": "硬门槛：只有单恋、追求失败、未遂引诱或普通三角，没有实际破坏既有排他关系。"
+      }
+    },
+    "绳缚": {
+      "candidate_terms": ["绳缚", "绳绑", "绳子绑", "绳索绑", "捆缚", "五花大绑", "麻绳", "粗绳", "细绳"],
+      "candidate_term_priorities": {"绳缚": 0, "绳绑": 0, "绳子绑": 0, "绳索绑": 0, "捆缚": 0, "五花大绑": 0, "麻绳": 1, "粗绳": 1, "细绳": 1},
+      "candidate_context_limit": 3,
+      "prefer_lexical_evidence": true,
+      "review_instruction": "候选词只用于定位。明确使用绳索绑缚，或使用通常已经表达绳索式捆缚的‘五花大绑’‘捆缚’，并让绑缚在完整拘束、强迫或性场景中实际限制行动，才保留。只有不明手段的‘绑住’、手铐、短暂过渡性捆绑或没有实际限制作用时删除。"
+    },
+    "多角关系": {
+      "candidate_terms": ["三角关系", "三角恋", "三人关系", "三个人之间", "三人之间", "两女一男", "两男一女", "三人一起", "三人同时", "共同刺激", "同时争夺", "两人争夺", "争风吃醋", "她们两个", "她们俩", "两个女人", "两个女生", "男朋友", "女朋友"],
+      "candidate_term_priorities": {"三角关系": 0, "三角恋": 0, "三人关系": 0, "三个人之间": 0, "三人之间": 0, "两女一男": 0, "两男一女": 0, "三人一起": 0, "三人同时": 0, "共同刺激": 1, "同时争夺": 1, "两人争夺": 1, "争风吃醋": 2, "她们两个": 2, "她们俩": 2, "两个女人": 2, "两个女生": 2, "男朋友": 3, "女朋友": 3},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 5,
+      "review_mode": "structured_singleton",
+      "review_context_scope": "thread",
+      "review_instruction": "候选词只用于定位。保留两类情形之一：三人或以上持续形成相互牵连的恋爱、性、占有、背叛或竞争结构，并推动实质篇章；或者恰好三人共同实施一个完整核心性/亲密/性癖场景。多组互不相干的双人关系、四人以上只有单场群体性行为、三人碰巧同场或短暂争风吃醋不算。"
+    },
+    "犯罪": {
+      "candidate_terms": ["犯罪", "犯罪集团", "犯罪组织", "黑帮", "帮派", "绑架", "非法拘禁", "勒索", "谋杀", "灭口", "埋尸", "毒品交易", "黑市交易", "警方调查", "警察调查", "追捕", "逃犯", "作案", "销毁证据", "掩盖罪行"],
+      "candidate_term_priorities": {"犯罪": 0, "犯罪集团": 0, "犯罪组织": 0, "黑帮": 0, "帮派": 0, "绑架": 0, "非法拘禁": 0, "勒索": 0, "谋杀": 0, "灭口": 0, "埋尸": 0, "毒品交易": 0, "黑市交易": 0, "警方调查": 0, "警察调查": 0, "追捕": 0, "逃犯": 1, "作案": 1, "销毁证据": 1, "掩盖罪行": 1},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 6,
+      "review_instruction": "候选词只用于定位。必须由犯罪计划、实施、掩盖、调查、追捕或犯罪组织形成整部作品或一个实质故事单元的主要框架；连续绑架、非法拘禁、勒索、谋杀、毒品交易等组成因果链也算。一次孤立轻微违法、只把单次性侵或下药换称犯罪、普通混混或背景新闻不算。"
+    },
+    "假阳具": {
+      "candidate_terms": ["假阳具", "假阴茎", "仿真阴茎", "仿真阳具", "人造阴茎", "穿戴式阳具", "吸盘阳具", "吸盘假阴茎"],
+      "candidate_term_priorities": {"假阳具": 0, "假阴茎": 0, "仿真阴茎": 0, "仿真阳具": 0, "人造阴茎": 0, "穿戴式阳具": 0, "吸盘阳具": 0, "吸盘假阴茎": 0},
+      "candidate_context_limit": 3,
+      "prefer_lexical_evidence": true
+    },
+    "容器排尿": {
+      "candidate_terms": ["尿进", "尿到", "接尿", "盛尿", "装尿", "尿壶", "便壶", "桶里", "瓶里", "杯里", "罐里", "花瓶"],
+      "candidate_term_priorities": {"尿进": 0, "接尿": 0, "盛尿": 0, "装尿": 0, "尿壶": 0, "便壶": 0, "桶里": 1, "瓶里": 1, "杯里": 1, "罐里": 1, "花瓶": 1, "尿到": 2},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
+      "review_instruction": "候选词只用于定位。确认角色把尿液实际排入厕所之外的独立容器，而且容器的使用、容量、接取或处置参与场景；只尿到衣物、尿布、地面、身体或马桶不算。"
+    },
+    "尿浴": {
+      "candidate_terms": ["尿浴", "淋尿", "被尿淋", "用尿冲", "尿液淋", "从头淋到脚", "泡在尿", "浸在尿", "全身是尿", "身上全是尿"],
+      "candidate_term_priorities": {"尿浴": 0, "淋尿": 0, "被尿淋": 0, "用尿冲": 0, "尿液淋": 0, "从头淋到脚": 0, "泡在尿": 0, "浸在尿": 0, "全身是尿": 1, "身上全是尿": 1},
+      "candidate_context_limit": 3,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4
+    },
+    "尿频": {
+      "candidate_terms": ["尿频", "又想尿", "又想小便", "又尿急", "再次尿急", "刚尿完", "才尿完", "第二次尿意", "一轮轮尿", "反复排尿"],
+      "candidate_term_priorities": {"尿频": 0, "又想尿": 0, "又想小便": 0, "又尿急": 0, "再次尿急": 0, "刚尿完": 0, "才尿完": 0, "第二次尿意": 0, "一轮轮尿": 0, "反复排尿": 0},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
+      "review_instruction": "候选词只用于定位。须有短期或持续的多轮尿意/排尿：刚排尿不久又明显尿急，或药效造成一轮轮再次尿急并推动场景。一次尿急、同一泡尿的中断续排或只说排尿次数多但不参与情节，不算。"
+    },
+    "强制排尿": {
+      "candidate_terms": ["强制排尿", "强迫排尿", "逼她尿", "逼他尿", "让她尿", "让他尿", "给我尿", "尿出来", "催尿", "解除封堵"],
+      "candidate_term_priorities": {"强制排尿": 0, "强迫排尿": 0, "逼她尿": 0, "逼他尿": 0, "给我尿": 0, "催尿": 0, "解除封堵": 0, "让她尿": 1, "让他尿": 1, "尿出来": 2},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
+      "review_instruction": "候选词只用于定位。必须在实际排尿动作发生时，由他人直接命令、刺激、解除封堵或以其他手段迫使排尿，且角色不能自由拒绝；此前只被灌水或拘束、后来本人主动请求并获得排尿许可，不算。"
+    },
+    "禁尿贴": {
+      "candidate_terms": ["禁尿贴", "封尿贴", "乳胶贴", "乳胶帖", "贴住尿道", "贴在尿道", "封住尿道", "封闭尿道"],
+      "candidate_term_priorities": {"禁尿贴": 0, "封尿贴": 0, "乳胶贴": 0, "乳胶帖": 0, "贴住尿道": 0, "贴在尿道": 0, "封住尿道": 0, "封闭尿道": 0},
+      "candidate_context_limit": 3,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
+      "review_instruction": "候选词只用于定位。贴片、符咒或装置必须实际贴在尿道/排尿部位，并明确用于阻止排尿或维持憋尿；普通传感贴、膏药、装饰贴或插入式尿道塞不算。"
     },
     "丝袜": {
       "candidate_terms": ["丝袜", "连裤袜", "黑丝", "白丝", "黑色裤袜", "白色裤袜", "白色连裤袜", "黑色连裤袜"],
@@ -1370,32 +1560,59 @@
       }
     },
     "单人": {
-      "candidate_terms": ["独自", "一个人", "自行", "自己一个", "没人帮助", "独处"],
-      "candidate_term_priorities": {"独自": 0, "自己一个": 0, "没人帮助": 0, "一个人": 1, "自行": 1, "独处": 2},
+      "candidate_terms": ["独自", "一个人", "自行", "自己一个", "没人帮助", "独处", "独自忍耐", "自行忍耐", "自己忍耐", "只能忍耐", "只得忍耐", "只得夹紧", "自己处理", "自己解决"],
+      "candidate_term_priorities": {"独自": 0, "自己一个": 0, "没人帮助": 0, "独自忍耐": 0, "自行忍耐": 0, "自己忍耐": 0, "只能忍耐": 0, "只得忍耐": 0, "只得夹紧": 0, "一个人": 1, "自行": 1, "自己处理": 1, "自己解决": 1, "独处": 2},
       "review_mode": "structured_singleton",
-      "review_instruction": "旁人只在场、担心、事后看见、提建议或带路仍可算；但另一人若下药、破坏出口、命令、刺激、检查操作或用身体协助，直接制造或持续实施同一核心困境，必须删除。判断客观参与方式，不要求对方有性癖、恶意或支配动机；医生要求饮水并在充盈膀胱上反复操作，也属于他人直接造成和实施。两个布尔字段按具体核心场景填写。",
+      "review_instruction": "不要求角色主动发起；意外、环境阻碍或身体失控也可形成单人场景。旁人只在场、担心、事后看见、提建议、带路、偷窥或幻想仍可算；旁人不知道私密困境而只按日常规则行动，也不算直接制造。但另一人明知或专门以下药、破坏出口、命令、刺激、检查操作或身体协助直接制造或持续实施同一核心困境，必须删除。判断客观参与方式，不要求对方有性癖、恶意或支配动机；医生要求饮水并在充盈膀胱上反复操作，也属于他人直接造成和实施。",
       "review_fields": {
-        "core_play_carried_out_by_character_alone": {
+        "core_play_experienced_and_managed_by_one_character": {
           "type": "boolean",
-          "description": "角色自行发起并完成核心困境或玩法，而不是只在他人故意制造困境后独自忍受。"
+          "description": "主要忍耐、失控、自我处置或玩法由一个角色亲自经历和应对；无论主动还是意外均可。"
         },
         "other_person_directly_caused_or_implemented_core_play": {
           "type": "boolean",
-          "description": "他人以下药、破坏出口、饮水要求、检查安排等直接制造同一困境，或用命令、刺激、实时控制、检查操作、身体协助持续实施；不要求恶意或癖好动机，他人后来不在场也不抹去直接因果。"
+          "description": "他人明知或专门以下药、破坏出口、饮水要求、检查安排等直接制造同一困境，或用命令、刺激、实时控制、检查操作、身体协助持续实施；不要求恶意或癖好动机。旁人不知情地执行日常规则、只在场或偷窥不填 true。"
         }
       },
       "gate": {
         "mode": "decide",
         "fusion_override": true,
         "all": [
-          {"field": "core_play_carried_out_by_character_alone", "equals": true},
+          {"field": "core_play_experienced_and_managed_by_one_character", "equals": true},
           {"field": "other_person_directly_caused_or_implemented_core_play", "not_equals": true}
         ],
         "pass_reason": "必要条件成立：核心玩法由角色自行发起并经历，旁人没有直接制造或持续实施。",
         "fail_reason": "硬门槛：另一人直接制造困境或持续实施核心玩法，不属于单人。"
       }
     },
+    "青梅竹马": {
+      "review_mode": "structured_singleton",
+      "review_instruction": "逐个人名或稳定指代核对同一对人物：两人都必须是当前作品或篇章的主要角色，两人自幼持续相识并共同经历成长，而且这段共同成长持续塑造两人当前关系。不能把主角与背景朋友的童年经历移接给主角与当前互动对象；背景损友只用于交代主角性格不算。",
+      "review_fields": {
+        "same_named_pair_are_both_major_current_characters": {"type": "boolean"},
+        "same_named_pair_continuously_grew_up_together": {"type": "boolean"},
+        "childhood_history_materially_shapes_that_pairs_current_relationship": {"type": "boolean"},
+        "evidence_belongs_to_a_different_or_background_character": {"type": "boolean"}
+      },
+      "gate": {
+        "mode": "decide",
+        "fusion_override": true,
+        "all": [
+          {"field": "same_named_pair_are_both_major_current_characters", "equals": true},
+          {"field": "same_named_pair_continuously_grew_up_together", "equals": true},
+          {"field": "childhood_history_materially_shapes_that_pairs_current_relationship", "equals": true},
+          {"field": "evidence_belongs_to_a_different_or_background_character", "not_equals": true}
+        ],
+        "pass_reason": "必要条件成立：同一对主要角色共同成长，童年关系持续塑造两人当前关系。",
+        "fail_reason": "硬门槛：人物对齐失败、只涉及背景朋友，或没有同一对主要角色共同成长。"
+      }
+    },
     "站立排尿": {
+      "candidate_terms": ["站立排尿", "站着尿", "站着小便", "站着撒尿", "站着放尿", "站姿排尿", "站着解决"],
+      "candidate_term_priorities": {"站立排尿": 0, "站着尿": 0, "站着小便": 0, "站着撒尿": 0, "站着放尿": 0, "站姿排尿": 0, "站着解决": 1},
+      "candidate_context_limit": 3,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
       "review_mode": "structured_singleton",
       "review_instruction": "必须确有尿液排出，并以尿液实际开始及持续排出时的姿势为准。先站立后坐、蹲或跪才排尿不算；站立失禁尿湿衣物、只摆姿势或因封印未排出也不算。",
       "review_fields": {
@@ -1660,22 +1877,23 @@
       }
     },
     "喜剧": {
-      "candidate_terms": ["喜剧", "搞笑", "笑死", "哈哈", "吐槽", "滑稽", "荒诞", "讽刺", "误会", "误以为", "只当", "好嘛", "无语"],
-      "candidate_term_priorities": {"喜剧": 0, "搞笑": 0, "笑死": 0, "哈哈": 0, "吐槽": 0, "滑稽": 0, "荒诞": 0, "讽刺": 0, "误会": 0, "误以为": 0, "只当": 0, "好嘛": 1, "无语": 2},
+      "candidate_terms": ["喜剧", "搞笑", "幽默", "有趣", "笑死", "哈哈", "吐槽", "滑稽", "荒诞", "讽刺", "误会", "误以为", "只当", "好嘛", "无语"],
+      "candidate_term_priorities": {"喜剧": 0, "搞笑": 0, "幽默": 0, "有趣": 0, "笑死": 0, "哈哈": 0, "吐槽": 0, "滑稽": 0, "荒诞": 0, "讽刺": 0, "误会": 0, "误以为": 0, "只当": 0, "好嘛": 1, "无语": 2},
       "candidate_context_limit": 4,
       "prefer_lexical_evidence": true,
       "lexical_rescue": true,
       "review_mode": "structured_singleton",
-      "review_instruction": "逐类客观核对，不评价整体基调。满足任一路径即可：一、叙述吐槽、荒诞比喻、公众误会、视角错位、讽刺反转中至少两类跨场景出现；二、作者在标题、前言或后记明确把作品定位为喜剧、搞笑或幽默，且正文多处确实用上述装置实现该定位。空泛自称幽默但正文没有实现不算。",
+      "review_context_scope": "thread",
+      "review_instruction": "逐类客观核对完整 thread，不评价整体基调。满足任一路径即可：一、叙述吐槽、荒诞比喻、公众误会、视角错位、讽刺反转中至少两类跨场景出现；二、作者在标题、前言或后记明确把作品定位为喜剧、搞笑、有趣或幽默，且正文多处确实用上述装置实现该定位。作者定位可能在正文后的作者回复中，必须与正文合并判断；空泛自称幽默但正文没有实现不算。",
       "review_fields": {
-        "two_humor_types_recur_or_explicit_comedy_positioning_is_realized": {"type": "boolean"},
+        "valid_comedy_path_is_satisfied": {"type": "boolean", "description": "以下任一路径成立即填 true：正文跨场景经营至少两类幽默装置；或者作者明确定位喜剧、搞笑、有趣或幽默且正文多处实际用幽默装置实现。"},
         "only_one_light_phrase_or_unrealized_self_description": {"type": "boolean"}
       },
       "gate": {
         "mode": "decide",
         "fusion_override": true,
         "all": [
-          {"field": "two_humor_types_recur_or_explicit_comedy_positioning_is_realized", "equals": true},
+          {"field": "valid_comedy_path_is_satisfied", "equals": true},
           {"field": "only_one_light_phrase_or_unrealized_self_description", "not_equals": true}
         ],
         "pass_reason": "必要条件成立：全文反复经营至少两类幽默装置。",
@@ -1753,10 +1971,10 @@
       "candidate_terms": ["湿衣", "湿裤", "湿透的衣", "湿透的裤", "湿内裤", "湿斑", "贴在身上", "贴住身体", "湿热", "湿冷"],
       "candidate_term_priorities": {"湿衣": 0, "湿裤": 0, "湿透的衣": 0, "湿透的裤": 0, "湿内裤": 0, "贴在身上": 0, "贴住身体": 0, "湿热": 1, "湿冷": 1, "湿斑": 2},
       "support_review_limit": 4,
-      "review_instruction": "从衣物浸湿之后继续判断。角色仍穿着并继续行走、逃离、工作、询问、分析或其他互动，同时具体感到湿布料贴身、摩擦、冷暖、黏重或因此扭动身体，就算；不要求透明或长时间停留。只有湿痕结果、没有后续湿布料体验才删除。",
+      "review_instruction": "从衣物浸湿之后继续判断。角色仍穿着并继续上课、忍耐、行走、逃离、工作、询问、分析或其他互动，同时具体写出外衣湿轮廓、湿布料贴住身体、摩擦、冷暖、黏重或相关心理效果，就算；这些湿衣效果紧接漏尿描写出现也算，不要求排尿结束、透明或长时间停留。只有湿痕结果、没有具体湿布料效果或后续行动才删除。",
       "review_fields": {
-        "continues_action_or_interaction_while_still_wearing_wet_clothing": {"type": "boolean"},
-        "post_wetting_fabric_contact_visual_or_psychological_effect_described": {"type": "boolean"},
+        "continues_action_or_interaction_while_still_wearing_wet_clothing": {"type": "boolean", "description": "浸湿后角色继续上课、忍耐、行走、逃离、工作或互动即为 true，不要求排尿已经结束。"},
+        "post_wetting_fabric_contact_visual_or_psychological_effect_described": {"type": "boolean", "description": "具体写出外裤湿轮廓、湿布料贴住身体、透明、颜色、冷暖、摩擦、黏重或心理感受即为 true；紧接浸湿动作描写也属于浸湿后效果。"},
         "only_wet_stain_result_without_post_wetting_experience": {"type": "boolean"}
       },
       "gate": {
@@ -1825,9 +2043,11 @@
       }
     },
     "排泄管理": {
-      "candidate_terms": ["如厕报备", "向主管报备", "向管理员报备", "离岗许可", "申请如厕", "批准上厕所", "不许上厕所", "禁止去厕所", "擅自去厕所", "替补人员"],
-      "candidate_term_priorities": {"如厕报备": 0, "向主管报备": 0, "向管理员报备": 0, "离岗许可": 0, "申请如厕": 0, "批准上厕所": 0, "不许上厕所": 0, "禁止去厕所": 0, "擅自去厕所": 0, "替补人员": 1},
-      "candidate_context_limit": 3
+      "candidate_terms": ["排泄管理", "如厕管理", "如厕报备", "向主管报备", "向管理员报备", "离岗许可", "申请如厕", "批准上厕所", "允许上厕所", "不许上厕所", "禁止去厕所", "擅自去厕所", "厕所许可", "厕所限制", "厕所稀缺", "只有一个女厕所", "女厕所只有", "上厕所都要", "上厕所要", "厕所排队", "排队上厕所", "请假扣工资", "定时排尿", "尿布管理", "清理尿布", "替补人员"],
+      "candidate_term_priorities": {"排泄管理": 0, "如厕管理": 0, "如厕报备": 0, "向主管报备": 0, "向管理员报备": 0, "离岗许可": 0, "申请如厕": 0, "批准上厕所": 0, "允许上厕所": 0, "不许上厕所": 0, "禁止去厕所": 0, "擅自去厕所": 0, "厕所许可": 0, "厕所限制": 0, "厕所稀缺": 0, "只有一个女厕所": 0, "女厕所只有": 0, "请假扣工资": 0, "定时排尿": 0, "尿布管理": 0, "上厕所都要": 1, "上厕所要": 1, "厕所排队": 1, "排队上厕所": 1, "清理尿布": 1, "替补人员": 1},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4
     },
     "漏尿": {
       "candidate_terms": ["漏尿", "漏出一点", "漏出一丝", "漏出几滴", "尿从指缝", "指缝中流出", "一小股尿", "少量尿液", "逐渐渗出", "尿液渗出", "尿水渗出", "渗出几滴", "几滴溢出", "一滴尿", "滴漏"],
@@ -1863,12 +2083,13 @@
       "candidate_term_priorities": {"被迫": 0, "强迫": 0, "威胁": 0, "无法拒绝": 0, "减薪": 0, "开除": 0, "不许": 1, "禁止": 1, "不得": 1, "惩罚": 1, "命令": 2, "下药": 1, "拘束": 2},
       "candidate_context_limit": 3,
       "review_mode": "structured_singleton",
-      "review_instruction": "核对具体事件是否由他人或制度的暴力、命令、权力、惩罚威胁、秘密操控或出口剥夺迫使角色行动或忍耐。既有制度明确以减薪、开除、处分等后果禁止离开，角色正因害怕后果而继续忍耐，属于非合意控制；不要求控制者当场重复命令。没有惩罚后果的一般流程，以及自愿期待的主奴规则或角色扮演不算。",
+      "review_instruction": "核对具体事件是否由他人或制度的暴力、命令、权力、惩罚威胁、秘密操控或出口剥夺迫使角色行动或忍耐。既有制度明确以减薪、开除、处分等后果禁止离开，角色正因害怕后果而继续忍耐，属于非合意控制；不要求控制者当场重复命令。但上位者只是在平时显得严厉，角色预想可能挨骂或羞于提出私密需求，而上位者并不知道该需求、没有针对该行为下令或设置明确后果，不算外部强迫。没有惩罚后果的一般流程，以及自愿期待的主奴规则或角色扮演也不算。",
       "review_fields": {
         "external_person_or_institution_imposes_control": {"type": "boolean"},
         "violence_threat_penalty_power_or_exit_deprivation_present": {"type": "boolean"},
         "character_complies_or_endures_because_of_that_control": {"type": "boolean"},
-        "only_general_process_or_voluntary_expected_rule": {"type": "boolean"}
+        "only_general_process_or_voluntary_expected_rule": {"type": "boolean"},
+        "only_authority_reputation_or_private_shyness_without_targeted_command": {"type": "boolean", "description": "上位者不知角色私密需求，也未针对相关行为下令或设置明确后果；角色只因对方平时严厉、预想挨骂或羞于开口而自行忍耐，即填 true。"}
       },
       "gate": {
         "mode": "decide",
@@ -1876,7 +2097,8 @@
           {"field": "external_person_or_institution_imposes_control", "equals": true},
           {"field": "violence_threat_penalty_power_or_exit_deprivation_present", "equals": true},
           {"field": "character_complies_or_endures_because_of_that_control", "equals": true},
-          {"field": "only_general_process_or_voluntary_expected_rule", "not_equals": true}
+          {"field": "only_general_process_or_voluntary_expected_rule", "not_equals": true},
+          {"field": "only_authority_reputation_or_private_shyness_without_targeted_command", "not_equals": true}
         ],
         "pass_reason": "必要条件成立：他人或制度以威胁、惩罚、权力或出口剥夺迫使角色行动或忍耐。",
         "fail_reason": "硬门槛：没有带实际后果的外部控制，或只有一般流程、自愿规则与自行勉强坚持。"
@@ -1899,6 +2121,11 @@
       }
     },
     "快感堕落": {
+      "candidate_terms": ["从抗拒到", "从害怕到", "开始喜欢", "开始享受", "越来越享受", "爱上了这种感觉", "爱上这种感觉", "喜欢上失禁", "喜欢上憋尿", "刻意憋尿", "故意憋尿", "主动购买纸尿裤", "买了纸尿裤", "上瘾", "沉沦"],
+      "candidate_term_priorities": {"从抗拒到": 0, "从害怕到": 0, "爱上了这种感觉": 0, "爱上这种感觉": 0, "喜欢上失禁": 0, "喜欢上憋尿": 0, "刻意憋尿": 0, "故意憋尿": 0, "主动购买纸尿裤": 0, "开始喜欢": 1, "开始享受": 1, "越来越享受": 1, "买了纸尿裤": 1, "上瘾": 1, "沉沦": 2},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 4,
       "review_mode": "structured_singleton",
       "review_instruction": "核对前后变化：前期明确无快感、抵触或拒绝，后期因快感主动选择高潮、追加刺激或接受原先拒绝的玩法；起初自愿参加主奴关系不抹掉后来在快感态度上的变化。",
       "review_fields": {
@@ -2033,8 +2260,11 @@
       }
     },
     "心理创伤": {
-      "candidate_terms": ["心理创伤", "创伤", "阴影", "闪回", "噩梦", "不敢回忆", "害怕打雷", "回避", "过度警觉", "愧疚"],
-      "candidate_term_priorities": {"心理创伤": 0, "创伤": 0, "闪回": 0, "噩梦": 0, "不敢回忆": 0, "过度警觉": 0, "害怕打雷": 1, "阴影": 1, "回避": 2, "愧疚": 3}
+      "candidate_terms": ["心理创伤", "创伤", "创伤后", "自杀后", "好友自杀", "阴影", "闪回", "噩梦", "不敢回忆", "不敢去回忆", "不能进食", "不吃不喝", "没吃东西", "三天没吃", "反复昏厥", "再度晕倒", "害怕独处", "不敢独处", "害怕孤独", "害怕打雷", "回避", "过度警觉", "愧疚"],
+      "candidate_term_priorities": {"心理创伤": 0, "创伤": 0, "创伤后": 0, "自杀后": 0, "好友自杀": 0, "闪回": 0, "噩梦": 0, "不敢回忆": 0, "不敢去回忆": 0, "不能进食": 0, "不吃不喝": 0, "没吃东西": 0, "三天没吃": 0, "反复昏厥": 0, "再度晕倒": 0, "害怕独处": 0, "不敢独处": 0, "害怕孤独": 0, "过度警觉": 0, "害怕打雷": 1, "阴影": 1, "回避": 2, "愧疚": 3},
+      "candidate_context_limit": 4,
+      "prefer_lexical_evidence": true,
+      "support_review_limit": 6
     },
     "羞耻": {
       "candidate_terms": ["羞耻", "羞愧", "难堪", "丢脸", "面红耳赤", "脸红", "满脸通红", "不好意思", "尴尬", "不敢直视", "遮住脸", "躲起来"],
@@ -2365,16 +2595,18 @@
       "support_review_limit": 4,
       "prefer_lexical_evidence": true,
       "review_mode": "structured_singleton",
-      "review_instruction": "跨同一完整单元多次描写腹形、鼓胀、腹内声响、触摸或束压，已构成腹部焦点；即使这些细节同时表达憋尿、排泄或疼痛，也不得以“服务于另一主题”为由删除。只有一次普通腹痛、施压或偶然提及才不算。",
+      "review_instruction": "逐处计数同一完整单元里的腹部证据。多次以容量、腹形、鼓胀、腹内压力或声响、触摸、凝视和旁人想象追踪腹部状态，已构成腹部焦点；这些词可以分散在同一长段不同位置。即使细节同时表达憋尿、进食、怀孕、排泄或疼痛，也不得压成一次提及或以‘服务于另一主题’删除。只有全文确实仅一次普通腹痛、施压或偶然外貌提及才不算。",
       "review_fields": {
-        "sustained_or_repeated_abdominal_focus": {"type": "boolean"},
+        "multiple_distinct_abdominal_state_descriptions_in_same_scene": {"type": "boolean", "description": "同一完整场景至少两次以腹形、容量、内部压力、声响、触摸、凝视或想象描写腹部/小腹/肚脐/腹内状态，即填 true；表述可分散在长帖不同位置。"},
+        "abdominal_state_is_eroticized_observed_touched_or_tracks_escalation": {"type": "boolean", "description": "腹部状态被色情化、被角色观察/想象/触摸，或被反复用来追踪身体困境升级，即填 true；同时服务憋尿、进食、怀孕、排泄或疼痛不影响。"},
         "only_one_ordinary_incidental_mention": {"type": "boolean"}
       },
       "gate": {
         "mode": "decide",
         "fusion_override": true,
         "all": [
-          {"field": "sustained_or_repeated_abdominal_focus", "equals": true},
+          {"field": "multiple_distinct_abdominal_state_descriptions_in_same_scene", "equals": true},
+          {"field": "abdominal_state_is_eroticized_observed_touched_or_tracks_escalation", "equals": true},
           {"field": "only_one_ordinary_incidental_mention", "not_equals": true}
         ],
         "pass_reason": "必要条件成立：腹形、腹内状态、触感或束压在完整单元中被持续或反复经营。",
@@ -2447,11 +2679,11 @@
       "candidate_term_priorities": {"美腿": 0, "腿部": 0, "腿根": 0, "腿型": 0, "腿肉": 0, "大腿": 1, "小腿": 1, "长腿": 1},
       "candidate_context_limit": 4,
       "review_mode": "structured_singleton",
-      "review_instruction": "区分功能动作与审美经营。只有走路、夹腿、奔跑或憋迫姿势不算；但这些动作若同时反复以性感、柔软、洁白、丰腴等表达展示大腿或小腿的曲线、皮肤、腿根肉感，仍是腿部性癖焦点，不能因它也服务憋尿动作而删除。",
+      "review_instruction": "区分腿部审美经营、功能动作和性行为的过渡动作。只有走路、夹腿、奔跑、憋迫姿势、尿液自然流过腿部，或摸/舔一次大腿内侧后马上转向私处，不算；但这些动作若同时反复以性感、柔软、洁白、丰腴等表达持续展示大腿或小腿的曲线、皮肤、腿根肉感，仍是腿部性癖焦点。",
       "review_fields": {
         "leg_shape_skin_or_flesh_is_repeatedly_sexualized": {"type": "boolean"},
         "leg_focus_is_sustained_in_scene_or_recurs_across_units": {"type": "boolean"},
-        "only_functional_walking_clenching_or_posture": {"type": "boolean"}
+        "only_functional_or_brief_transition_to_genitals": {"type": "boolean"}
       },
       "gate": {
         "mode": "decide",
@@ -2459,10 +2691,10 @@
         "all": [
           {"field": "leg_shape_skin_or_flesh_is_repeatedly_sexualized", "equals": true},
           {"field": "leg_focus_is_sustained_in_scene_or_recurs_across_units", "equals": true},
-          {"field": "only_functional_walking_clenching_or_posture", "not_equals": true}
+          {"field": "only_functional_or_brief_transition_to_genitals", "not_equals": true}
         ],
         "pass_reason": "必要条件成立：腿部曲线、皮肤或肉感在有分量场景中被反复性化经营。",
-        "fail_reason": "硬门槛：只有走路、夹腿、奔跑或普通姿势，没有腿部审美焦点。"
+        "fail_reason": "硬门槛：只有功能动作、尿液自然经过，或短暂摸舔后转向私处，没有持续腿部审美焦点。"
       }
     },
     "中毒": {
