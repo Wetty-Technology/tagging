@@ -209,7 +209,7 @@
 | 剧情向 | [第三季第五集以小凌失忆、卧底调查和营救小优等连续事件推进主线，情节发展而非单一玩法是叙事重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 悬疑 | [在 tid 125092（第三季第五集）中，叙事核心围绕小凌失忆后的身份困惑、小优被绑架的危机、以及小志和斯琪作为卧底警察调查张然/张宜背后阴谋的剧情展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 犯罪 | [文本详细描写了犯罪集团的活动，包括绑架（小优被绑）、非法拘禁、勒索（保安被威胁）、谋杀（张总被杀）、毒品交易（药丸）以及黑帮势力（张总及其手下），这些犯罪活动构成了故事的主要框架和冲突来源。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
-| 极限排尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
+| 极限放尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 惊吓漏尿 | [小凌在废弃大楼楼梯间准备排尿时被叼着老鼠的黑猫突然惊吓，明确只漏出少量尿液后又重新止住；惊吓、短暂失控与恢复控制被连续展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 特工 | [小志和斯琪被明确设定为卧底警察/特工，执行保护证人、监视、潜入等秘密任务。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 警察 | [小志和斯琪是卧底警察，其执法身份（保护证人、对抗犯罪组织）是第三季核心冲突的一部分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
@@ -441,7 +441,7 @@
 | 高潮管理 | [符合“角色能否、何时...达到多少次高潮...被他人...许可、禁止”的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3737485) |
 | 憋尿 | [憋尿是全文的核心玩法和主线情节。从01章开始，主角就在主人的控制下延迟排尿，经历从Level 5到Level 7的尿意升级，并在工作中、面试中、回家后持续憋尿，伴随详细的生理和心理描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3723771) |
 | 尿频 | [同一天内从晨间排尿、办公室多轮申请与限量排尿，到补水后再次强烈尿急，频繁产生尿意和排尿持续推动主奴控制及职场情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3731607) |
-| 极限排尿 | [主角在办公室已“几乎失守”“要坏掉”，又等待厕所隔间，仍在最后时刻保持控制，坐上马桶后主动放松括约肌开始释放，临界忍耐与强烈解脱共同构成场景高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3730799) |
+| 极限放尿 | [主角在办公室已“几乎失守”“要坏掉”，又等待厕所隔间，仍在最后时刻保持控制，坐上马桶后主动放松括约肌开始释放，临界忍耐与强烈解脱共同构成场景高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3730799) |
 | 尿裤子 | [在09章中，主角被主人命令“在卧室隔着裤子，尿出来一小股”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3738816) |
 | 湿衣 | [轻寒穿着此前已被尿液浸湿的瑜伽裤和内裤继续外出、问路并寻找地点；排尿时作者又专门描写布料“重新被湿热晕染”和尿液穿透两层衣物，浸湿后的穿着与变化得到持续经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3738818) |
 | 强制排尿 | [文中多次出现主人命令主角排尿的情节，例如03章中“允许你去尿一半”，09章中“主人命令你，在卧室隔着裤子，尿出来一小股”，以及10章中“主人命令你在8:45之前尿完”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3731155) |
@@ -604,7 +604,7 @@
 | 虐待 | [角色明确求助后仍被拒绝如厕、强行提起或继续腹部施压，并持续以对方痛苦、失控和屈服作为控制玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3057436) |
 | 心理创伤 | [丧母与被抛下形成持续创伤反应：反复自伤、失眠、噩梦、惊恐发作、焦虑用药与长期心理咨询，持续影响人物选择与主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2923984) |
 | 血腥 | [头部开放伤口、满脸流血及手臂纵横血痕被多次具体展示，并推动缝合、自伤和人物冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3040378) |
-| 极限排尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2910157) |
+| 极限放尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2910157) |
 | 膀胱扩张 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2910157) |
 | 尿床 | [番外中童年在祖宅炕上睡中排尿是完整场景并引发离家出走支线；余轻扬夜里睡梦中失禁亦有独立情节分量。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3058716) |
 | 尿频 | [消肿利尿汤与静脉补液造成一轮接一轮的强烈尿急，刚排空不久又急迫，被正文反复铺写并成为多个场景的驱动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3002240) |
@@ -654,7 +654,7 @@
 | 标签 | 理由 |
 | --- | --- |
 | 音声 | [合集包含以自制广播剧和 MP3 附件为核心的独立单元，娇喘与排尿声音本身即主要内容。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2924558) |
-| 极限排尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2924558) |
+| 极限放尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2924558) |
 
 ### [【江河湖海】第三部分，本贴更新至完结（男)](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=237325)
 
@@ -678,7 +678,7 @@
 
 | 标签 | 理由 |
 | --- | --- |
-| 极限排尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3978859) |
+| 极限放尿 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3978859) |
 ## [泻流感](https://www.shireyishunjian.com/main/forum.php?mod=collection&action=view&ctid=1840)
 
 ### [长篇 泻流感（流行性腹泻爆发，文明社会陷入混乱）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=165347)
@@ -1891,7 +1891,7 @@
 | 单人 | [贯穿白天的忍耐及夜间寻找地点排尿主要由苏眉自行经历，同行者未实施玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4040996) |
 | 女 | [女性主角的长时间憋尿、身体控制和失态风险是持续经营的核心癖好焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4041172) |
 | 憋尿 | [苏眉从乘车、走访、勘查直至深夜持续延迟排尿，忍耐过程贯穿正文。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4042323) |
-| 极限排尿 | [她已濒临完全失守并先渗出一滴，仍重新控制到选定露天空地、完成脱衣下蹲后主动开始长时间排尿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
+| 极限放尿 | [她已濒临完全失守并先渗出一滴，仍重新控制到选定露天空地、完成脱衣下蹲后主动开始长时间排尿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
 | 漏尿 | [正式排尿前先非自愿渗出一滴，随后仍能恢复控制并完成脱衣、下蹲。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
 | 尿裤子 | [受惊后剩余尿液实际浸入当时正穿回的丝袜裆部和内裤。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
 | 野外排尿 | [苏眉在村中露天空地蹲下排尿，地点、姿势、泥土和隐蔽风险均有展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
@@ -2146,7 +2146,7 @@
 | 主动 | [姜若岚为满足自身癖好自行决定潜入女厕寻找并占有湿内裤。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 意外 | [教师计划外突然点名直接把原有憋尿升级成当场漏尿和持续湿衣困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 憋尿 | [从错过课间如厕、课堂忍耐到下课奔向厕所，延迟排尿构成全章主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
-| 极限排尿 | [角色接近失守并一路少量滴漏，却仍撑到女厕便池，随后才以完整尿流主动释放并获得强烈解脱。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
+| 极限放尿 | [角色接近失守并一路少量滴漏，却仍撑到女厕便池，随后才以完整尿流主动释放并获得强烈解脱。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 惊吓漏尿 | [教师突然发问造成惊吓，角色漏出一小股尿液后重新控制并继续忍耐。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 漏尿 | [惊吓事件二十余分钟后，角色在赶往厕所途中又持续少量滴漏，形成独立阶段。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 尿裤子 | [尿液明确浸湿内裤裤裆并透到正在穿着的校裤外侧。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
