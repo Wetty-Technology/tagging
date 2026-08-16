@@ -79,8 +79,10 @@
 | 强制排尿 | [13666 逐章复核：小优通过口部刺激直接迫使小凌在无法拒绝时排尿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
 | 灌水 | [13666 逐章复核：必要条件成立：在明确制造憋迫的情境中按安排大量喝普通水，并经营尿意后果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
 | 饮尿 | [13666 逐章复核：文中明确描写小优吸住小凌尿道吸出尿液，以及小凌舌头舔到小优尿液流入口中，符合饮尿定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
+| 尿浴 | [小优高潮时的强烈尿流持续射向小凌脸部；另有小凌排尿后小优脸部明确湿透的完整口舌与淋尿互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
 | 口交 | [13666 逐章复核：口舌对性器的刺激持续展开，并成为本章主要性行为之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
 | 性行为 | [13666 逐章复核：文中详细描写了口交、自慰和性刺激等性行为……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
+| 手交 | [小优在小凌明确的下身部位持续用手蠕动刺激，并引发兴奋与后续排尿、性互动；不是对自身的自慰证据。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
 | 自慰 | [13666 逐章复核：角色自行刺激性器直至明显高潮，过程和身体反应均有展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
 | 强制高潮 | [13666 逐章复核：小优给小凌下药，并在小凌半梦半醒、无法有效拒绝的状态下，通过口交和刺激使其达到高潮，符合药物压制……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
 | 女性支配 | [13666 逐章复核：小优制定憋尿规则、投药并主导后续亲密互动进程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538863) |
@@ -109,7 +111,6 @@
 | 监控 | [13667 逐章复核：档案室装有监控，小优因担心被监控拍到而不敢方便，张宜使用设备干扰监控以让小优方便，监控的存在直接……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538873) |
 | OL | [13667 逐章复核：主要角色小优、张宜等均为公司职员（秘书、档案管理员、技术员），情节围绕公司档案室、经理指令、职场……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538873) |
 | 公共厕所 | [13667 逐章复核：必要条件成立：多人共用厕所的可用性、状态或实际使用直接驱动核心行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538873) |
-| 湿衣 | [13667 逐章复核：角色继续穿着湿衣行动，湿布料的触感、外观或难堪得到持续描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538873) |
 | 醉酒 | [13667 逐章复核：小优被灌下大量红酒后不胜酒力，意识模糊并睡着，这一状态直接推动了后续被姐妹们利用/玩弄……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=538873) |
 
 ### [激"忍"档案（第一季）G10](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=13706)
@@ -120,12 +121,15 @@
 | GL | [13706 逐章复核：必要条件成立：两个普通女性的双人构图达到全局关系下限。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 多角关系 | [13706 逐章复核：张宜、小希、小雪、陈蓉四人共同进行完整的性/癖好互动场景，且后续小优加入形成五人关系，符合三人或……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 主动 | [13706 逐章复核：角色们为了体验憋尿的快感和刺激，主动忍耐并使用道具，符合主动憋尿的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
+| 自虐 | [张宜、小希、小雪和陈蓉主动服药，并自行使用封尿贴、跳蛋等装置维持高压忍耐和失控挑战；主要癖好压力由参与者自设、自愿追求。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 意外 | [13706 逐章复核：角色事前未知的外部事件或环境条件直接制造、升级了本章核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 强迫 | [13706 逐章复核：他人通过秘密下药、拘束、命令、威胁或剥夺出口迫使角色承受核心行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 快感堕落 | [13706 逐章复核：角色由明确抵触转为因快感主动配合、追加刺激或接受原先拒绝的玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 憋尿 | [13706 逐章复核：全文核心围绕角色憋尿、使用乳胶贴和跳蛋等工具进行憋尿游戏，尿意、控制及失禁是主要情节和快感来源。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 漏尿 | [13706 逐章复核：必要条件成立：身体少量非自愿漏尿后止住并恢复控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 尿失禁 | [13706 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
+| 强制排尿 | [小希要求停止刺激并请求排尿后，小雪仍阻止她自行揭开封尿贴，继续刺激到高潮，再亲手揭开贴片触发尿流；释放时机由他人直接控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
+| 尿浴 | [小雪揭开贴片后，小希的强烈尿流持续射到她的脸和嘴里；小雪没有躲开，继续舔舐并任由尿液冲刷，淋尿与互动得到完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 尿裤子 | [13706 逐章复核：尿液明确进入并浸湿角色当时穿着的内裤或外裤，过程在本章完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 排尿困难 | [13706 逐章复核：角色有明确尿意却因装置或心理抑制无法排出，障碍本身是场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 站立排尿 | [13706 逐章复核：女性角色在实际放尿过程中保持站立姿势，姿势与尿流均有明确描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
@@ -188,7 +192,9 @@
 | 单人 | [13991 逐章复核：必要条件成立：核心玩法由角色自行发起并经历，旁人没有直接制造或持续实施。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
 | 职场 | [13991 逐章复核：情节涉及公司调岗、人事任命、经理谈话等，办公场所和工作关系对剧情发展有实际作用……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
 | 主动 | [13991 逐章复核：小凌为了体验快感，故意喝牛奶憋尿，并在小优睡着后独自服药、自慰并享受失禁过程，属于为了体验癖好而……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
+| 自虐 | [小凌在无人要求的情况下主动服药、设置镜子，并刻意把自己维持在尿急、失控与自慰相结合的高压挑战中；癖好压力由她自行安排。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
 | 快感堕落 | [13991 逐章复核：必要条件成立：前期无快感或抵触，后期因快感主动选择，形成态度转变。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
+| 毒品 | [药物被明确写成令小凌产生“微微的瘾”，她反复想吃药、难以摆脱对药效快感的渴求，成瘾性实际推动了本章行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
 | 憋尿 | [13991 逐章复核：小凌在夜间刻意憋尿等待药效，以及在档案室因紧张而暂时无法排尿的情节，均围绕延迟排尿及其带来的生理……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
 | 尿失禁 | [13991 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
 | 排尿困难 | [13991 逐章复核：角色有明确尿意却因装置或心理抑制无法排出，障碍本身是场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=556838) |
@@ -219,11 +225,9 @@
 | 毒品 | [14090 逐章复核：文中明确提到药物是从美国黑市购买，用于系统性控制（BT利用其让员工失禁），且角色反复服用，具有……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 憋尿 | [14090 逐章复核：憋尿及由此产生的尿意、控制困境是本章的核心情节，贯穿了从饭局到失禁的全过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 极限放尿 | [14090 逐章复核：必要条件成立：濒临失禁但撑到选定位置，并主动开始完整释放。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
-| 漏尿 | [14090 逐章复核：必要条件成立：身体少量非自愿漏尿后止住并恢复控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 尿失禁 | [14090 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 尿裤子 | [14090 逐章复核：小优“裤腿已经全湿”，小凌“下身已经湿了一小块”、“裤子拉了下来...射出尿来”，陈蓉“裤子上出……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 强制排尿 | [14090 逐章复核：小凌在试图去浴室时被小雪扶回座位，随后在他人抚摸、解开衣物及言语鼓励下，在无法自由拒绝的情况下……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
-| 站立排尿 | [14090 逐章复核：女性角色在实际放尿过程中保持站立姿势，姿势与尿流均有明确描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 尿浴 | [14090 逐章复核：张宜高潮时尿液“到处乱射”，小希“从头淋到脚”；结尾众人站在桌上对小优“五股尿齐刷刷的射了出来”……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 口交 | [14090 逐章复核：口舌对性器的刺激持续展开，并成为本章主要性行为之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 手交 | [14090 逐章复核：一名角色用手持续刺激另一名角色的私处并引发明确性反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
@@ -250,6 +254,7 @@
 | 强迫 | [14235 逐章复核：他人通过秘密下药、拘束、命令、威胁或剥夺出口迫使角色承受核心行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=565898) |
 | 憋尿 | [14235 逐章复核：延迟排尿、尿意产生及控制困境是场景的核心玩法和主线因果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=565898) |
 | 排尿困难 | [14235 逐章复核：角色有明确尿意却因装置或心理抑制无法排出，障碍本身是场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=565898) |
+| 强制排尿 | [李娜反复要求停止刺激并让她排尿，张然仍维持封堵与刺激，直到自己决定揭开乳胶贴才触发强烈尿流；实际释放时机由张然控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=565898) |
 | 口交 | [14235 逐章复核：口舌对性器的刺激持续展开，并成为本章主要性行为之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=565898) |
 | 异物插入 | [14235 逐章复核：道具的突起被实际插入尿道，体内异物与封堵感持续成为玩法焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=565898) |
 | 性行为 | [14235 逐章复核：文中详细描写了口交、乳交、使用跳蛋刺激尿道等明确的性行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=565898) |
@@ -315,16 +320,18 @@
 | --- | --- |
 | 女 | [14629 逐章复核：必要条件成立：女性在至少一个完整场景中亲身成为性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | GB | [14629 逐章复核：必要条件成立：异性双人构图达到全局关系下限，并明确经营女攻男受。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
+| 单人 | [小遥自行选择地点、忍耐并主动安排完整失禁表演，BT只在旁观看，没有直接制造或持续实施她的核心玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 主动 | [14629 逐章复核：小遥为了取悦BT并体验快感，故意憋尿至极限并失禁，属于主动行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 憋尿 | [14629 逐章复核：憋尿及由此产生的尿意、控制和困境是本章的核心主线。文中详细描写了小遥从喝水、吃药、忍耐到最终失……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
-| 极限放尿 | [14629 逐章复核：必要条件成立：濒临失禁但撑到选定位置，并主动开始完整释放。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
+| 极限放尿 | [小遥在公园忍到手已无力、再按也将失禁的临界点，仍先有意识地慢慢松手，随后主动放松尿道开始完整释放；选点、开闸与解脱连续展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 尿失禁 | [14629 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 尿裤子 | [14629 逐章复核：尿液明确进入并浸湿角色当时穿着的内裤或外裤，过程在本章完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
+| 湿衣 | [粉色棉内裤上的湿斑扩大、蓄液能力、从布缝渗漏、完全湿透及随后脱下被连续描写，湿布料本身是场景感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 野外排尿 | [小遥在公园长椅旁实际排尿，户外地点、可能出现的路人与暴露风险共同构成完整场景，而非一句途中方便。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 露出 | [在 thread 14629 (2G-3) 中，角色小遥在公园长椅上，明知 BT 在场且周围可能有路人（虽然当时无人），主动解开衣物并在公共场合失禁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 学生 | [14629 逐章复核：必要条件成立：重要角色的在校学生身份实质参与塑造、冲突或性癖表达。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 | 真空 | [14629 逐章复核：必要条件成立：外衣或连体服下无内衣，且无内衣状态推动暴露、羞耻或诱惑。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
-| 药物 | [14629 逐章复核：文中详细描写了小遥购买并服用神秘药丸的过程，且作者明确指出“BT后面的人生，从现在这一刻开始改变……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
+| 毒品 | [小遥明说药丸“不是哪都能买”，并是从酒吧里卖药的小混混处特意高价购得；这一非法来源与实际服用持续推动后续主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=582918) |
 
 ### [激"忍"档案（第二季）2G-4](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=50672)
 
@@ -338,12 +345,10 @@
 | 快感堕落 | [50672 逐章复核：角色由明确抵触转为因快感主动配合、追加刺激或接受原先拒绝的玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 睡奸 | [50672 逐章复核：必要条件成立：对象在睡眠中不能同意，且遭到非预先同意的实质性性接触。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 憋尿 | [50672 逐章复核：小遥在出租车和电梯中长时间忍耐尿意，通过按压尿道、挪动身体等方式控制排尿，这是推动情节发展的核心……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
-| 极限放尿 | [50672 逐章复核：必要条件成立：濒临失禁但撑到选定位置，并主动开始完整释放。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 尿失禁 | [50672 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 尿床 | [50672 逐章复核：小遥在睡眠中（醉酒/药效/疲劳）发生失禁，导致被褥和地面全湿，次日清晨醒来发现并道歉，符合睡眠中……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
-| 强制排尿 | [50672 逐章复核：他人直接命令、刺激或操纵释放时机，使角色不能自由拒绝实际排尿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
+| 漏尿 | [小遥在出租车内先有一小股尿流突破控制，随后仍持续按压、移动并设法赶往卫生间；少量失守与后来大量失禁之间存在明确行动阶段。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 饮尿 | [50672 逐章复核：角色实际舔食或吞入排出的尿液，行为在性场景中明确发生。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
-| 尿浴 | [50672 逐章复核：大量尿液持续淋覆角色脸部或身体，淋尿／浸泡本身是完整场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 口交 | [50672 逐章复核：口舌对性器的刺激持续展开，并成为本章主要性行为之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 手交 | [50672 逐章复核：一名角色用手持续刺激另一名角色的私处并引发明确性反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 性行为 | [50672 逐章复核：文中详细描写了BT与小遥的接吻、抚摸，以及小遥与张然之间的口交、手交等明确性行为，符合性行为定义……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
@@ -351,11 +356,10 @@
 | 强制高潮 | [50672 逐章复核：他人无视拒绝或利用睡眠、药物、控制手段持续刺激并使角色高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 羞耻 | [50672 逐章复核：角色因私密失控、暴露或他人目光产生持续且有分量的羞耻反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 真空 | [50672 逐章复核：必要条件成立：外衣或连体服下无内衣，且无内衣状态推动暴露、羞耻或诱惑。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
+| 浴室 | [小遥赶进卫生间后因坐到未打开的马桶盖而大量排尿，尿液喷溅墙地和衣物，后续清洗与隐私互动继续展开；浴室直接塑造完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 利尿剂 | [50672 逐章复核：角色服用了不明药丸，随后药效发作导致膀胱快速积蓄尿液并引发失禁，符合使用药物增加尿意/排尿量的……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 醉酒 | [50672 逐章复核：小遥因醉酒导致意识模糊、行为失控（无意识性行为、失禁），且这一状态直接推动了后续张然与其发生关系……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
-| 乳房 | [50672 逐章复核：乳房的触感、刺激或外观在完整场景中被反复描写并成为感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 | 气味 | [50672 逐章复核：必要条件成立：嗅觉本身是持续感官或互动焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
-| 臀部 | [50672 逐章复核：必要条件成立：臀部本身形成持续视觉或触觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220091) |
 
 ### [激"忍"档案（第二季）2G-5](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=50811)
 
@@ -368,6 +372,7 @@
 | 单恋 | [50811 逐章复核：必要条件成立：未获回应的感情实质推动选择、冲突或关系发展。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1221973) |
 | 多角关系 | [50811 逐章复核：BT、张然、小遥三人形成持续且相互牵连的恋爱、占有与背叛关系，贯穿整部作品并推动实质篇章冲突……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 主动 | [50811 逐章复核：小遥故意憋尿并在BT面前失禁以取悦或表达情感，张然在性互动中故意忍耐高潮直至失控，均属于为了体验……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
+| 憋尿 | [帐篷场景中张然在已经少量漏尿后仍尽力控制膀胱、刻意忍到极限以增强兴奋，反复描述继续忍耐、快憋不住及最后失守，憋迫本身是互动焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 强迫 | [50811 逐章复核：他人通过秘密下药、拘束、命令、威胁或剥夺出口迫使角色承受核心行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 快感堕落 | [50811 逐章复核：角色由明确抵触转为因快感主动配合、追加刺激或接受原先拒绝的玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 死亡 | [50811 逐章复核：角色小遥在悬崖边跳下，文中描述“迈出了她人生中最后的一步”，暗示死亡结局。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
@@ -378,12 +383,12 @@
 | 口交 | [50811 逐章复核：口舌对性器的刺激持续展开，并成为本章主要性行为之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 手交 | [50811 逐章复核：文中明确描写小遥用手指在张然的私处划动、抚摸敏感点，属于一方用手刺激另一方性器。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 性行为 | [50811 逐章复核：文中详细描写了小遥与张然之间的口交、舌吻、抚摸私处等明确的性行为，且该场景是本章的核心情节之一。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
-| 强制高潮 | [50811 逐章复核：他人无视拒绝或利用睡眠、药物、控制手段持续刺激并使角色高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 女性支配 | [小遥秘密给张然使用安睡剂和失禁药，在其不能自由退出时主导持续的性刺激、失禁与羞辱场景，女性对受控困境的推进有完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 偷窥 | [50811 逐章复核：BT在帐篷外秘密实时观看并聆听帐篷内两名女性进行性行为及排泄，对象当时不知道他正在观看，符合偷窥……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 病娇 | [50811 逐章复核：小遥因嫉妒给张然下药使其沉睡，并在事后进行带有羞辱和占有意味的性行为，最后跳崖，表现出病态执着和……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 泳装 | [游艇上准备了二十余套泳衣，正文具体对照张然的保守连体平脚款与小遥的开放分体款、遮挡效果和他人反应；泳装选择与身体展示得到独立展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 真空 | [50811 逐章复核：角色有意在外衣下不穿内衣，并让该状态持续参与暴露或性互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
+| 娱乐场所 | [BT进入地下酒吧寻找卖药者，酒吧环境、人员与厕所内交易构成完整故事单元，并直接取得推动后续冲突的药物。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 药物 | [50811 逐章复核：文中详细描写了BT购买失禁药丸，以及小遥在张然的晕船药和啤酒中混入安睡剂和失禁药丸。这些药物直接……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 利尿剂 | [小遥把失禁药丸放入啤酒，实际服用后短时间内产生强烈尿意、大量排尿和持续失禁，利尿后果直接推动帐篷内的核心场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
 | 醉酒 | [50811 逐章复核：张然在岛上饮酒后出现明显醉意（“醉熏熏”、“傻笑”），且小遥在酒中下药，酒精状态直接推动了后续张……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1220962) |
@@ -406,7 +411,6 @@
 | 心理创伤 | [文本详细描写了张然在好友小遥自杀事件后的持续心理创伤反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
 | 死亡 | [小遥在本章实际登场，跳崖后被 BT 找到时仍有微弱呼吸，随后在他怀中闭眼、手臂垂下且“再也没醒来”；死亡过程和后续影响均被完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
 | 憋尿 | [张然服药后在卫生间被占用、不断漏尿的情况下持续夹腿、换姿势和请求如厕，尿意升级、控制努力与最终失守在当前主题内完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
-| 漏尿 | [51256 逐章复核：必要条件成立：身体少量非自愿漏尿后止住并恢复控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
 | 尿失禁 | [在 thread 51256 中，角色张然在药物作用下及BT的诱导下，经历了从轻微漏尿到完全无法控制、大量喷射的完整失禁过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
 | 尿裤子 | [张然持续漏尿，湿斑在内裤与卫生巾上不断扩大，之后大量失禁；尿液进入并浸湿当时穿着的下身衣物，过程由当前主题正文完整描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
 | 强制排尿 | [51256 逐章复核：他人直接命令、刺激或操纵释放时机，使角色不能自由拒绝实际排尿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1223263) |
@@ -454,6 +458,7 @@
 | 站立排尿 | [小宜站起后保持略屈膝分腿姿势持续喷射，尿流冲过内裤并远距离淋到张然，站姿和方向是场景重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316008) |
 | 饮尿 | [第九集梦境明确展开姐妹相互用口承接并吞下对方高潮时射出的尿液。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316009) |
 | 尿浴 | [小宜的强烈尿流持续冲刷张然的脸和身体，张然不躲闪并把这场“尿雨”作为感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316008) |
+| 尿频 | [小宜在浴缸场景中先伴随高潮排尿，随后又在腹部刺激下再次产生强烈尿意并进入第二轮排尿，两轮独立过程均被完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 | 口交 | [BT持续舔舐张然外阴并令其高潮；第九集又完整展开姐妹相互舔阴。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316009) |
 | 手交 | [第十集张然以手刺激小宜性器，小宜又用手持续刺激张然并使其高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 | 性行为 | [主题实际展开口交、手交、自慰及持续性器刺激，不只是暧昧或裸体。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
@@ -484,6 +489,8 @@
 | 单人 | [66266 逐章复核：必要条件成立：核心玩法由角色自行发起并经历，旁人没有直接制造或持续实施。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
 | 校园 | [该分块包含《激忍档案番外篇（校园）》，故事核心场景设定在Z中学的废弃校舍和宿舍，主角小凌是学生，情节围绕校园生活（晚自习、宿舍洗澡、校花身份）展开，符合校园标签定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
 | 主动 | [66266 逐章复核：小凌为了享受憋尿和失禁的快感，故意选择废弃校舍进行自拍和失禁，属于为了体验癖好而故意憋尿……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
+| 意外 | [小优事前未知地来到废校舍并在暗处观看，手机意外落地后突然暴露其存在，直接把小凌的自设玩法升级为被发现、哀求保密的困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
+| 自虐 | [小凌主动选择废校舍、长时间蓄尿并安排失禁自拍，把自己维持在高压、公开风险和失控挑战中；主要癖好压力由她自行设置。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
 | 憋尿 | [66266 逐章复核：主角小凌从早上起床后一直未排尿，文中详细描写了她憋尿的强烈尿意、膀胱鼓胀感以及因憋尿产生的兴奋感……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
 | 漏尿 | [66266 逐章复核：必要条件成立：身体少量非自愿漏尿后止住并恢复控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
 | 尿失禁 | [66266 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316073) |
@@ -517,6 +524,7 @@
 | OL | [66390 逐章复核：故事开篇明确描写了公司高层会议、职场上下级互动（BT与李娜、小凌），且角色身份为上班族女性，符合……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1317107) |
 | 浴室 | [姐姐把昏迷的小凌扶进卫生间，持续为其脱下湿衣、清洗私处、处理再次失禁并更换尿布；隐私空间中的照护互动得到完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1317107) |
 | 药物 | [正文明确说明小凌此前实际服用的是改良药丸，并把当前无法停止的冲动、意识模糊和昏厥与其后续药效相连；这些非单纯利尿作用实质推动本章。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1317107) |
+| 利尿剂 | [本章明确把小凌当前快速增强的尿意、持续排尿与失禁追溯到改良药丸的持续药效，增加尿液的作用实际推动了完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1317107) |
 
 ### [激忍档案 第三季“黄昏与黎明”（第二集）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=66570)
 
@@ -528,6 +536,7 @@
 | 犯罪 | [66570 逐章复核：犯罪计划、实施、掩盖或调查构成本章可独立推进的主要情节框架。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1318468) |
 | 职场 | [66570 逐章复核：情节围绕窃取公司机密文件及上下级关系展开，办公场所关键。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1318468) |
 | 意外 | [66570 逐章复核：必要条件成立：角色事前未知的外部事件或条件直接制造或升级核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1318468) |
+| 强迫 | [小优利用小凌在宜姐家的私密把柄明确威胁，迫使她在不情愿且恐惧后果的情况下潜入办公室偷取机密文件；威胁实际决定了整段行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1318468) |
 | 憋尿 | [66570 逐章复核：全文核心围绕小凌在偷文件过程中因紧张和生理需求产生的强烈尿意，以及她如何控制、忍耐并最终失控，憋……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1318468) |
 | 漏尿 | [66570 逐章复核：必要条件成立：身体少量非自愿漏尿后止住并恢复控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1318468) |
 | 尿失禁 | [66570 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1318468) |
@@ -565,6 +574,7 @@
 | 羞耻 | [67678 逐章复核：必要条件成立：角色因私密暴露或他人目光产生有分量的羞耻反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329533) |
 | 拘束 | [67678 逐章复核：捆绑或类似手段持续限制角色行动，并影响控制、侵害或审讯场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329532) |
 | 绳缚 | [在 tid 67678 (第三季第三集) 中，张然和张宜将保安拖入密室后，明确描写了“把保安五花大绑的捆好丢在一边”，随后张然利用其家人照片进行威胁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329533) |
+| 监控 | [小雪实际接管公司监控，屏蔽张然经过的录像，又通过实时画面观察 BT 进入办公室并据此调度行动；监控直接参与了潜入与控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329533) |
 | 露出 | [67678 逐章复核：必要条件成立：角色明知公共或户外风险仍有意识实施私密行为，并持续经营被发现风险。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329533) |
 | OL | [67678 逐章复核：主要角色小凌为上班族女性，情节涉及其上班通勤、公司监控、办公室潜入等职场背景，且职场身份是其行动……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329533) |
 | 公共交通 | [在第三季第三集中，主角小凌乘坐公交车回家，该场景篇幅较长，详细描写了她在公交车上因药物作用和紧张情绪导致的憋尿、自慰及最终失禁的过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1329533) |
@@ -607,6 +617,7 @@
 | 药物 | [90565 逐章复核：文中详细描写了张宜给小优灌下药物，导致其意识迷离、身体失控（尿急加剧、精神恍惚），药物对改变身体……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1545403) |
 | 利尿剂 | [90565 逐章复核：实际服用的物质显著加快尿液产生并持续推动尿急、漏尿或失禁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1545403) |
 | 失忆 | [90565 逐章复核：小凌因某种原因（暗示药物或创伤）记忆缺失，文中明确提到‘我在楼下等你就想问你一些事’、‘我好像想……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1545403) |
+| 催眠 | [小凌的关键记忆被外部力量压制，试图回想时明确感到某种力量控制她、不让她想起，认知控制持续推动本章寻人和关系冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1545403) |
 
 ### [激忍档案第三季（第五集）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=125092)
 
@@ -622,8 +633,6 @@
 | 憋尿 | [125092 逐章复核：小凌因身处无卫生间的废墟且恐惧黑暗，无法如厕，导致尿急感持续升级，最终在极度尴尬和羞耻中解决，憋……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 极限放尿 | [125092 逐章复核：必要条件成立：濒临失禁但撑到选定位置，并主动开始完整释放。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 惊吓漏尿 | [小凌在废弃大楼楼梯间准备排尿时被叼着老鼠的黑猫突然惊吓，明确只漏出少量尿液后又重新止住；惊吓、短暂失控与恢复控制被连续展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
-| 尿失禁 | [125092 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
-| 尿裤子 | [125092 逐章复核：尿液明确进入并浸湿角色当时穿着的内裤或外裤，过程在本章完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 排尿困难 | [125092 逐章复核：必要条件成立：有尿意但尿流受阻，且障碍过程是场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 尿羞症 | [小凌已在楼梯间蹲下并尝试排尿，却因小志近距离站在身后而极度羞耻紧张，只滴出几滴就再也尿不出来，并明说“你在我身后我……”；实际尝试失败与心理抑制都在完整场景中展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
 | 容器排尿 | [125092 逐章复核：小凌将尿液排入奶粉罐，文中详细描写了寻找容器、对准、尿液冲击罐底及罐子倾倒等过程，容器使用是场景……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1923176) |
@@ -645,7 +654,6 @@
 | 虐待 | [125342 逐章复核：张总通过言语羞辱、限制行动、强迫在众目睽睽下排尿并欣赏其痛苦，构成了对乐乐的精神和身体虐待；乐乐……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
 | 死亡 | [125342 逐章复核：已实际登场的角色在本章中明确死亡。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
 | 憋尿 | [125342 逐章复核：文中详细描写了乐乐从产生尿意、试图忍耐、身体失控边缘到最终被迫排尿的全过程，憋尿及其带来的痛苦和……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
-| 极限放尿 | [125342 逐章复核：必要条件成立：濒临失禁但撑到选定位置，并主动开始完整释放。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
 | 漏尿 | [125342 逐章复核：必要条件成立：身体少量非自愿漏尿后止住并恢复控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
 | 尿失禁 | [125342 逐章复核：必要条件成立：完整场景中出现非自愿的大量持续排尿或明确浸透、排空结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
 | 尿裤子 | [125342 逐章复核：乐乐在憋尿过程中尿液浸湿了内裤，且文中明确提到“内裤上已经有一块不小的湿斑了”、“内裤下面已经全……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1925477) |
@@ -993,7 +1001,6 @@
 
 | 标签 | 理由 |
 | --- | --- |
-| 原耽 | [版块标注为「原创」，无任何既有IP角色或世界观，是完整的原创耽美长篇。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2267199) |
 | 男 | [癖好焦点全部集中在男性角色（小河、平君、李崇心、余轻扬）的憋尿与失禁上，collection 关键词亦为「男憋」。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2267199) |
 | 单人 | [作品包含大量由江河独自安排、独自承受的憋尿与失禁体验。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2267206) |
 | BL | [两名男性角色的爱情与性张力是作品中心关系，主角明确认同同性取向。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2277105) |
@@ -1498,7 +1505,6 @@
 
 | 标签 | 理由 |
 | --- | --- |
-| 原耽 | [全篇为原创人物（赵大磊、叶一）的男男恋爱长篇连载，无任何既有IP来源，主题分类亦为「原创」，属原创耽美。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2414839) |
 | 校园 | [大学寝室生活是作品的基础场景与主要冲突来源：上床下桌、查寝、熄灯、导员安排新室友、如何在室友面前隐藏尿布，构成开篇与开学后多个完整单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2414839) |
 | 浴室 | [洗澡、冲澡和浴室内自慰在多个章节反复出现；番外又以浴缸中的共同洗浴、洗发和身体照护完整推进亲密关系，浴室并非短暂过渡场所。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
 | 甜文 | [全篇基调为宠溺、安抚与轻松满足：无外部阻力，双方家庭全力支持，冲突基本靠拥抱与哄睡化解，年夜饭、放烟花、撒娇互动构成主要情绪内容。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434148) |
