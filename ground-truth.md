@@ -3055,7 +3055,6 @@
 | 开裆裤 | [开放裆部结构被反复穿着，并直接服务性行为便利与公共暴露风险。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 情趣内衣 | [明确为性展示和方便性行为设计的蕾丝开裆内衣是婚礼场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 真空 | [赵玲有意在外衣下不穿胸罩，并将无内衣状态用于公共环境中的诱惑与暴露。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 高跟鞋 | [超高鞋跟在两套专门设计的色情服饰中被反复强调，构成持续视觉元素。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 哺乳 | [母亲实际让儿子含乳饮奶，且哺乳延续至共同入睡和次夜补充体力。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 泌乳 | [乳汁的满溢、喷射和再次生成过程被明确描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 尿道扩张 | [阴茎持续撑开尿道并逐渐推进至膀胱，扩张和适应过程是长场景核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
@@ -3063,7 +3062,6 @@
 | 乳房 | [乳房的尺寸、裸露、揉捏、挤压及吸吮在多个完整场景持续成为核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 乳汁 | [奶水的产量、饮用和恢复用途被反复经营，而非普通育儿背景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 人体容器 | [子宫和膀胱被反复当作储存、承接并继续容纳精液和尿液的身体容器。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 气味 | [尿液气味被专门嗅闻、辨认、评价并直接促使角色更换场地。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 精液 | [精液的数量、储存、吸取、覆盖、精斑及耗尽贯穿多个主要性场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 腹部 | [小腹隆起被反复抚摸、观看并用妊娠月份类比，成为储液玩法的核心视觉指标。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 腿部 | [美腿曲线、丝袜包裹、抚摸和缠绕动作在多个场景持续受到色情化聚焦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
