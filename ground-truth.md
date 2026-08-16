@@ -2527,7 +2527,7 @@
 | --- | --- |
 | 女 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 | BG | [后期多个完整场景经营男性主动、女性承受的异性性关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
-| 骨科 | [风铃与亲外甥小杉实际发生性关系，近亲编码明确。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
+| 乱伦 | [风铃与亲外甥小杉实际发生性关系，近亲编码明确；双方不是兄弟姐妹。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 | 强奸 | [风铃当下明确拒绝后，小杉仍然完成插入。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 | 破处 | [首次男性阴茎插入被明确作为风铃的重要身体和关系转折。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 | 性行为 | [作品实际发生性交、自慰、手交和性器刺激等多种明确性行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
@@ -3015,7 +3015,7 @@
 | 正太 | [十三岁未成年男孩是全篇主要性关系与癖好对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 巨乳 | [异常丰满的乳房尺寸被明确量化并反复作为视觉和接触卖点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | BG | [多个完整场景以男性插入、女性承受的异性关系结构为核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 骨科 | [亲生母子之间的性与恋爱关系是作品全部冲突和卖点的核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
+| 乱伦 | [亲生母子之间的性与恋爱关系是作品全部冲突和卖点的核心；双方不是兄弟姐妹。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 女 | [后半篇持续围绕女性膀胱储液、延迟排出、受控排尿及身体反应展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 纯爱 | [在高风险情节之外，作者明确把后续关系塑造成互相爱恋、排他并举行婚礼的长期结合。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 虐童 | [成年母亲持续与十三岁儿子发生性行为并强迫其继续，构成实质儿童性虐待。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
