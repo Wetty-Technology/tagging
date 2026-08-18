@@ -149,7 +149,6 @@
 | 遥控 | [13706 逐章复核：文中提到张宜使用的玩具是“无线控制”的，且后续描写中张宜通过开关调整震动档位（“打开开关，把震动……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 醉酒 | [13706 逐章复核：小优因喝多而醒来，文中明确提到“头还晕呼呼的”、“酒精的作用”导致其兴奋和好奇，且醉酒状态直接……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 | 乳房 | [13706 逐章复核：必要条件成立：乳房本身形成持续视觉或触觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
-| 臀部 | [13706 逐章复核：臀部的外形、动作或触感在完整互动中反复成为视觉或触觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=540917) |
 
 ### [激"忍"档案（第一季）G11](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=13842)
 
@@ -209,7 +208,6 @@
 | 女 | [14090 逐章复核：必要条件成立：女性在至少一个完整场景中亲身成为性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | GL | [本章由多名女性持续进行口交、手部刺激、自慰及排尿互动，女性之间的双人性向构图在完整场景中明确成立。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 多角关系 | [14090 逐章复核：三人以上的情感或性／癖好互动在本章形成持续相互牵连的构图。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
-| 喜剧 | [14090 逐章复核：必要条件成立：全文反复经营至少两类幽默装置。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 职场 | [14090 逐章复核：故事背景设定在公司（G公司），角色为同事，情节涉及推翻经理BT、公司失禁经历等，工作关系和职场……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 主动 | [14090 逐章复核：角色们为了体验失禁快感或取悦同伴，在酒精和药物作用下故意忍耐并寻求刺激，符合主动憋尿/忍耐的定义……](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
 | 淑女 | [14090 逐章复核：必要条件成立：角色为维护形象而主动隐瞒私密需求并继续忍耐。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=560551) |
@@ -453,7 +451,6 @@
 | 自慰 | [小宜睡眠中以自己的手持续刺激至高潮，浴缸中又主动快速抚摸自己的性器并再次高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 | 多重高潮 | [小宜在第九集连续性场景中明确达到第一次和第二次高潮，次数与身体反应被持续经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316009) |
 | 强制高潮 | [张然反复说不要、停下并求饶，BT仍持续堵尿、舔舐与按压，直至她不能自由终止地高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316007) |
-| 潮吹 | [第七集先明确把阴道收缩射出的性液称为“真正的潮吹”，随后另起一段才描写尿流，两种液体被清楚区分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316007) |
 | 女性支配 | [张然秘密投药、布置致幻环境、监控并亲自引导小宜的性与排尿场景，持续掌握核心玩法推进权。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 | 羞耻 | [小宜因在张然面前漏尿、被帮助脱裤、尿到对方及尿床而反复脸红、哭泣和道歉。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 | 腹部按压 | [张然反复抚摸、轻按小宜鼓起的下腹制造尿意；小宜高潮时又双手加压下腹以增强尿流。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
@@ -467,7 +464,6 @@
 | 发情 | [药物与香薰使小宜的强烈性兴奋跨梦境和清醒浴缸场景持续，伴随现实感、理智和身体控制显著减弱。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 | 乳房 | [梦境与浴室性场景反复展开舔乳、揉胸、挑逗乳头及双乳视觉，乳房是持续触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 | 气味 | [带催眠致幻作用的房间香气跨两个场景反复被感知、说明并用于控制小宜的现实感和互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
-| 腹部 | [第十集持续描写小宜微鼓的下腹外形、打圈抚摸与轻按反应，使腹部成为完整浴缸场景的触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1316010) |
 
 ### [激忍档案番外篇（校园）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=66266)
 
@@ -716,7 +712,6 @@
 | --- | --- |
 | 校园 | [故事核心冲突（尿裤子）完全发生在小学课堂及校园环境中。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 萝莉 | [正文明确指出主角小丫在事件发生时是‘五、六岁的孩子’，属于幼女/低龄少女型角色，符合‘明确把主要癖好角色设定为幼女...等低龄少女型角色’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
-| 主动 | [老师并未要求小丫憋尿，也不知道她的需求；她仍可说明或求助，却自行放弃如厕并继续忍耐，以获得老师注意和当众表扬。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 单人 | [故事核心情节为小丫独自面对尿意，因心理因素（想获得老师表扬、害怕迟到）选择忍耐，最终在无人直接命令或控制的情况下自行失控尿裤。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 师生 | [小丫为了获得老师当众表扬而放弃课间如厕，并把上课铃和老师点名视为必须服从的命令；师生评价权持续支配她的忍耐与失禁冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
 | 学生 | [学校厕所的距离与队伍、上下课铃、班级同伴以及被其他班学生围观，在教师关系之外也独立塑造了忍耐、失禁和秘密暴露。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=27) |
@@ -740,13 +735,11 @@
 | 校园 | [陈汐在学校内调取全校学生假期去向登记表追查千倾，作品还持续描写教学楼、宿舍与辅导员管理，校园制度直接推动了失踪调查。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
 | 犯罪 | [故事核心情节涉及非法拘禁、绑架、性暴力威胁、以及后续的谋杀/反杀。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098134) |
 | 学生 | [千倾、郭文潜等大学生的宿舍、同学网络和假期去向登记持续参与叙事，学生身份还使陈汐能够利用辅导员权限追查千倾。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
-| 喜剧 | [正文分离位置分别用幻想电影式吸烟后揭示角色根本不会抽烟的反差，以及“小胡子猫被叫元首、其实是姑娘”的造型与称谓错位制造明确笑料；黑暗主线不抹去这些作者有意安排的喜剧段落。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098132) |
 | 淑女 | [郭文潜反复把千倾想象成必须维持矜持、拥有超常忍耐力的“完美女神”，以“漂亮女人就该有漂亮女人的极限”为由继续禁尿；千倾承认需求时的害羞和维持形象由此成为持续冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098139) |
 | 病娇 | [男主郭文潜表现出极端的占有欲、控制欲和伤害行为（绑架、监禁、侮辱），以“爱”为名实施犯罪，符合病娇定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098134) |
 | BG | [文中郭文潜（男）对千倾（女）实施了绑架、拘束、强制灌尿、性羞辱及性侵犯等行为，男性处于绝对的主动进攻和控制地位，女性为承受方，完全符合BG定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
 | 单恋 | [故事开篇及前期大量篇幅描写男主郭文潜对女主千倾的单向痴迷、跟踪及幻想，且女主初期并不知晓或回应这种感情。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098132) |
 | 体型差 | [结局 B、C 都直接对照陈汐与千倾的身高和体格，并以“高出一个头”“挣扎如蚍蜉撼树”表现体型差如何造成无法反抗的压迫。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098155) |
-| 逆后宫 | [郭文潜与陈汐都以持续的欲望和占有欲围绕千倾，陈汐对另一人“鸠占鹊巢”的嫉妒又推动追查、介入及各分支冲突，形成有实际结构作用的二男一女关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
 | 下克上 | [结局 C 中原本被绑架、拘禁和羞辱的千倾完成反杀，反过来把郭文潜绑在椅上，塞住其嘴并以“虫子”等称呼持续羞辱、控制他，构成明确的地位翻转。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098158) |
 | 师生 | [文中明确提及陈汐是千倾的辅导员（'陈老师...学校里的辅导员'），且千倾需向他报备假期去向，存在直接的教育管理与指导关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
 | 女 | [故事中，女主角千倾被男主角郭文潜强制灌水并长时间禁止排尿，构成了核心的‘憋尿’情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098139) |
@@ -770,7 +763,6 @@
 | 挠痒 | [在帖子 4098140 中，男主郭文潜为了刺激憋尿的女主千倾，明确使用了‘伸出手指，直接在细嫩脚底抓挠了起来’的动作。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
 | 腹部按压 | [在pid 4098139中，男主郭文潜明确对女主千倾的腹部进行了持续的物理按压和揉捏（'双手全按在了她鼓鼓的小腹上，手指肆意揉压'），目的是加剧其憋尿的痛苦和急迫感，并从中获得性快感。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098139) |
 | 踩踏 | [在帖子4098140中，男主郭文潜明确要求女主千倾穿着黑丝踩他的脸作为‘赔罪’，并详细描写了女主脚掌落在男主脸颊、男主舔舐足底、女主因憋尿和羞耻而挣扎等过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
-| 手部 | [男主强迫千倾逐根咬断精心养护的美甲，正文持续描写指甲的外观、断裂声、甲床出血、残缺边缘及事后触摸，手部本身是完整恐怖与感官场景的焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098136) |
 | 性行为 | [在结局B（深渊的潮汐）中，陈汐在沙滩上对千倾实施了明确的强奸行为，原文详细描写了进入、挣扎及体液混合等过程，符合‘实际发生明确的性交’定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098155) |
 | 指交 | [郭文潜的手指明确进入千倾的阴道与另一处凹陷，并持续触摸、按压和引发生理反应，构成完整的手指插入性刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
 | 手交 | [郭文潜把手伸入千倾裙内，拨开她堵尿的手后持续覆盖、游移和研磨女方私处，并引发明确的性兴奋与身体反应；同场另有手指侵入，可与「指交」并标。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
@@ -800,11 +792,7 @@
 | 乳房 | [在pid 4098136中，男主强迫女主脱衣后，对乳房进行了详细的视觉描写（形状、颜色、晃动）、触觉互动（抚摸、埋脸、揉捏）以及听觉互动（听腹中水声时乳房作为背景）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098136) |
 | 阴蒂 | [被迫自慰场景持续特写阴蒂从探出、充血、变硬到被反复拨弄、掐揉和掌根碾压的过程，阴蒂本身是完整性刺激场景的核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098137) |
 | 气味 | [在pid 4098140中，男主对女主足部的汗味/海水味进行了详细的嗅闻和评价（“不怎么臭，有点可惜”、“带微带咸腥的清香”），并将其作为性兴奋的来源。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
-| 腹部 | [灌水造成的巨大隆腹被反复比作孕妇肚和水球，男主持续凝视、触摸、揉压并枕在其上，腹形、硬度与弹性本身成为核心视觉和触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098139) |
-| 腿部 | [黑丝包裹的腿部线条、肌肤触感、夹腿与颤抖状态被持续凝视和抚摸，并贯穿穿袜、踩踏与失禁场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
-| 臀部 | [旗袍和湿裙下的臀部轮廓、摆动、触感及排尿姿态被多次近距离凝视、揉捏和描写，是后半篇持续的视觉与感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098142) |
 | 足部 | [在pid 4098140中，有一个完整的场景专门描写男主让女主用脚踩脸、舔舐足底、抓挠脚心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098140) |
-| 身体膨胀 | [连续灌水使千倾腹部显著膨胀成“孕妇肚”“大水球”，隆起过程、夸张外观和受压变形跨多个完整场景反复成为作者的表达焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098139) |
 | 感官剥夺 | [在pid 4098134中，女主被戴上黑色眼罩，处于视觉剥夺状态。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4098134) |
 
 ## [【七海x花茶】淑女的二重奏](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=267405)
@@ -856,7 +844,6 @@
 | 透明衣物 | [文中明确描写小花茶穿着“半透明的白色”家居服，且指出“什么都遮不住”、“关键的两点若隐若现”、“少女的阴部完全暴露在空气中”。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 贞操带 | [文中详细描写了角色七海穿戴定制款硬硅胶贞操带，包括其结构（透明挡板、小孔）、功能（时间锁、防止自慰）以及由此产生的生理和心理状态（无法获得快感、通过折磨伴侣获得满足）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 发情 | [文中多次详细描写角色小花茶处于强烈的性兴奋状态（如“发情很久”、“下半身巨大的快感”、“小穴又溢出一股淫水”、“发情且没有得到一点安慰的身体”），并伴随生理上的失控风险（如险些失禁、高潮边缘）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
-| 腹部 | [腹部状态（憋尿导致的鼓胀、硬度）贯穿全文，是憋尿癖好场景的核心视觉和触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 阴蒂 | [正文跨多个完整场景反复描写阴蒂的充血、硬挺、抽动，以及揉弄、掐压、冲刷和鞭打所造成的快感与忍耐反应，明显是持续经营的身体部位焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 手交 | [洗澡后七海直接以手指反复揉弄、蹂躏小花茶的阴蒂，刺激持续到对方接近高潮并求停，构成一方用手刺激另一方性器的完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
 | 放置 | [小花茶按规则跪在客厅等待主人回家，主人加班后她在过了许可时间仍被独自留下，持续忍受尿意、腿麻和哭泣，漫长等待本身是该单元的折磨焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3432803) |
@@ -865,7 +852,6 @@
 
 | 标签 | 理由 |
 | --- | --- |
-| 喜剧 | [职场黑话、HR／坏人双关、夸张的“挂神经科”“按尿程罚款”等内心剧场及主奴对话中的回环吐槽从办公室持续到户外排尿；幽默并非偶发失态，而是作者反复经营的叙述层。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3730799) |
 | 职场 | [故事前半部分（约50%篇幅）详细描写了主角作为HR总监在办公室的工作日常，包括早会、OA培训、离职交接、面试候选人等具体情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3723771) |
 | 公共厕所 | [文中多次详细描写主角在公司公共女厕的场景，包括排队等待隔间、观察保洁打扫、因厕所被占用或维修而无法如厕等情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3723771) |
 | OL | [主角杨轻寒为HR总监，故事主要场景在办公室，情节围绕职场工作（面试、写报告、开会）与憋尿控制展开，符合OL定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3723771) |
@@ -897,7 +883,6 @@
 | 野外排尿 | [主角在小区花园的露天隐蔽处实际排尿，寻找地点、户外姿势、陌生人风险和衣物被重新浸湿均有完整描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3738818) |
 | 乳房 | [自慰场景连续经营了解开抹胸后的乳房裸露、梨形轮廓、柔软触感、衣物摩擦及乳头膨胀；这些相连的视觉与触觉变化构成实质感官线，不是普通外貌交代。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3734529) |
 | 阴蒂 | [连续多个自慰段落具体描写手指和手机对阴核的触碰、摩挲、持续进攻及其快感反应，并以此推动多次高潮，阴核是完整场景的核心刺激对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3737485) |
-| 腹部 | [微微隆起的小腹被反复触摸、按压和评估，酸胀、硬度与腹形直接承载主人控制下的尿意等级和主角快感，已成为持续的视觉与触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3730799) |
 
 ## [蚀骨之夜 1-6](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=159857)
 
@@ -948,7 +933,6 @@
 | 姿势控制 | [在pid 2308483中，触手将少女茉莉的身体强行掰成圆弧状，强迫其挺起胸脯并仰头，使其处于完全无法自主控制的羞耻姿势供人玩弄。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2308483) |
 | 性器惩罚 | [在帖子 2306276 (2.4) 中，魅魔茉莉明确将足部玩弄阴茎定义为对主角‘不好好回答主人问题’的‘惩罚’。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 疼痛 | [在高潮管理之外，施加者额外用足部在极度敏感的龟头上进行蹂躏式碾磨，制造“纯粹的痛苦”和持续惨叫；足部施压是独立致痛手段，疼痛也是该场景的明确焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306906) |
-| 腹部 | [小腹跨多个性场景被有意经营：主角挺动的小腹被凝视嘲笑，足部持续按揉小腹上的射精禁止符文，后续又有触手游走、身体贴压和抽搐描写；腹部并非一次动作中顺带提及。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 腹部按压 | [在2.4节中，茉莉以前脚掌有节奏地按压、画圈揉动哈维的小腹，并持续作用于小腹上的射精禁止符文以增强性刺激；按压不是顺带动作，而是作者展开经营的玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 悬吊 | [在3.2节中，魅魔艾莉使用触手将茉莉的四肢扯向四方，并通过触手操控使其保持站立或悬空姿态进行拷问（如‘触手吊起本来就被手铐拷死的双臂’、‘像被玩坏的洋娃娃一样悠悠地悬挂在空中’）。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2308483) |
 | 拘束 | [在第一章中，主角被魅魔使用‘禁锢法术’死死按在床上动弹不得，这一拘束状态贯穿了第一章的拷问全过程，是场景的核心设定，符合‘实质限制角色行动并在完整场景中持续影响’的定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302390) |
@@ -984,7 +968,6 @@
 | 感官剥夺 | [在pid 2308807中，茉莉被扁平触手遮住双眼，剥夺视觉，且听觉也被触手弄出的水声占据，导致其完全依赖触觉和未知的恐惧，这是艾莉拷问策略的核心部分，符合定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2308807) |
 | 感官过载 | [在 2302983 (1.3) 中，哈维被涂抹全身媚药，导致胸部、腰部极度敏感，配合射精禁止符文，快感源源不断涌入肉体却无法释放，导致意识逐渐抽离、精神到达极限。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302983) |
 | 精液 | [在pid 2311258中，茉莉详细解释了‘高质量精液’的制作过程（浓度、活性），并将精液的质量作为仆从的核心价值和调教目标，精液本身的属性（味道、浓度、魔力）成为了恋物焦点，符合定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2311258) |
-| 腿部 | [茉莉缓慢脱下一只丝袜时，作者沿暴露过程连续描写“少女圣洁的大腿”、细腻白皙的皮肤、完美的小腿曲线和纤细脚踝；腿部本身与随后展开的足部均被有意作为视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 足部 | [在帖子 2306276 (2.4) 和 2306906 (2.5) 中，魅魔茉莉使用双脚（一只穿丝袜，一只裸足）对主角进行长时间的足交和寸止调教。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2306276) |
 | 催眠 | [主角哈维在遭受拷问时，主动对自己施放了“遗忘术”，导致他彻底忘记了死灵之书的下落以及关于未婚妻洛贝莉亚的重要记忆。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302983) |
 | 诅咒 | [魅魔把持续生效的射精禁止符文烙在主角小腹，明确说明没有她许可时无论刺激多强都绝对不可能射精；该符文在长篇拷问与后续控制关系中持续限制主角的生理功能，属于以法术施加的诅咒机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2302737) |
@@ -1034,7 +1017,6 @@
 | 剧情向 | [李崇心出道—母亲脑出血手术—家族债务、平君中美两地职业抉择与向父亲出柜、余轻扬家庭创伤、宋星辰病案等多条非癖好因果链贯穿全书，抽掉憋尿情节主线仍成立。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2939366) |
 | 纯爱 | [小河与平君的互相喜欢、承诺等待和非背叛式照护是全书中心关系，癖好互动反复被写作关爱与合意。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3130433) |
 | 单恋 | [小河对平君长达五年不敢言说的爱意是全篇主线动力，李崇心对小河的暗恋亦推动关键转折。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2976402) |
-| 喜剧 | [全书跨多个单元持续经营叙述吐槽、公众误会和角色互损，并多次以操控者反被同一机制困住形成讽刺性反转。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2933587) |
 | 校园 | [大学宿舍、教学楼、考试、社团与同学关系支撑多个完整章节，初高中校园回忆亦成独立单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2910184) |
 | 职场 | [沈平君的医生职业、医院排班和同事关系构成稳定剧情线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2928899) |
 | 娱乐圈 | [李崇心出道后的经纪约、通告、粉丝、公关与人设管理跨多个章节持续展开，构成实质行业背景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2910157) |
@@ -1085,10 +1067,7 @@
 | 呕吐 | [过量用药和病情单元反复细写胃痉挛、连续呕吐及同时控制排泄的身体反应，呕吐本身形成持续感官线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2944883) |
 | 剃毛 | [头部受伤后的剃发、缺损外观、羞耻与后续修整过程被连续展开，剃除头发及身体展示具有独立场景分量。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3040386) |
 | 气味 | [尿液气味与兄长身体气味被持续嗅闻、评价并直接唤起欲望，多个场景以嗅觉追逐为描写重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2928907) |
-| 手部 | [兄长的手掌、指节与动作被主角反复凝视、赞美并直接引发性反应，是贯穿全书的独立感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2916150) |
 | 精液 | [精液的量、浓稠度、覆盖身体的位置和向下流淌的质感在多个场景被反复评价，已超出普通射精交代。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3057436) |
-| 腹部 | [膀胱充盈形成的小腹弧度、凸起、触感和安全带束压跨多个实质单元被反复凝视和触摸。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2924006) |
-| 腿部 | [腿长、线条、肌肉与制服包裹效果被跨场景持续凝视评价，并直接成为欲望和服装视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2973029) |
 | 足部 | [高潮场景持续凝视脚趾蜷曲、张开及其动作，并在事后反复回想，足部动作成为独立感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2973029) |
 
 ### [【江河湖海】第32章的广播剧，很有必要单独开一楼（BL男憋)](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=215796)
@@ -1194,8 +1173,6 @@
 | 气味 | [粪便、呕吐物和环境酸腐恶臭跨医院、场馆、车厢等多个单元被具体反复描写，并持续引发捂鼻、回避和群体反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2411627) |
 | 体液采集 | [医护和研究人员用针筒从便盆吸取肠液、装入试管并多次送检，产生后的样本保存、转移和检测均实际展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2387066) |
 | 脏污 | [呕吐物和混合污秽物持续覆盖头发、身体与环境，非尿粪自然湿痕造成的肮脏状态本身成为核心视觉。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2380973) |
-| 腹部 | [小腹隆起、波动、触感、内部痉挛与外形变化跨多个实质单元被反复凝视、触摸和色情化经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2389052) |
-| 臀部 | [臀部的形状、弹性与触感被持续凝视描写，小岛胜美替室友擦拭时对臀瓣的触感与回弹有独立成段的感官描写并引发娇哼。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2394551) |
 
 ### [长篇 泻流感（流行性腹泻爆发，文明社会陷入混乱）二](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=166773)
 
@@ -1214,7 +1191,6 @@
 | 旗袍 | [今泉瑛的一贯旗袍形象、刺绣款式和穿着反差被多次描写，撩起旗袍排尿又使其结构直接参与完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2436916) |
 | 病号服 | [柳川醒来后发现病号服内没有内衣，随后因害怕他人由病号服联想到失禁而披毯遮挡；服装的暴露、医疗身份和羞耻持续推动该单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401265) |
 | 扩肛 | [角色长期使用器具和灌肠管扩张肛门，并具体描述扩张程度。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401265) |
-| 身体膨胀 | [近两升液体持续灌入使小腹显著隆起如临产孕妇，膨胀过程、容量和外观构成完整灌肠场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401265) |
 
 ### [长篇 泻流感（流行性腹泻爆发，文明社会陷入混乱）三](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=173585)
 
@@ -1247,7 +1223,6 @@
 | 大量排便 | [李瑞欣长期便秘后排出远超普通量的宿便并继续出现大量水样便，排出量、持续时间和堆积结果被作为完整场景焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3105012) |
 | 放屁 | [角色在腹泻或排便前后伴随着大量排气的声音和动作。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3057717) |
 | 指交 | [李瑞欣有明确的手指阴道插入描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3105012) |
-| 潮吹 | [正文明确以“并非尿液”的方式描写高潮时的液体喷出现象，与失禁做了区分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3105012) |
 | OL | [制药公司华东大区女副总裁在航班厕所内仍被迫参加公司紧急线上会议，职务和工作协作直接塑造完整困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3105012) |
 | 空姐 | [乘务长月理慧与美绪、小桃等空乘是第三大章后段的主要角色，制式包臀裙、机上工作纪律（当班拉肚子会被停薪留职）与机组岗位直接决定其行为与困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3094041) |
 
@@ -1339,20 +1314,16 @@
 | 项圈 | [带牵引铁链的项圈反复佩戴，并被明确赋予“母狗”所有权与牵引控制含义，是贯穿多个单元的核心道具。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1944090) |
 | 乳房 | [篮球场整章以不穿运动内衣造成的乳房晃动与被视奸为核心感官对象，酒店窗前又以双乳挤压玻璃搜寻钥匙作为核心玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1944278) |
 | 感官剥夺 | [黑色眼罩在整个酒店篇持续发挥控制作用，黑暗、未知与依赖被明确写成她失去反抗勇气、加倍恐惧的场景重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1954019) |
-| 腿部 | [雪白大长腿被设定为角色最大卖点并在多章中被反复凝视、评论与刻意暴露，构成持续的核心视觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1943560) |
-| 臀部 | [翘臀被反复作为被凝视对象与情节机关（撑起裙摆导致走光、贴玻璃搜寻钥匙、爬行时摇摆展示），不止一次偶然显露轮廓。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1944278) |
 | 意外 | [室友计划外归来直接迫使裸体女主躲到阳台，并制造整章暴露和被观看风险。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1946792) |
 
 ## [【花茶x蛙蛙】近在咫尺却又无法触碰的死结](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=266817)
 
 | 标签 | 理由 |
 | --- | --- |
-| 喜剧 | [网络化吐槽、街头误会和双方反被联动装置困住的结局持续制造荒诞喜剧效果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | GB | [全篇亲密/性场景均为女性小花茶主动施为、男性蛙蛙被动承受：她抚弄其性器、为其加装置、牵他出门并布置整场玩法，女攻男受结构是作者经营的关系重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 男 | [承受憋尿、身体控制与失禁风险的核心癖好焦点是男性角色蛙蛙，且贯穿后半篇。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 女 | [结尾完整篇章持续描写小花茶被贞操带锁住刺激装置、在奶茶店被推上高潮并在高潮后继续遭研磨；女性自身明确成为性癖承受与感官焦点，不只是施加者。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 强迫 | [装置功能事先被隐瞒，男方随后无法说话、解除拘束或停止持续刺激，并明确产生停止意愿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
-| 虐待 | [小花茶隐瞒装置功能，锁住蛙蛙的双手、口部并限制视觉，再将其独自留在街头；无法求停的自动性刺激和受制过程持续四十余分钟，外部施加的伤害与屈服本身被完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 意外 | [陌生母女突然注意、靠近并当面询问，使受拘束且正遭自动性刺激的蛙蛙被迫在近距离观察下应答、掩饰呻吟并经历一次完整寸止，计划外接触实质升级了公共暴露困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 女性支配 | [小花茶制定饮水与装备规则、实施拘束并决定离开，掌握男性核心玩法的推进权。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
 | 支配与服从 | [作品把饮水命令、拘束装备和控制权交付经营为持续的情侣权力交换玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3426677) |
@@ -1397,7 +1368,6 @@
 | 监禁 | [角色被封闭在两米见方的电梯内四个小时，每层门后都是水泥墙，失败即永久囚禁，无法自行离开构成全篇处境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991860) |
 | 绑架 | [角色以假委托被诱骗至废弃医院遗址后被掳走并失去自由，诱捕布局的揭露是全篇的核心反转。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991860) |
 | 虐待 | [施加者以设计好的关卡持续制造生理痛苦、恐惧与屈服，并从受害者的痛苦与狼狈本身获取满足和收益，明确求助后仍继续加压。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991867) |
-| 霸凌 | [暗网观众群体通过弹幕、语音、起哄和性化辱骂持续围攻女主，群体社会性攻击本身贯穿多个关卡并加重心理压迫。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991862) |
 | 酷刑 | [整套游戏以观赏折磨为目的，系统性施加极端尿意、感官刺激与精神痛苦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991867) |
 | 羞辱 | [自慰次数提问、播放其自慰录像、强制暴露性蹲起以及逼她亲口说出淫词求饶，施加者有意贬损尊严并利用私密失态实施控制，贯穿多个完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991862) |
 | 女性支配 | [川崎作为设局者量身设计规则、下达命令、实施惩罚与催尿刺激，并掌握许可、免水与胜负判定的推进权，第5至7节以她的控制视角展开完整叙事单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991867) |
@@ -1420,10 +1390,6 @@
 | 丝袜 | [黑色裤袜既是被反复恋物化描写的对象（包裹感、光滑触感、镜头放大、褪下时的压痕与曲线），又两度作为可交易的关键道具推动情节，不是换衣时的顺带提及。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991862) |
 | 湿衣 | [裙摆、胸前与内裤浸湿后仍被持续穿着，湿痕扩大、布料贴肤下坠、冰凉和透明感均获得连续感官描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991865) |
 | 利尿剂 | [强效利尿的特制水是游戏的核心道具，明确说明其药理与加速尿意的效果，并直接决定憋迫进程与失败判定。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991860) |
-| 腹部 | [女主腹形、皮肤张力、硬度和触感被反复凝视与描写，超出普通尿意伴随说明。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991865) |
-| 身体膨胀 | [大量饮水和利尿剂使下腹跨段异常隆起，被反复写成皮球、临盆孕妇并撑高裙摆，形变本身持续成为视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991865) |
-| 腿部 | [大腿、小腿的线条、颤动、皮肤和裤袜包裹效果在完整展示场景中持续成为视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991865) |
-| 臀部 | [四十个蹲起的完整场景把臀部形状与摆动作为持续凝视对象并由观众点名评论，结尾撅臀释放的姿态同样被作为视觉焦点书写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991865) |
 | 感官过载 | [持续催尿声与极限尿意等感官输入把角色推到眼神涣散、身体与意识连接变松、大脑近乎空白且无法继续推理，明确经营了刺激压垮处理能力的峰值状态。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3991869) |
 
 ## [赛博朋克：尿意营救](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=302983)
@@ -1471,13 +1437,11 @@
 | 拘束 | [手铐与墙上镣铐在多章中持续限制两名少女的行动，直接决定她们无法自助排尿、无法反抗与需要被解锁的全部互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3798702) |
 | 电击 | [地漏被预设为电击陷阱，是抓捕夜莺、强行中断其排尿的关键装置，并在其后造成麻痹抽搐的持续状态。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3869406) |
 | 腹部按压 | [施力点明确在膀胱对应的下腹，持续加压以制造尿急与难受，是审讯者施压手段的组成部分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3798702) |
-| 腹部 | [鼓起的小腹被审讯者持续按压、游走触摸并作为膀胱充盈的视觉与触觉对象，且同类腹形描写跨多个完整单元出现。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3798702) |
 | 指交 | [手指进入阴道并作为性刺激在两处场景中明确发生并直接导向高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800949) |
 | 手交 | [灵蛇与夜莺在完整场景中互相用手指刺激对方性器并连续高潮，符合不限性别与性器形态的手交定义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800949) |
 | 口交 | [夜莺在完整互动中含住并持续舔舐变色龙的外阴，直接使其高潮；口舌刺激不是一带而过的前戏。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3874056) |
 | 自慰 | [变色龙在被囚禁、有旁观者的完整场景中自行刺激至高潮，并写明其数日饥渴的前因与脱力的后果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3874056) |
 | 多重高潮 | [同一场景明确描写两人短时间连续多次高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800949) |
-| 潮吹 | [正文明示“潮吹”与阴精流出，与排尿被明确区分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3874056) |
 | 漏尿 | [少量漏出后重新止住并恢复控制的过程在多处被独立展开，是作者反复经营的关键节点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800374) |
 | 尿失禁 | [第十四章完整铺写女仆因工作延误、找不到容器、裙带打死结而无法止住尿流并大量排空，失控过程本身是该单元的核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3803566) |
 | 尿裤子 | [女仆失控前尿液已经实际浸湿内裤，之后因裙带打结无法脱衣而继续大量排空，衣物受尿液浸湿是完整场景的一部分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3803566) |
@@ -1503,7 +1467,6 @@
 | 利尿剂 | [先锋制药研发的强效利尿药被下在鸡尾酒中，是变色龙与夜莺相继落网的直接机制并持续影响后续尿意。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3798699) |
 | 呕吐 | [被迫饮尿后的反胃、呕出、反复干呕与随后无法再喝的状态被细致展开，是该惩罚场景的关键组成与收尾。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800365) |
 | 身体改造 | [机械部件替换人体器官并已用于活人试验，是机密阴谋的核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3869406) |
-| 身体膨胀 | [角色的膀胱充盈使小腹反复异常隆起，正文特意写成“孕妇”与“涨满的水气球”，膨胀外观和受压状态是密室憋迫场景的核心视觉。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3869616) |
 | 气味 | [尿液与下体气味被持续嗅闻、评价并用于唤起厌恶、兴奋与人物互动，既是饮尿场景的核心障碍，也是船上接尿场景的调笑焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3800365) |
 
 ## [【冰封出品】我的系草室友（bl）（帖内更新）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=168464)
@@ -1511,7 +1474,6 @@
 | 标签 | 理由 |
 | --- | --- |
 | 剧情向 | [从陌生室友建立信任、确认恋爱，到假期见家长、新室友介入和公开关系，人物关系与创伤照护形成跨章节推进的因果主线；各单元不只用于串联失禁或尿布玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2437053) |
-| 喜剧 | [叙述者跨章节反复用自我吐槽、夸张类比和视角错位制造笑料，例如把第一次受邀同睡的惊讶、哄成年人睡觉和照护尿布写成连续轻喜剧互动；幽默处理是作品稳定的表达层，而非一次轻松措辞。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2415532) |
 | 校园 | [大学寝室生活是作品的基础场景与主要冲突来源：上床下桌、查寝、熄灯、导员安排新室友、如何在室友面前隐藏尿布，构成开篇与开学后多个完整单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2414839) |
 | 浴室 | [洗澡、冲澡和浴室内自慰在多个章节反复出现；番外又以浴缸中的共同洗浴、洗发和身体照护完整推进亲密关系，浴室并非短暂过渡场所。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
 | 甜文 | [全篇基调为宠溺、安抚与轻松满足：无外部阻力，双方家庭全力支持，冲突基本靠拥抱与哄睡化解，年夜饭、放烟花、撒娇互动构成主要情绪内容。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434148) |
@@ -1544,8 +1506,6 @@
 | 泌乳 | [「番外一（攻产奶设定）」是一个完整独立故事单元，全篇即围绕男性角色开始分泌乳汁、乳汁喷涌、次日涨奶胀痛并需被吸出展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
 | 乳房 | [攻的胸部/乳头被反复凝视与刺激：受睡觉必须摸胸、无意识吮吸、揉捏乳头，番外整篇以乳头外观、吸吮触感与涨痛为核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
 | 乳汁 | [乳汁的产生、流量、饮用和排出本身是番外的核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2504434) |
-| 臀部 | [叶一的臀部在换尿布、抱持和睡眠场景中反复被独立观看、托抱、拍摸和评价肉感；“包着纸尿裤的小屁股”等视觉构图跨章节出现，不只是排泄物接触或功能动作。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2417793) |
-| 腿部 | [叶一的大腿/大腿根肉感被持续作为触觉与视觉恋物对象，多章重复（白嫩大腿、越来越粗、捏大腿肉），并直接引发攻的性兴奋与性向自省。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2414839) |
 
 ## [【6.8k字中篇】七年之约，和天边的晚霞](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=202389)
 
@@ -1562,7 +1522,6 @@
 | 纯爱 | [两人互相喜欢、互相救赎，无背叛与胁迫；换纸尿裤、照顾发烧等癖好场景一律被写成体贴、关爱与心照不宣的守密。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2797505) |
 | 意外 | [七年前突发交通事故造成雨华受伤、失忆和两人分离，七年后染晴又在雨中遭遇逼近货车并被雨华及时救下；不可预见的车辆事故及其重演构成全篇创伤、失忆、救援和关系闭环的核心外因。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2797505) |
 | 心理创伤 | [染晴带着七年前害雨华重伤的愧疚，表现为回避说明真相、独自淋雨崩溃、怕打雷、车祸闪回与山路上的再体验，并持续决定她的行为与两人关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2797505) |
-| 霸凌 | [开篇男生群体抢走并丢弃雨华的小熊、排挤嘲弄他，正文又明确说明他长期因喜欢可爱物品而被男生欺负；这种经历持续塑造他隐藏喜好、害怕接近同学及后来被染晴接纳的关系线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2797505) |
 | 羞耻 | [染晴因秘密被看见、当场失禁而反复体验强烈难堪、躲藏、流泪与声音变小，这种主观羞耻感是多个完整场景与人物塑造的重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2797505) |
 | 尿失禁 | [染晴在秋千上与沙发上两次非自愿大量排尿，尿流持续、无法止住并形成明显湿透，作者对失控过程、视角停留与后续处置反复铺写，构成核心场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2797505) |
 | 尿裤子 | [开篇雨华在公园失禁后短裤被明确尿湿，湿衣状态、被看见的羞耻及后续整理构成完整场景，不要求角色主动排尿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2797505) |
@@ -1575,7 +1534,6 @@
 | 标签 | 理由 |
 | --- | --- |
 | 剧情向 | [阶级怨恨引出求职伪装、秘密投药和追踪目标的连续复仇犯罪线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957217) |
-| 喜剧 | [品牌与阶层讽刺、夸张排泄比喻、公众误解和人物自我形象反转跨多个单元反复制造黑色幽默，不是一次轻松措辞。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 体育 | [街舞课程、基本功、斗舞和持续身体动作构成沈嘉涵故事单元的核心场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 犯罪 | [秘密投放泻药、规避监控并追踪受害者共同形成有计划的犯罪链。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957218) |
 | 职场 | [门店招聘、培训、轮班和工作规章持续支撑主角实施计划，林婕篇亦经营咨询行业身份。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957218) |
@@ -1588,7 +1546,6 @@
 | 女 | [多个核心单元均把女性忍耐便意、控制排泄和失控作为主要癖好焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 强迫 | [受害女性在不知情下被秘密投药而遭受强制生理反应，林婕求去洗手间时亦被短暂强行阻止。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957218) |
 | 意外 | [林婕已经说明要去洗手间并起身离开时，事前不知情的叶焕之突然拉住她的手腕，使其维持括约肌控制的力道意外中断并当场漏便；这一普通但不可预见的外部动作独立升级了核心困境，并非为制造失控而设局。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3072036) |
-| 淑女 | [沈嘉涵为维持高傲仙女形象而向同学和男友隐瞒便意与失态，并在舞蹈课中故作正常、继续忍耐。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 潜规则 | [林婕以性关系争取股份交易便利，掌握商业资源的叶焕之以“看你表现”回应并把承诺作为继续性互动的交换条件。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3072036) |
 | 虐待 | [主角反复主动制造女性腹泻和失禁，并从她们的痛苦、窘迫与屈辱中获得满足。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957218) |
 | 跟踪 | [末章完整展开从商场尾随至叫车追踪目标车辆的持续秘密跟随过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3356942) |
@@ -1614,12 +1571,9 @@
 | 情趣内衣 | [沈嘉涵的内裤被明确设定为用于性展示的情趣内衣，其被弄脏和丢弃亦得到独立铺写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 紧身衣 | [一体式连身裤靴的包裹结构、穿脱困难及其对排泄困境的限制均是核心细节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3072036) |
 | 泻药 | [主角选择并秘密掺入泻药，实际造成多名顾客腹泻和失禁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957218) |
-| 饮食控制 | [陪侍掮客按客人要求持续限定餐厅、菜品、分量和刺激性食物，角色突破管控食用冰激凌又直接触发后续困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2994599) |
 | 浴室 | [套房浴室先承载完整洗浴场景，后又以磨砂门和淋浴声遮掩排便、使门外偷窥得以持续展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3072036) |
 | 气味 | [作品持续对身体香气、屁味及粪便酸臭进行嗅闻、比较和欲望化评价。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2962584) |
 | 脏污 | [陈秋怡失禁后，作品另起完整场景持续展示粪便覆盖车座、黄汤残留及酸臭：陌生人循味揭开毯子，近距离观察并拍摄影像，脏污状态本身直接推动偷窥与隐私情节，已非拉裤子的普通自然结果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2962584) |
-| 腿部 | [女性腿形、长度、肤色及运动中的线条被反复列为欲望和视觉凝视对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957216) |
-| 臀部 | [臀部形状、包裹轮廓、甩动、夹紧及裤内失控后的状态均受到持续视觉和感官描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2957219) |
 | 足部 | [脚、脚趾、足部美甲及鞋袜包裹下的动作在多个女性角色描写中被持续恋物化。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2994599) |
 
 ## [玄幻架空世界观：一随梦主行江湖](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=188127)
@@ -1627,7 +1581,6 @@
 | 标签 | 理由 |
 | --- | --- |
 | 剧情向 | [识别刺客、侦查内应、设局抓捕及追查疫病来源形成连续的非癖好因果主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645872) |
-| 喜剧 | [师徒日常打趣、下药者先吃坏肚子的回环包袱，以及顶级刺客反复被肠鸣、屁声、如厕急迫打断轻功和战斗的身份反差贯穿主要篇章；对手又持续以“找恭桶和茅房”等台词调侃，荒诞失态被作者明确经营为笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645873) |
 | 医疗 | [诊断毒症、研判传播方式、用药解毒和寻找医者持续推动两段主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2653416) |
 | 古代 | [皇权、将军、驸马、郡县及传统时辰制度构成主要社会背景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645874) |
 | 悬疑 | [首个篇章持续围绕刺客真身、四名嫌疑人、内应和幕后协助者展开追查。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645872) |
@@ -1666,8 +1619,6 @@
 | 中毒 | [首篇药物中毒与胶州腐鳗微生物毒症均造成持续生理后果并推动抓捕、求医主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2648788) |
 | 呕吐 | [腐鳗发病单元对吕嗳和墨丝祺的呕吐过程、呕吐物及其与腹泻并发状态有完整描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2653416) |
 | 气味 | [腐臭、鱼腥、酸臭等排泄气味在多个完整场景中被反复辨认、比较，并持续引发作呕、捂鼻、嘲笑和衣物处理；嗅觉本身受到作者经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645873) |
-| 腹部 | [腹部外观、束压、触摸、肠鸣和绞痛被反复性化凝视，超过腹泻的普通伴随描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2645876) |
-| 臀部 | [臀部形状、夹紧、撅起、裸露和排泄状态在全作多个人物场景中都是核心视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2656579) |
 
 ## [我變成了天才妹妹的寶貝](https://www.shireyishunjian.com/main/forum.php?mod=collection&action=view&ctid=1467)
 
@@ -1676,7 +1627,6 @@
 | 标签 | 理由 |
 | --- | --- |
 | 剧情向 | [妹妹发现父亲长期虐待姐姐，利用经济能力将姐姐带离并建立新生活，随后发展为照顾和尿布赌约，形成连续因果主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
-| 喜剧 | [年龄与地位错位、妹妹一本正经地逗弄姐姐，以及失禁后严肃检查身体并让姐姐自嘲，持续制造轻喜剧反差。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | 甜文 | [脱离虐待家庭后，姐妹间的救助、宠爱、拥抱、打闹与轻松满足构成本章主要情绪基调。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | 女 | [姐姐亲身穿尿布、长时间憋尿并失禁，是本章核心性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
 | GL | [妹妹为姐姐脱衣包尿布、称赞其害羞可爱、拥抱并组织憋尿赌约，女性间的亲昵私密玩法达到取向构图下限。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890062) |
@@ -1709,7 +1659,6 @@
 | 标签 | 理由 |
 | --- | --- |
 | 骨科 | [亲姐妹小瑄与小月长期互为宝宝与照护者，并在多个完整场景中直接刺激彼此性器、舔舐和达到高潮，已是明确近亲性关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
-| 喜剧 | [姐妹互相反制、操控者反被当宝宝、公开误会及作者持续吐槽反复构成笑料，不是只靠失态本身制造尴尬。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 主动 | [小月在无人要求时因自己的 AB 兴趣主动继续穿尿布、参与宝宝日并自设憋尿挑战；这一动机与其他被强迫情节分属不同单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 人口贩卖 | [雨臣回忆自己十二岁被弃置于黑市“人口交易商店”、等待被转送，交易受害者身份随后解释其长期关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 排尿困难 | [小瑄在姐姐面前明确有尿意却“尿不出来”，需持续揉按下腹才能排尿，障碍和解决过程本身构成完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
@@ -1721,7 +1670,6 @@
 | 腹部按压 | [照护者反复揉按或突然用力压迫下腹和膀胱体表，以制造尿急、促使排尿或让憋尿角色失守。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 隐私泄露 | [角色在第三人或群体面前实际说出他人的尿床、性刺激和宝宝身份等私密事实，旁人确已获知而非只有上传威胁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 泻药 | [软便剂被秘密加入果冻并实际造成急迫便意及尿布排便，使用与后果均明确。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
-| 腹部 | [充盈小腹的外观、硬度、内部尿量、揉按触感和受压反应跨多个憋尿及性刺激单元反复受到凝视。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 
 ### [我便成了天才妹妹的寶貝5](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=121700)
 
@@ -1835,7 +1783,6 @@
 | 打屁股 | [打臀部并非一次轻拍，而是反复使用的宝宝惩罚机制；维琪篇明确连续拍打到臀部通红、哭泣和失禁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 | 色情勒索 | [施加者以发送睡眠、哺乳或把尿私密影像给家长/众人相威胁，迫使角色喝奶、承认行为或停止反抗。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 | 学生 | [多名主要角色的年级、上课、学籍、成绩和幼儿园生活独立参与人物塑造与核心玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
-| 臀部 | [臀部在尿布包裹、拍打、红肿、触摸和排泄清理中反复成为核心视觉与触觉对象，不只是偶然提到身体部位。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 
 ### [我變成了天才妹妹的寶貝25](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=122472)
 
@@ -2136,7 +2083,6 @@
 | 标签 | 理由 |
 | --- | --- |
 | 纪实 | [作者在标题及正文明确声明记录亲身真实经历，叙事围绕具体检查过程展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
-| 喜剧 | [网络化吐槽和夸张抱怨贯穿检查过程，医生客观指出尿急与叙述者竭力维护体面的视角错位又反复形成情境笑料；幽默是稳定表达层而非一句轻松措辞。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 | 医疗 | [诊断前彩超、医生带教和检查要求持续制造并推动核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 | 医院 | [医疗机构的彩超检查室承载全文主要场景，并直接决定角色行动和隐私体验。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 | 验身 | [正式彩超检查从准备、探头检查到带教复查被完整展开，身体检查本身是情节核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
@@ -2171,11 +2117,8 @@
 | 尿裤子 | [漏出的尿液明确落入角色当时仍穿着的普通内裤，数量多少不影响命中。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 排尿困难 | [塞具持续封堵尿道，使已有强烈尿意的女子无法排出，障碍本身是核心玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 回憋 | [拔塞后尿流已经开始，女子随即按压、夹腿并成功把尿流暂时憋回。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
-| 强制排尿 | [女子虽先请求拔塞，但尿流开始后试图重新堵住；男子随即抓住她的手按在床上，使她无法停止并持续排空。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 尿道塞 | [塞具被持续置入并明确封堵尿流，且没有钥匙或授权锁定机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 | 束腰 | [束腰被实际系紧以掩饰膨起小腹，并持续加剧腹压、疼痛和尿急。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
-| 腹部 | [鼓胀腹部的外观、硬度、触感和按揉反应在重逢及婚后场景中反复成为色情化焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
-| 身体膨胀 | [充盈下腹被反复写成“水球”“鼓胀得不像样子”和“硕大肚腹”，异常隆起与受压形变持续成为视觉及玩法焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2709113) |
 
 ## [【短篇】晚自习后的可怜女孩](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=240965)
 
@@ -2199,8 +2142,6 @@
 | 憋尿 | [延迟排尿、倒计时、姿势调整、尿意升级和寻找厕所构成主要叙事结构。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3170751) |
 | 尿裤子 | [大量尿液明确浸湿正在穿着的校裤并从裤管流出。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3170751) |
 | 湿衣 | [失禁后女孩继续穿着湿校裤，湿润不适、触感和对该状态的迷恋被明确作为后续焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3170751) |
-| 身体膨胀 | [饮水蓄尿使小腹反复显著鼓胀并被比作硕大水球，教师的隆起腹形又形成跨角色对照。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3170751) |
-| 腹部 | [小腹外形、腹内水量和与教师腹部的对照被反复凝视与具象化，形成独立身体焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3170751) |
 
 ## [水花日记——林悠诺的第53个备胎](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=140803)
 
@@ -2208,7 +2149,6 @@
 | --- | --- |
 | 纪实 | [作者明确说明作品依据两名毕业生口述真实经历和个人观察改编；二次加工不否定现实事件来源。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2089940) |
 | 剧情向 | [备胎式单恋、女方失恋求助、当面表白和关系收束形成独立因果与情感主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2089964) |
-| 喜剧 | [第一人称持续以“高档备胎”、第53名和面向读者的自嘲吐槽制造幽默。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2089941) |
 | 校园 | [课堂、教学楼、宿舍、操场和校内厕所距离共同支撑主要关系及核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2089941) |
 | 学生 | [主要人物的学院、上课和校内舞团经历反复参与人物塑造和情节推进。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2089941) |
 | NTR | [女方既有排他恋爱关系遭另一女性介入并破裂，背叛直接发动后半篇情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2089941) |
@@ -2218,11 +2158,9 @@
 | 女 | [核心憋迫、姿势变化和濒临失守的身体焦点均落在女性角色林悠诺身上。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2090283) |
 | 单人 | [核心忍耐及排尿由林悠诺一人经历，叙述者只提出办法、短暂搀扶和背身望风。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2090296) |
 | 憋尿 | [大量饮液、附近厕所不可用、路程过远和持续忍耐姿势共同构成高潮前核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2090283) |
-| 极限放尿 | [林悠诺已明确快要失禁，仍保持控制到自己选定的雪地角落，主动褪裤蹲下后才开始连续排尿，完整释放构成场景高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2090296) |
 | 野外排尿 | [角色在废弃操场旁露天雪地实际排尿，地点、姿势、雪地水流及暴露风险得到持续描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2090296) |
 | 露出 | [角色明知身处校内露天环境仍选择在角落排尿，并安排熟人望风、遮挡和规避潜在视线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2090296) |
 | 羞耻 | [排尿后她羞涩地挡住身后、要求陪同者不许看并低头躲避目光，难堪反应是露天排尿场景的重要收束。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2090296) |
-| 腿部 | [长腿、小腿裸露与动作跨章节反复被凝视和评价，并参与人物吸引力及憋尿姿势表达。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2089941) |
 
 ## [雾柳暗时云度月](https://www.shireyishunjian.com/main/forum.php?mod=collection&action=view&ctid=234)
 
@@ -2236,7 +2174,6 @@
 | 男 | [男性角色的憋尿、渗漏、失守及相关吸引贯穿全部章节并构成主要癖好焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1966950) |
 | BL | [孟执、荀句和玉衡之间的男性恋爱、性吸引及亲密关系构成作品中心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1983918) |
 | 多角关系 | [孟执、荀句、玉衡及其前世关系形成持续牵连的爱欲、竞争与误解结构。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1966376) |
-| 喜剧 | [第一人称吐槽、断袖误会、公众错读与主角反被同一癖好机制困住的反转反复出现。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1966950) |
 | 仙侠 | [飞升、仙君、九重天、仙术、历劫与天条共同构成核心世界规则。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1966376) |
 | 神话 | [灵宝天尊、王母、南天门及九重天等既有道教神话体系构成主要设定。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1966376) |
 | 憋尿世界观 | [神仙体液会使生灵成精、随地排尿触犯天条等普遍规则持续影响多名角色和情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1966787) |
@@ -2279,8 +2216,6 @@
 | --- | --- |
 | 历史人物同人 | [真实历史人物寇准被置入大理寺冤狱、改命和仙人营救的虚构支线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1991202) |
 | 监狱 | [正式的大理寺监狱构成寇准上吊、失禁和营救支线的主要场所。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1991202) |
-| 腹部 | [充盈小腹的外形、硬度、触摸与亲吻在多个性和憋尿场景中成为色情化焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1991202) |
-| 腿部 | [大腿内侧被抚摸、白皙长腿被尿流打湿及腿部视觉效果跨多个核心性场景反复聚焦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1991202) |
 
 ### [【三生三世】 雾柳暗时云度月 第11章 月明槐下饮 日出榻上潮 （男）* 轻口.腐.慎入*](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=132019)
 
@@ -2315,7 +2250,6 @@
 | 性行为 | [作品实际展开自慰、手部性刺激、舔肛及男性间性交等多类性行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2026414) |
 | 舔肛 | [核心男性性爱场景明确掰开臀部并舔舐肛门，以该动作获得对方性反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2026414) |
 | 利尿剂 | [药仙所配汤药被明确写成持续增加尿意与排尿频率，并实际制造多轮核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2026414) |
-| 臀部 | [臀部的挺翘、裸露、夹紧、抚摸和掰开在多个完整性场景中反复成为视觉触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2026414) |
 
 ### [【三生三世】 雾柳暗时云度月 第15章 初与君相识 不为修来生（男）* 轻口.腐.慎入*](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=137404)
 
@@ -2354,7 +2288,6 @@
 | 同人 | [苏眉、梁教授、包斩、画龙和特案组等《十宗罪》人物设定被用于新的案件故事。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4040996) |
 | 原创角色 | [原创警员、村民和嫌疑人持续参与作者新设的山村案件并承担调查主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4040996) |
 | 剧情向 | [灭门案走访、物证、尸检和嫌疑线索形成独立于憋尿玩法的连续调查因果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4042323) |
-| 喜剧 | [叙述吐槽、村民把夹腿误解为优雅及排尿地点长草等笑料反复构成喜剧层。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4040996) |
 | 乡村 | [村庄土路、农业生计、公共茅厕和熟人社会共同构成主要环境与案件关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4041172) |
 | 悬疑 | [作品围绕灭门真凶、不同凶器、失窃内衣与陌生指纹逐步组织线索。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4042323) |
 | 犯罪 | [灭门、埋尸、偷窃女性衣物及警方调查构成整个故事的主要框架。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4042323) |
@@ -2375,10 +2308,6 @@
 | 湿衣 | [苏眉继续穿着尿湿的内裤和丝袜，湿痕贴身带来的不适与扭动受到明确描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
 | 高跟鞋 | [八厘米高跟鞋在土路上的酸麻和行动限制反复加重步行与憋尿困难。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4041172) |
 | 正装 | [衬衫、丝巾和包臀职业裙的正式造型被村民反复观看、评价并强化身份反差。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4040996) |
-| 身体膨胀 | [憋尿造成的小腹隆起跨两个段落被明确写成已经鼓起，并反复用近似孕妇的外观作参照。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4042323) |
-| 腹部 | [小腹鼓起、衣物束压和膀胱内部压力跨多个阶段成为持续身体感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
-| 腿部 | [修长腿形、丝袜包裹效果和他人凝视跨多个场景反复受到色情化描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4041172) |
-| 臀部 | [臀部的挺翘、包臀裙强调效果及被触摸跨场景成为视觉与触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4069320) |
 
 ## [一个bn合理的世界观（女憋）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=225954)
 
@@ -2392,8 +2321,6 @@
 | 憋尿 | [延迟排尿的身体表现、社会作用和性吸引力是全文持续经营的绝对主题。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
 | 主动 | [作品明确设定多数女性为获得身体与审美收益而自主选择忍耐，并非他人命令或意外。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
 | 羞耻 | [失禁被反复写成比内裤走光更羞耻、类似当众出糗并会造成职业掉粉，羞耻强度与社会后果是独立设定重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
-| 身体膨胀 | [设定专段说明女性因长期憋尿而普遍小腹显著鼓起、近似怀孕，并使这种膨胀外形形成审美与社会机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
-| 腹部 | [小腹的弧度、硬度和鼓起状态被专段反复讨论，并成为独立色情审美焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
 | 腹部按压 | [束腹被专段说明会对腹部持续束压、提高膀胱内压并改变激素吸收，是服饰之外独立经营的身体压力机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
 | 束腰 | [作品用完整专题说明束腹的流行、塑形作用及其提高膀胱内压的身体效果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
 | 尿道塞 | [尿道塞作为实际禁尿产品被专段讨论，其佩戴、异物感、健康后果和用途均有展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3025470) |
@@ -2441,7 +2368,6 @@
 | 女 | [作者明确说明第四篇以后改为正常女主，本章风铃是性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | BG | [多名男孩对女性风铃产生明确性欲，持续观看、触摸并侵入其身体，形成完整男对女情色构图。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | GL | [伽伽对女性外观的风铃表现欲望，并持续实施情色接触和控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
-| 喜剧 | [母亲“卖女儿”、羊入虎口和旁白反差等笑料在多处展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 意外 | [风铃事前不知道男孩们会因捉迷藏闯入未锁的房间，困境因此升级。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 强迫 | [伽伽以性秘密威胁脱衣并实施拘束，男孩们随后无视其无法同意而侵犯。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 虐待 | [威胁、拘束、隔绝求助和持续非合意性接触共同形成性伤害。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
@@ -2450,7 +2376,6 @@
 | 群交 | [五六名男孩共同参与同一场持续展开的群体性化触摸和侵入。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 多重高潮 | [风铃在同一段受控经历中先被伽伽、后被男孩们接连推至高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 强制高潮 | [风铃被绳缚和口塞后无法停止多人刺激，并被迫实际高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
-| 潮吹 | [群体刺激后的高潮伴随蜜壶液体明确喷涌并浸湿床单。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 性奴 | [前章建立的“可随时进行性使用且不能反抗”规则延续到本章，伽伽据此命令、拘束并处置风铃。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 女性支配 | [伽伽直接命令、刺激、蒙眼、口塞并捆绑风铃，控制其身体玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 主奴 | [既有的长期服从规则在本章继续生效，伽伽以掌握秘密者的身份直接命令并威胁风铃。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
@@ -2468,7 +2393,6 @@
 | 学生 | [高中生与小学男孩的学段反差持续构造羞耻和群体侵犯张力。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 乳房 | [乳房的形状、裸露、绳索夹压、揉捏和舔吸在场景中持续经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 | 阴蒂 | [男孩们反复夹弄肉瓣上方的敏感小豆，并观察风铃的身体反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
-| 手部 | [七八只小手的数量、轮换、触感和遍布全身的动作被集中反复描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2737666) |
 
 ### [风铃的被调教史 5 寝室冒险](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=197787)
 
@@ -2480,7 +2404,6 @@
 | GL | [伽伽与女性外观的风铃发生持续情色接触、控制和亲密互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 单人 | [前半篇由风铃独自策划、执行男寝暴露并完成自慰，形成独立单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 冒险 | [潜入、探索男寝、躲避寝管和寻找藏身处构成完整冒险过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
-| 喜剧 | [公众误会、角色吐槽、视角错位和括号反差在多处分离展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 元叙事 | [叙述者直接说明某处不再介绍以免占用更多篇幅，评论当前写作。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 主动 | [风铃为暴露刺激主动筹划潜入、真空行走、展示和自慰。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 意外 | [隔壁男生事前未知地取钥匙进入寝室，迫使风铃临时躲进衣柜。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
@@ -2494,7 +2417,6 @@
 | 体外射精 | [男生将大量精液明确射在风铃的丝袜和内裤上并用衣物擦拭。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 多重高潮 | [同一次男寝冒险中风铃在床上、衣柜和伽伽控制下接连多次高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 寸止 | [伽伽多次在风铃接近高潮时主动拔出手指并阻止其自行刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
-| 潮吹 | [风铃高潮时下体液体被明确写作疯狂喷射并浸湿床面。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 高潮管理 | [伽伽以反复停止、要求称主人和乞求为条件决定风铃何时高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 支配与服从 | [身份揭晓后仍持续经营命令、主人称谓、乞求与服从的关系结构。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 主奴 | [风铃正式称伽伽为主人并接受覆盖身体和高潮的从属命令。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
@@ -2513,7 +2435,6 @@
 | 脏污 | [臭袜内裤、体液湿痕、精液污衣和用校服擦拭均被持续检视。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 乳房 | [乳房形状、晃动、揉捏、舔吸及乳头刺激跨场景持续成为焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 阴蒂 | [阴蒂的充血外观、自我揉弄和伽伽反复刺激得到持续特写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
-| 腿部 | [腿部曲线、丝袜包裹和大腿触摸在多个分离场景中反复聚焦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 气味 | [男寝气息、内衣丝袜体香和脏衣气味被持续嗅闻、评价并唤起欲望。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 | 精液 | [精液的浓稠白色、大面积覆盖、残留和擦拭用途被具体经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2741074) |
 
@@ -2521,7 +2442,6 @@
 
 | 标签 | 理由 |
 | --- | --- |
-| 喜剧 | [迟到、真空上课、裙摆被钉住和恶作剧足部侵入均以夸张拟人、反差和调侃语气持续组织。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 | 双性 | [正文明确说明风铃具有女性身体与阴茎，并围绕这个秘密构造暴露风险。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 | GL | [伽伽秘密观察并用脚持续刺激风铃的臀部与性器，女性间的情色互动直接达到取向构图下限。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 | 校园 | [寝室、预备铃、课堂、考试、课代表和同学关系共同承载完整故事单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
@@ -2537,7 +2457,6 @@
 | 丝袜 | [丝袜包裹的脚持续摩擦皮肤和性器，被体液湿透后又受到观看与嗅闻。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 | 真空 | [风铃明知暴露风险仍在水手服短裙下不穿内裤，并让这一状态贯穿上学与课堂。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 | 感官过载 | [持续脚趾刺激使风铃脑中空白、全身无力、无法说话并最终剧烈失控高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
-| 臀部 | [臀部的暴露风险、丝袜脚反复摩挲的触感和被他人首次触碰的心理反应均被持续经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 | 足部 | [脚和脚趾的探入、摩擦、翘缩、夹弄、触感及高潮后状态构成持续视觉与触觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 | 阴蒂 | [伽伽以脚趾夹住阴蒂持续摇动，并围绕其刺激控制风铃反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2742587) |
 
@@ -2552,7 +2471,6 @@
 | 手交 | [伽伽以手持续套弄风铃的阴茎并使其勃起射精。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 体外射精 | [风铃的精液明确射在伽伽手掌上，随后围绕该去向继续互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 强制高潮 | [风铃被按住并在不能自由停止的刺激下实际高潮和射精。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
-| 潮吹 | [高潮时一股股蜜汁被写作洪水般喷洒到床和被子上。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 性奴 | [伽伽以照片建立“随时上床、做什么都不能反抗”的持续性使用规则。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 调教 | [反复刺激、威胁和长期服从条件被明确写成伽伽对风铃的调教。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 女性支配 | [伽伽直接压制、命令和操作风铃的乳房、外阴与阴茎。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
@@ -2565,7 +2483,6 @@
 | 真空 | [风铃在校裙下没有内裤，这一状态持续参与暴露、拍摄和性刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 脏污 | [手掌被精液弄脏及以舔舐完成清理形成完整污痕处理过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 乳房 | [脱衣、十分钟揉捏、乳头变化和快感反应持续聚焦乳房。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
-| 腿部 | [两人的大腿触感被专门比较，风铃腿部的柔软、光滑和持续抚摸形成独立感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 | 精液 | [精液的颜色、与男性精液的差异、沾满手掌和舔净用途均被经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2743907) |
 
 ### [风铃的被调教史 3 课桌下的调教](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=198802)
@@ -2574,7 +2491,6 @@
 | --- | --- |
 | 双性 | [本系列已明确风铃兼具女性与男性生殖特征，本章持续经营两套性器。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | GL | [伽伽与女性外观的风铃在课堂中持续发生情色接触和控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
-| 喜剧 | [装睡避险、假装学习、公开课桌下反差和同学误饮构成多处笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 强迫 | [风铃因既有把柄和剪刀威胁，被迫接受足部刺激、脱内裤和手交。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 虐待 | [伽伽跨数日反复无视拒绝实施性刺激、公开风险和服从控制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 手交 | [伽伽在课桌下持续套弄风铃阴茎直至射精。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
@@ -2582,7 +2498,6 @@
 | 体外射精 | [风铃的精液被明确射进饮料瓶，射精位置直接决定后续玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 多重高潮 | [相邻两节课中风铃先由足部刺激高潮，随后又以阴茎射精。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 强制高潮 | [两次高潮均由伽伽持续控制刺激，风铃明确求停仍无法停止。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
-| 潮吹 | [第一次高潮后的汁液被明确写成喷出并透过内裤沾湿椅子。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 感官过载 | [突然开始的强烈足部侵入使风铃无法处理课堂信息，注意和思考持续被刺激淹没。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 性奴 | [前章建立的持续性使用规则在本章继续支配多种课堂性行为。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 调教 | [跨数日反复刺激、命令、公开脱衣和性反应塑造被作为主轴。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
@@ -2595,7 +2510,6 @@
 | 露出 | [风铃按命令在课堂主动脱去内裤，并持续处理被同学发现的风险。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 真空 | [风铃脱去内裤后仍穿校裙上课，内层缺失持续参与玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 体液采集 | [伽伽有意用饮料瓶接取精液，并保存、混合后交给他人饮用。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
-| 霸凌 | [伽伽凭借掌握性秘密的优势，跨寝室与课堂持续威胁、羞辱并侵犯同伴风铃。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 脏污 | [湿内裤的体液痕迹被展示、嗅舔、拍摄、折叠保存并继续使用。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 足部 | [足和脚趾既持续实施性刺激，又被男同学长段凝视和幻想。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
 | 气味 | [伽伽持续嗅闻湿内裤的私处气味并以陶醉和味觉评价互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2750664) |
@@ -2608,7 +2522,6 @@
 | 女 | [作者明确说明第四篇以后改为正常女主，本章风铃是性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | BG | [男性陌生人持续凝视、触摸并以手指侵犯女性外观的风铃。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | GL | [风铃凝视伽伽裸体，随后二人在更衣室接吻、触摸并延续亲密支配。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
-| 喜剧 | [文件失踪、人物误判、旁白吐槽和更衣室打断等反差笑料反复出现。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | 主动 | [风铃发现陌生人靠近后仍主动维持展示姿势并自慰追求暴露刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | 意外 | [睡衣事前未知地被柜脚挂起，使风铃误判安全的展示升级为全裸暴露。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | 强迫 | [陌生人无视风铃脱身意图，抓住身体、插入手指并推进到强奸未遂。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
@@ -2627,8 +2540,6 @@
 | 真空 | [风铃只套宽松睡衣而不穿内衣裤，并让该状态承载展示与侵犯风险。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | 更衣室 | [公共更衣室的狭小空间、门外人群和换装隐私直接塑造完整互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | 乳房 | [睡姿、自慰、陌生人揉捏和更衣室乳头刺激跨多个场景聚焦乳房。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
-| 腿部 | [腿部的曲线、柔软、晃动和触感被集中比较，随后又持续承受抚摸与摆弄。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
-| 臀部 | [臀部的高举姿态、形状、晃动和陌生人近距离观看持续成为视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 | 气味 | [陌生人长时间近距离嗅闻私处，伽伽也持续追逐并评价其气味。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2754690) |
 
 ### [风铃的被调教史 6 夏日游泳 （5-7）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=199320)
@@ -2639,7 +2550,6 @@
 | BG | [多名男孩持续观看、触摸并性刺激女性外观的风铃。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | GL | [伽伽、姗姗以情色视角触摸、展示并共同控制女性外观的风铃。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 多角关系 | [伽伽、姗姗与风铃共同构成三人持续相连的展示和私密互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
-| 喜剧 | [比赛放水、教学误导、角色吐槽和结尾模仿梦话等笑料分散展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 强迫 | [伽伽和姗姗秘密改造泳装并安排观看，梦中多人又无视求助持续刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 快感堕落 | [梦中风铃从明确求停和抵抗，转为迎合并期待男孩继续触摸和插入。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 恋童 | [风铃完整梦境持续把八九岁男孩作为欲望和性接触对象并期待其侵犯。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
@@ -2648,7 +2558,6 @@
 | 指交 | [男孩将两根手指进入阴道并持续扭动、抠挖和刺激敏感点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 群交 | [五名男孩共同参与同一场持续展开的触摸、指交、自慰和射精互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 体外射精 | [三名男孩把精液集中射进风铃内裤，位置和后续涂抹均为焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
-| 潮吹 | [风铃在持续群体刺激下高潮，蜜壶液体明确喷出近十秒。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 强制高潮 | [梦中风铃被绳索固定，无法停止水枪、手和手指刺激而实际高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 感官过载 | [乳头、阴蒂和体内多点持续刺激使风铃大脑空白并失去思考能力。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 支配与服从 | [伽伽与风铃既有的命令、顺从和身体交付在泳装教学中继续运作。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
@@ -2671,8 +2580,6 @@
 | 脏污 | [梦中内裤装满多人的精液和体液，随后被搅动并涂抹到外阴内部。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 乳房 | [泳衣挤压、身形展示及梦中水枪、揉捏和乳头刺激持续聚焦乳房。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 阴蒂 | [梦中水枪持续瞄准阴蒂，随后又由手指反复捏弄刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
-| 腿部 | [游泳动作、腿部曲线、敏感带测试和逐人触摸形成独立长段焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
-| 臀部 | [泳姿准备中臀部曲线和挺翘形态得到特写，随后又被反复触摸、拍打和捏弄。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 足部 | [脚趾姿态、足部触感及梦中从脚趾到足底脚踝的逐处抚摸被展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 | 精液 | [多人精液的浓稠、集中射入、内裤残留、混合和涂抹用途成为高潮收束。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2757031) |
 
@@ -2687,7 +2594,6 @@
 | 单人 | [风铃自行决定并控制装睡小杉的被动手掌完成整段刺激和高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
 | 体型差 | [正文明确因二人身材差距调整姿势，使儿童手掌能够触及成人私处。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
 | 乱伦 | [风铃与亲外甥发生持续明确的裸体性接触，姨甥身份反复参与意义。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
-| 喜剧 | [儿童误解身体结构和体液、装睡视角与风铃内心戏形成多处反差笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
 | 主动 | [风铃为暴露和被侵犯幻想主动裸体进房，并自行操纵小杉的手刺激身体。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
 | 强迫 | [小杉趁风铃熟睡实施非预先同意的持续乳房和私处触摸。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
 | 恋童 | [风铃明知小杉只有七八岁，仍主动以裸体和身体摩擦追求性接触。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2761493) |
@@ -2710,7 +2616,6 @@
 | --- | --- |
 | 女 | [作者明确说明第四篇以后改为正常女主，本章风铃是性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | BG | [男青年以明确欲望持续观看并侵犯女性外观的风铃。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
-| 喜剧 | [儿童反复以天真常识误读裸体、触摸和成人意图，视角错位持续形成反差笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 意外 | [小杉误拿无标识的安眠药水，风铃在不知情下饮用并陷入沉睡。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 强迫 | [男青年趁风铃不能表达意愿，持续脱衣、触摸、插入并利用其身体。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 虐待 | [长达四十分钟的非合意性接触、拍摄和口内射精构成持续性伤害。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
@@ -2718,7 +2623,6 @@
 | 指交 | [男青年以三根手指进入风铃阴道并持续抽插。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 乳交 | [男青年用风铃双乳包裹阴茎并持续上下摩擦直至射精前。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 口内射精 | [男青年在射精关头把阴茎头伸入风铃口中并将精液射入口腔。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
-| 潮吹 | [沉睡中的风铃高潮时，少许蜜汁被明确写作喷出并溅到公交座位。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 强制高潮 | [风铃在药物沉睡、无法停止手指刺激时被迫实际高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 睡奸 | [男青年趁安眠药造成的沉睡，对风铃实施完整非预先同意的性接触。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 偷窥 | [男青年和小杉均在风铃不知情时秘密实时观看其沉睡性场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
@@ -2729,7 +2633,6 @@
 | 透明衣物 | [紧身白背心被撑得透出乳房和乳头，并持续参与视觉和触摸场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 药物 | [安眠药实际造成深度沉睡和无法唤醒，直接促成整段性侵。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 乳房 | [乳沟、裸露、形变、揉捏及作为乳交工具在长段中持续聚焦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
-| 腿部 | [长腿外观、摆放、衣物滑落和连续抚摸形成持续视觉触觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 | 气味 | [内衣体香被男青年持续嗅闻、品味并直接用于性兴奋。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2779555) |
 
 ### [风铃的被调教史 7 家中来客（三）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=201168)
@@ -2739,7 +2642,6 @@
 | 女 | [作者明确说明第四篇以后改为正常女主，本章风铃是性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | BG | [小杉持续凝视、触摸并控制女性外观的风铃，情色方向明确。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 乱伦 | [小杉与亲小姨发生持续性接触，姨甥身份反复构造欲望和权力张力。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
-| 喜剧 | [乳房水果玩笑、童话比喻、影视反派吐槽和角色错位形成多处笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 主动 | [风铃醒后主动制造把柄交易、引导命令、提供绳索并获取受控玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 强迫 | [小杉秘密投放安眠药、趁睡刺激，并以公开性秘密威胁脱衣和服从。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 恋童 | [风铃明知小杉是低龄外甥，仍主动引导其继续性化控制自己。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
@@ -2753,7 +2655,6 @@
 | 拘束 | [风铃四肢分别绑在床脚，持续无法合腿、遮挡或自由活动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 绳缚 | [棉绳绑住双手双脚并固定成大字姿势，绑法和逃脱能力均被展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 口塞 | [小杉把丝袜持续塞满风铃口腔，使其只能发出含混声音。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
-| 丝袜 | [白色丝袜被嗅闻、塞入口中充当口塞，并持续承接唾液和体液。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 偷窥 | [小杉趁风铃不知情持续观察、脱衣并研究其沉睡裸体。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 色情勒索 | [小杉以向母亲公开风铃昨夜的性秘密威胁其脱衣和服从。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 监禁 | [风铃被固定在床上后卧室门又被反锁，当前无法离开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
@@ -2763,7 +2664,6 @@
 | 羞耻 | [亲属越界、裸体服从、把柄暴露和被儿童命令引发持续羞耻体验。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 乳房 | [乳房尺寸、形状、触感、乳头舔吸和双手揉捏形成长段焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 阴蒂 | [小杉长段观察充血阴蒂，并以手指持续拨弄直至风铃接近高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
-| 潮吹 | [小杉明确辨认前次高潮喷液并以亲眼观看同一现象为本次刺激目标。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 足部 | [足形、脚趾、足底、气味、舔吸和敏感反应得到完整恋物描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 | 气味 | [身体、乳房和足部气味被持续嗅闻、评价并直接唤起性欲。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2783327) |
 
@@ -2788,14 +2688,12 @@
 | 跳蛋 | [小型插入式震动器持续用于惩罚、高潮控制和长时间放置。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 | 遥控 | [遥控器实际控制跳蛋启停和强度，并跨房间维持刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 | 感官过载 | [最大档跳蛋和多点持续刺激使风铃意识混乱、全身失控倒下并连续高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
-| 臀部 | [臀部形状、触感、展示姿势和拍打反复成为核心视觉及感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2785997) |
 ## [尿布依存症—退化还是进化？（1）组织（介绍部分](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=163358)
 
 | 标签 | 理由 |
 | --- | --- |
 | 元叙事 | [叙述者直接向读者说明这是 ABDL 文并要求不要按赛博朋克想象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
 | 剧情向 | [免疫之谜、加入组织、潜入敌方和营救间谍组成可独立推进的任务主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
-| 喜剧 | [正文分别使用流行文化句式和 DIO 梗，并多次由叙述者跳出故事吐槽题材、科技设定和自己的语言能力，形成反复笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
 | 科幻 | [基因改良、神经软件、仿生义肢和信息素技术持续支撑核心世界观。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
 | 瘟疫 | [具有尿液接触传播线索的尿布依存症形成不断增加的感染群体并影响政府管控。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351467) |
 | 特工 | [主要角色接受组织派遣，执行渗透敌方、营救间谍和保护秘密的行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2351133) |
@@ -2811,10 +2709,10 @@
 
 | 标签 | 理由 |
 | --- | --- |
-| 喜剧 | [作者明确定位为幽默软色情系列，正文也持续以夸张比喻和少年窘态制造笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596459) |
 | 校园 | [课堂、教室、课间、食堂、校厕和同学关系共同构成全部主要情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 公共厕所 | [男生潜入教学楼女厕时，持续担心仍有使用者在隔间或随时有人进入，并逐间检查门锁、压低动静；共用厕所的第三人风险直接构成侵入场景的隐私与紧张机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 学生 | [同班初中生的年级、成绩、同桌关系及校内身份独立塑造核心同伴互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
+| 正太 | [初二男生姜若岚的勃起、龟头摩擦内裤、险些射精及自行处理等性反应被反复具体描写，未成年男性身体本身形成独立色情化焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 师生 | [任课教师的纪律权力直接使自己的学生不敢提出如厕请求并延续困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 萝莉 | [核心癖好角色被明确写为初二升初三的低龄少女。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 单人 | [核心憋尿、漏尿和赶往厕所的身体过程由萧琳独自承受，姜若岚主要旁观。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
@@ -2832,18 +2730,13 @@
 | 湿衣 | [湿裤裆的贴身轮廓受到具体聚焦，角色随后仍穿着继续忍耐、起身和奔跑。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 偷窥 | [姜若岚假装正经秘密斜视萧琳的憋迫、漏尿与湿痕，又在她不知情时尾随并持续观看其赶往女厕的私密状态。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 气味 | [身体、尿液、厕所和湿内裤气味被反复想象、评价和追逐，并推动潜入行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
-| 脏污 | [厕内尿渍污水、被尿液泡软染黄的手纸、用过的护垫和湿内裤被跨多个表面持续检视，最终又引出寻找、拿取湿内裤的完整互动，已超过失禁后的自然痕迹。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 | 乳房 | [少女乳房、胸罩轮廓及胸部晃动在课堂凝视和人物幻想中反复成为性化对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
-| 腹部 | [少女小腹的充盈、硬度和触碰幻想被反复色情化凝视。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
-| 腿部 | [大腿曲线、夹腿、搓动和奔跑姿态在完整场景中反复成为性化视觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
-| 臀部 | [臀部的曲线、颤动、扭动和翘起在憋尿全过程中反复成为核心视觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1596454) |
 
 ## [别扭弟弟『正太&纸尿裤~』](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=275343)
 
 | 标签 | 理由 |
 | --- | --- |
 | 甜文 | [哥哥发现秘密后主要表现为体贴、保护和满足愿望，亲密宠爱构成主要基调。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
-| 喜剧 | [哥哥一本正经的逗弄、弟弟夸张的内心反应和俏皮叙述持续制造轻松笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 正太 | [标题直接以正太为卖点，正文持续把年幼弟弟作为主要癖好角色。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 男 | [男性弟弟亲身寻找、穿戴并弄湿纸尿裤，还以奶瓶和宝宝姿态参与完整幼态玩法，是全文唯一被刻意经营的癖好承载者。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
 | 骨科 | [哥哥贴近逗弄、满足弟弟的私密尿布愿望并拍摄保存湿尿布照片，兄弟身份持续参与二人的暧昧性癖构图。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3511514) |
@@ -2869,8 +2762,6 @@
 | 憋尿 | [三个多小时延迟排尿、膀胱充盈和继续等待构成作品主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
 | 利尿剂 | [正文明确说明已饮用咖啡具有实际利尿效果并加重当前尿意。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
 | 腹部按压 | [角色主动按压涨满的膀胱，随后尿意、控制动作和快感反应得到完整展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
-| 腹部 | [凸起小腹被持续视觉化和审美化，并与触摸、拍摄共同构成感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
-| 身体膨胀 | [大量尿液使下腹被反复写成巨大球体般向外凸出，异常隆起的外观还成为按压和拍摄焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
 | 主动 | [无人要求时，莫宁为了体验快感主动按压充盈膀胱并拍摄自己的憋迫状态。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
 | 私密影像 | [私密憋迫状态被有意拍摄、发送并由收件人查看，影像直接推动结尾互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
 | 羞耻 | [私密照片被立即看到后，角色后悔、试图撤回、担忧否定并强烈脸红。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=4018096) |
@@ -2928,7 +2819,6 @@
 | GL | [前文已明确博士和助手都是女性兽娘；本章以性双关挑逗后由助手主动把博士扑到床上，形成明确的女性双人暧昧构图。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2433885) |
 | 单人 | [核心腹泻与排便过程由野槌蛇独自亲历和处置；沙丘猫及远端观看者没有制造或持续实施她的身体困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2433885) |
 | 女 | [女性野槌蛇的便意、腹泻、粪便状态和被看见的私密反应构成本章主要性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2433885) |
-| 喜剧 | [稀便被夸张比作钱塘江大潮，助手又以“下面给你吃”双关后扑倒博士，两处不同机制都被明确写成笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2433885) |
 | 架空世界 | [加帕里硬币、图书馆、兽娘、天蓝怪危机及公园社会共同建立了非现实世界，并持续参与情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2433885) |
 | 主动 | [沙丘猫在无人要求时追入厕所观看野槌蛇的下体，并明确表现出兴趣和满足，属于主动获取私密性癖观看。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2433885) |
 | 意外 | [野槌蛇事前不知道厕所内有隐藏摄像头，也不知道沙丘猫会探头闯入；两项计划外条件共同造成被观看的私密困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2433885) |
@@ -2947,7 +2837,6 @@
 | 同人 | [正文继续使用野槌蛇、沙丘猫、博士、助手及加帕里公园等《动物朋友》角色和世界观。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | GL | [前文已明确博士和助手均为女性；本章写博士反扑并压倒助手，正准备发生性关系，形成直接的女性双人性向构图。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | 女 | [女性沙丘猫的腹痛、忍便、腹泻、失控排便与臀部清洁是本章最主要的身体和性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
-| 喜剧 | [喷稀百米、边走边拉、猫头鹰观看流口水及亲热被闯入等夸张桥段持续采用戏谑荒诞语气。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | 甜文 | [野槌蛇抱沙丘猫去厕所、温柔反复清洁并得到舒服感谢，博士与助手又有轻松亲密互动，亲昵满足构成本章主要情绪基调。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | 架空世界 | [加帕里图书馆、兽娘社会、动画宇宙及人类遗留黑科技共同构成与现实连续性不同且实际影响剧情的完整世界。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | 异世界 | [主要故事发生在正文明确与地球区分的动画宇宙，结尾地球人物又讨论如何前往该世界解救危机。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
@@ -2962,7 +2851,6 @@
 | 监控 | [尾部微型摄像头把沙丘猫排便及野槌蛇擦拭臀部的过程实时传回图书馆，博士和助手持续观看并由此互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | 兽人 | [主要角色具有人的语言、衣着与社会行为，同时保留猫、蛇、猫头鹰等明确动物形态和物种身份。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | 拟人化 | [沙丘猫、野槌蛇和猫头鹰等动物被赋予人类身体、语言、衣着、如厕和社会角色，同时保留物种特征。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
-| 臀部 | [野槌蛇掀裙并分开沙丘猫臀部，随后反复温柔擦拭，正文继续写沙丘猫的舒服反应，使臀部暴露与触感形成完整私密场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 | 动物朋友 | [标题与正文实际使用《动物朋友》的角色、物种和加帕里世界设定。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2434568) |
 
 ### [兽娘动物园 第九话——失败的演唱会？（上）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=170016)
@@ -2987,7 +2875,6 @@
 | 泻药 | [开塞露被实际使用并产生促排便效果。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
 | 肛塞 | [皇帝正在留置肛塞防止演出时腹泻失控，器具受到多人询问和评价。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
 | 羞耻 | [长尾虎猫在偶像面前排便被发现后明确感到丢人、失态并脸红。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
-| 臀部 | [多人集中观看、抚摸并评价长尾虎猫臀部的白和柔软。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
 | 监控 | [博士和助手用特殊手表实时观看 PPP 专属厕所，并据此推进跨宇宙求援。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
 | 偶像 | [PPP 的偶像、C 位、经纪人与演唱会身份直接构成本章冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
 | 兽人 | [主要角色及观众均是有语言、职业和社交行为的兽娘，动物身份持续构成世界与人物。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2435989) |
@@ -3001,7 +2888,6 @@
 | 原创角色 | [“我”、坤、苗苗和芳芳作为进入《动物朋友》世界的作者自创人物，主导病情判断、采样与研究并持续推动灾难主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2438966) |
 | 同人 | [正文以 PPP、长尾虎猫、博士、助手、加帕里巴士和图书馆等《动物朋友》角色与设定展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2438966) |
 | 女 | [五名女性企鹅的腹泻、排便失控、肛塞封堵和粪便采样构成本章最主要的身体与性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2438966) |
-| 喜剧 | [拟声排泄、把稀便比作多座瀑布、“聪不聪明”的吐槽及“拉屎还是尿尿”等分离笑点持续制造荒诞喜剧。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2438966) |
 | 悬疑 | [兽娘集体出现未见记载的异常脉象和邪气，角色提出大规模痢疾假说、采样并开始研究，病因与灾难真相作为跨章悬念继续延迟。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2438966) |
 | 架空世界 | [加帕里公园的拟人兽娘社会、图书馆贤者和仅作用于兽娘的异常疾病持续决定人物与情节，构成非现实完整世界。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2438966) |
 | 异世界 | [主要情节发生在与地球分离的加帕里世界，正文中的地球来客已进入该世界并参与诊断和研究。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2438966) |
@@ -3056,7 +2942,6 @@
 | 原创角色 | [苗苗、芳芳和地球四人团持续执行采样研究并推动疫情主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2441760) |
 | 同人 | [蚁窝山庄、博士、助手及多名兽娘直接使用《动物朋友》角色和世界。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2441760) |
 | 女 | [老板娘独自腹泻、被观察和采样的女性身体过程是主要性癖焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2441760) |
-| 喜剧 | [复杂亲属关系、身份尴尬和博士助手看片的连续调侃形成多个独立笑点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2441760) |
 | 悬疑 | [异常黑便被取样化验，研究者收齐样本并宣布发现病源，却把答案继续延迟。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2441760) |
 | 架空世界 | [加帕里山庄、兽娘社会和异常病源构成持续影响行动的非现实世界。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2441760) |
 | 异世界 | [地球原创角色已进入加帕里世界并以外来知识参与病源研究。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2441760) |
@@ -3082,7 +2967,6 @@
 | 原创角色 | [苗苗、芳芳及地球四人团负责采样、说明疫情和试验治疗，持续推动主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2443039) |
 | 同人 | [小包、薮猫、灰狼、博士和助手等《动物朋友》角色及加帕里设定贯穿正文。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2443039) |
 | 女 | [灰狼的女性腹泻、镜前排泄和秘密采样构成主要私密身体场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2443039) |
-| 喜剧 | [夸张馒头口味、旅行书厚度、作者括号吐槽和灰狼记录表情形成连续笑点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2443039) |
 | 元叙事 | [作者在正文内部直接说明资料不足并承认相关设定为临时编写，明确打破叙事框架。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2443039) |
 | 悬疑 | [未知群体疾病被秘密采样、讨论和试验治疗，结尾又引入身份未明的危机制造者。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2443039) |
 | 架空世界 | [加帕里社会、兽娘、天蓝怪和独立地理持续决定食宿、疾病与危机。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2443039) |
@@ -3109,7 +2993,6 @@
 | 原创角色 | [苗苗、芳芳和地球四人团执行采样、奉茶试验并推动跨区调查。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2444190) |
 | 同人 | [灰狼、长颈鹿、小包、博士、助手及天蓝怪等《动物朋友》角色设定持续参与正文。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2444190) |
 | 女 | [长颈鹿的女性腹泻、排泄和秘密采样构成主要私密身体焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2444190) |
-| 喜剧 | [长颈鹿逢人猜山羊、身份争辩及博士助手一口喝烫茶形成多个展开笑点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2444190) |
 | 架空世界 | [兽娘社会、天蓝怪、砂之星火山及加帕里地理规则持续影响行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2444190) |
 | 异世界 | [地球人已在与地球分离的加帕里世界开展调查和治疗。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2444190) |
 | 医疗 | [人物取得粪便标本、说明未知疾病，并实际验证茶饮能缓解患者腹泻。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2444190) |
@@ -3133,7 +3016,6 @@
 | 原创角色 | [地球四人团实施治疗、感知危险、变出武器并参加救援战斗。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2445161) |
 | 同人 | [小包、金丝猴、博士助手、天蓝怪和加帕里巴士等《动物朋友》设定持续展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2445161) |
 | 女 | [金丝猴的女性忍便、紧急露臀排泄和事后照料构成主要性癖场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2445161) |
-| 喜剧 | [老司姬、游戏标题双关、武器梗、诗句套用和反派名称共同形成连续笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2445161) |
 | 冒险 | [角色乘巴士执行跨区采样救援任务，遭遇围攻、逃亡和增援作战。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2445161) |
 | 架空世界 | [加帕里公园的兽娘、天蓝怪、巴士和超常规则持续支撑任务与冲突。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2445161) |
 | 异世界 | [来自地球的主要角色继续在与地球分离的加帕里世界治疗和作战。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2445161) |
@@ -3163,7 +3045,6 @@
 | 同人 | [小包、棕熊、金丝猴、天蓝怪等《动物朋友》角色与设定构成当前世界。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446013) |
 | 跨作品同人 | [《动物朋友》角色与《烟草》的若叶、莉莉、丽奈姐妹实际会合并共同作战。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446013) |
 | 女 | [棕熊的女性忍便、露天排泄、漏便和污衣清洗构成核心性癖场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446013) |
-| 喜剧 | [肛道理双关、地貌比喻和洗内裤角色梗等多个独立笑点贯穿严肃战斗。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446013) |
 | 冒险 | [跨区队伍与反派和怪物交战、保护患病角色并继续寻找下一名同伴。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446013) |
 | 架空世界 | [兽娘、天蓝怪、烟草能力和加帕里世界规则持续决定战斗与疾病危机。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446013) |
 | 异世界 | [地球来客与《烟草》角色已经进入加帕里世界并参与同一行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446013) |
@@ -3199,7 +3080,6 @@
 | 同人 | [非洲野犬、小包、薮猫、博士助手和加帕里世界直接使用《动物朋友》内容。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446853) |
 | 跨作品同人 | [《动物朋友》与《烟草》的若叶、莉莉、丽奈姐妹继续共同作战。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446853) |
 | 女 | [非洲野犬的女性腹泻、灼痛、擦拭和更换污衣构成主要身体场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446853) |
-| 喜剧 | [撤硕划掉、菊花残歌曲改写、古文串用和洗衣口头禅形成连续戏仿笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446853) |
 | 冒险 | [队伍在跨区旅途中救援患者、对抗红虫并继续追击全园危机。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446853) |
 | 架空世界 | [兽娘、主级红虫、烟草能力和加帕里地理持续决定疾病与战斗。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446853) |
 | 异世界 | [地球原创角色和《烟草》角色已经进入加帕里世界并共同作战。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2446853) |
@@ -3225,7 +3105,6 @@
 | 同人 | [驼鹿、狮子、小包、博士助手和天蓝怪等《动物朋友》角色与设定贯穿正文。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447588) |
 | 跨作品同人 | [《烟草》的若叶、莉莉和丽奈姐妹进入加帕里世界，与《动物朋友》角色共同战斗。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447588) |
 | 女 | [狮子、原牛、阿拉伯羚羊和日本黑熊的女性失禁、忍便与集体排泄是身体焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447588) |
-| 喜剧 | [彩虹便、睡梦排泄、简谐运动和下棋迎敌等多处荒诞反差持续制造笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447588) |
 | 冒险 | [队伍跨区抵达城堡诊疗，又在旅途中遭遇怪物并展开联合防守。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447588) |
 | 架空世界 | [兽娘城堡、天蓝怪、烟草能力和阵法规则共同构成非现实世界主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447588) |
 | 异世界 | [正文明确由地球人进入加帕里世界援助，两个世界被直接区分。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447588) |
@@ -3253,7 +3132,6 @@
 | 同人 | [驼鹿、狮子、小包、博士助手和加帕里各地区等《动物朋友》内容贯穿正文。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447769) |
 | 跨作品同人 | [《烟草》的若叶、莉莉和丽奈姐妹继续与《动物朋友》角色共同救治和旅行。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447769) |
 | 女 | [驼鹿、变色龙、豪猪等女性角色的群体腹泻与厕所排泄是主要身体焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447769) |
-| 喜剧 | [彩色瀑布、众人排便口号、烟草人说明和角色互相调侃形成连续笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447769) |
 | 冒险 | [队伍沿公园各区分发药方、处理新警报并继续乘车前往热带雨林。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447769) |
 | 架空世界 | [加帕里公园的兽娘社会、区域地理、疫情和治理规则持续决定人物行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447769) |
 | 异世界 | [地球人和烟草人已进入加帕里世界，正文又直接对照地球与当前社会。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2447769) |
@@ -3276,7 +3154,6 @@
 | 原创角色 | [地球四人团继续参与诊疗、秘密观察、解释前因后果和战略调度。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2448497) |
 | 同人 | [小包、薮猫、东北虎、水豚等《动物朋友》角色及加帕里雨林设定贯穿正文。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2448497) |
 | 女 | [十二名兽娘的女性群体腹泻、睡眠失控与厕所排泄构成主要身体焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2448497) |
-| 喜剧 | [第二季吐槽、十二人厕所交响乐、NPC存在感和歌曲套用形成连续笑点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2448497) |
 | 元叙事 | [叙述直接评价动画第二季、角色改写和 NPC 存在感，反复从作品外评论当前创作。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2448497) |
 | 冒险 | [队伍抵达新区域、结识援军、救治大批患者并继续组织全园战略行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2448497) |
 | 架空世界 | [加帕里公园的兽娘社会、热带雨林和超常生物规则持续支撑主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2448497) |
@@ -3352,7 +3229,6 @@
 | 女 | [女性角色的忍便、失守、腹泻和裤内失禁构成全系列主要癖好焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | BG | [男性叙述者与苗苗、坤与芳芳的异性亲密关系持续以男方拥抱、触摸和照护展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 纯爱 | [多组互相喜欢且无背叛的伴侣反复以拥抱、安慰、擦拭和照护经营关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
-| 喜剧 | [划掉吐槽、数学题式旁白、身份误会和排泄武器等荒诞笑料贯穿各章。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 冒险 | [人物为调查病源和阻止反派持续旅行、执行任务并跨世界作战。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 架空世界 | [加帕里与烟草世界具有持续影响故事的独立地理、族群、政治和技术结构。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 奇幻 | [兽娘、烟草能力、法宝、变物和超自然战斗规则持续支撑世界与行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
@@ -3383,7 +3259,6 @@
 | 酒店 | [续篇修建的大型酒店持续作为居住、治疗、政府和遭袭据点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 呕吐 | [多名角色在腹泻发病单元中出现具体呕吐、呕吐物和照护反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 气味 | [排泄气味被反复具体评价，并引发嗅闻、嫌弃、调侃、昏厥和战斗变化。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
-| 臀部 | [臀形、裸露、触摸、擦拭和裤内鼓包跨多个完整单元反复成为核心视觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 时间停止 | [续篇战斗中主角实际冻结时间进行冥想，获得方案后再恢复时间。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 | 动物朋友 | [加帕里公园、小包、薮猫、博士和助手等可识别设定构成全篇基础。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2451351) |
 ## [斗破苍穹改编【云芝篇】](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=201747)
@@ -3395,11 +3270,9 @@
 | 斗破苍穹 | [标题和正文均以《斗破苍穹》的角色、斗气与魔兽山脉剧情为基础。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790880) |
 | 玄幻 | [斗气、斗皇、封印、魔兽和斗气化翼持续支撑世界及身体机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 架空世界 | [魔兽生态、斗气等级和超自然规则构成完整且持续影响情节的虚构世界。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
-| 喜剧 | [药老捉弄、恶臭致晕、排泄夸张和结尾气味吐槽反复制造荒诞笑料。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 淑女 | [云芝为维持端庄和颜面三日不排便，并在事后极力掩盖失态痕迹。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | BG | [萧炎与云芝实际发生男性阴茎插入女性身体的异性性交。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | GB | [萧炎昏迷后，云芝主动口交并骑乘插入，形成女性主动作用于男性承受者的完整构图。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
-| 单人 | [云芝飞离山洞后在无人山峰上独自堵住、忍耐并最终大量排泄，构成与洞内互动可分的完整单人单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 女 | [云芝的女性憋便、腹胀、失守和排泄快感构成全部改编高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 意外 | [云芝不知瓶中内容物，将未标明的春药和泻药误当调料与饮料，计划外地引发整个失控困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 强迫 | [云芝反抗后仍被萧炎按在岩壁上，并被强行注入斗气放大药效。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
@@ -3420,7 +3293,6 @@
 | 腹泻 | [药效使稀便、水便及急迫排泄持续推动整个改编高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 大量排便 | [三日积存被软化膨胀后连续喷出，异常数量、覆盖和排出过程成为焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 腹胀 | [粪便和气体使小腹肉眼可见地持续膨大到怀胎六月般，腹形变化是独立玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
-| 身体膨胀 | [药力、粪便和气体使腹部以肉眼可见的速度持续变圆，最终鼓胀到怀胎六月般，夸张形变被反复经营。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 粪便 | [粪便的质地、覆盖、气泡、压缩、回填和流动持续作为核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 粪浴 | [大量粪汁覆盖云芝双腿和下身，并作为事后清理及掩盖的焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 野外排便 | [云芝飞到露天山崖后半跪喷出粪汁，山谷和散落轨迹形成完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
@@ -3432,15 +3304,12 @@
 | 人体容器 | [云芝有意把肠腔当作储存压缩粪便和整洞气体的容器，储存状态继续推动结尾。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 精液 | [精液的巨大数量、体内温热、滞留和缓慢流出形成独立感官与掩饰问题。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 脏污 | [粪汁持续覆盖身体、岩壁和地面并形成恶臭环境，随后专门收集、压缩、清理和回填，脏污状态本身推动后续互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
-| 腹部 | [腹形、内部声响、涌动、触摸和按压被持续作为色情化感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
-| 臀部 | [臀部形状、抚摸、撞击、喷射和高翘姿势跨阶段反复被色情化描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 | 气味 | [口中恶臭、粪屁气味和萧炎主动深嗅评价持续参与感官与互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2790881) |
 
 ## [之前在知乎上发过的文章，也给大家康康吧～希望大家喜欢哦](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=189444)
 
 | 标签 | 理由 |
 | --- | --- |
-| 喜剧 | [双关、自嘲吐槽、课堂误会和夸张内心独白贯穿事件过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 校园 | [学校食堂、厕所、教室、课程与课间安排共同承载全部故事。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 学生 | [在校身份、同桌关系、作业、课程和请假持续塑造核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
 | 师生 | [任课教师对作业、课堂和离开许可的直接权力持续影响忍耐。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2660538) |
@@ -3465,7 +3334,6 @@
 | --- | --- |
 | 剧情向 | [秘密筹备表白、确认关系、庆祝和散场形成独立于憋尿机制的完整关系事件线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
 | 纪实 | [作者明确声明作品记录两天前实际发生的真实故事。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
-| 喜剧 | [叙述吐槽、情侣互损和手雷／青蒜文字笑话从开端持续到结尾。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
 | 甜文 | [成功表白、情侣信物、拥抱和伴侣间轻松打趣构成主要情绪基调。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
 | 酒店 | [酒店入住、房间厕所、办理手续和从电梯到房门的结尾路线共同承载憋尿高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
 | 公共厕所 | [会场多人共用厕所的通路被喝酒人群阻挡，女朋友因而放弃如厕，直接开启后续一个多小时的憋尿主线。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
@@ -3474,7 +3342,6 @@
 | 纯爱 | [两组互相喜欢、无背叛的伴侣以表白、信物、拥抱和照顾推进关系。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
 | 憋尿 | [如厕失败后超过一小时的忍耐逐步影响站立、候车、乘车和上楼。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
 | 意外 | [深夜计划外打车延误迫使两名女性在寒风中继续等待并显著升级困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
-| 羞耻 | [两名女性的扭捏、遮掩和因男性在场而克制捂住下身的动作反复表现其私密需求被看见时的难堪。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3943963) |
 
 ## [宠爱](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=316338)
 
@@ -3534,13 +3401,11 @@
 | 公共厕所 | [景区收费公厕的排队、关闭和唯一性持续决定人物行动；不以校内学生厕所作为本标签依据。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1077) |
 | 酒店 | [旅店住宿、房间和简陋厕所共同承载整夜憋尿与失禁的实质篇章。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1083) |
 | 月经 | [经期与卫生巾反复成为漏尿吸收、隐瞒和失控进程的重要机制。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1068) |
-| 腹部 | [下腹外形、硬度、触摸、鼓胀和受压感跨大量篇章被反复视觉化、感官化。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1071) |
 
 ### [小女孩憋尿的痛苦经历 第二部](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=195)
 
 | 标签 | 理由 |
 | --- | --- |
-| 喜剧 | [作品反复经营男生误判与“设计别人者反被同一机制击败”的讽刺性反转。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1122) |
 | 强迫 | [欺骗、拉阻、群体压力和直接暴力被用于迫使角色继续饮用、忍耐或承受刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1113) |
 | 暴力 | [对极度充盈下腹的蓄意重压形成一次充分展开的严重物理侵害。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1152) |
 | 霸凌 | [同伴因嫉妒集体策划孤立、诱骗和公开羞辱转学生，构成持续社会性攻击。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1109) |
@@ -3552,7 +3417,6 @@
 
 | 标签 | 理由 |
 | --- | --- |
-| 喜剧 | [母子互相吐槽、操控关系反转及楼道公告造成的公众误会贯穿首尾，形成明确荒诞喜剧层。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 浴室 | [浴室及浴缸承载了改变母子关系的完整开篇核心事件。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 人妻 | [赵玲的亡夫、守节经历及后来主动采用妻子身份均直接塑造欲望与负罪感。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 正太 | [十三岁未成年男孩是全篇主要性关系与癖好对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
@@ -3587,7 +3451,6 @@
 | 多重高潮 | [短时间内连续、长时间多次高潮及其耐受反应是多个场景的核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 强制高潮 | [母亲拒绝停止并使儿子射精；儿子也另有无视母亲求饶、持续诱发高潮的完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 榨精 | [赵玲以反复刺激和多轮射精为手段，明确追求将儿子精液榨尽。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 潮吹 | [正文多次明示潮喷、潮吹及喷射过程。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 阿黑颜 | [翻白眼、吐舌和流口水的典型表情在多个高潮场景被反复作为视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 高潮管理 | [赵玲持续决定儿子能否及何时射精，并多次禁止、解除或延长射精。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 憋尿 | [赵玲在已能解除封堵后仍主动延迟排空充满尿液的膀胱，直到次日再设计排尿玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
@@ -3605,15 +3468,12 @@
 | 哺乳 | [母亲实际让儿子含乳饮奶，且哺乳延续至共同入睡和次夜补充体力。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 泌乳 | [乳汁的满溢、喷射和再次生成过程被明确描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 尿道扩张 | [阴茎持续撑开尿道并逐渐推进至膀胱，扩张和适应过程是长场景核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 身体膨胀 | [液体持续灌入使膀胱和腹部夸张膨大至临盆状，膨胀外观与极限成为主要玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 乳房 | [乳房的尺寸、裸露、揉捏、挤压及吸吮在多个完整场景持续成为核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 阴蒂 | [作品在多个场景持续把阴蒂作为揉弄、摩擦以及控制高潮和排尿的直接开关，并具体描写刺激动作、快感及连续高潮反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 乳汁 | [奶水的产量、饮用和恢复用途被反复经营，而非普通育儿背景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 人体容器 | [子宫和膀胱被反复当作储存、承接并继续容纳精液和尿液的身体容器。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 气味 | [精液的腥臭味被写成引发欲望与品尝的感官刺激，后段又通过仔细嗅闻尿味辨认体液，形成两个分离的嗅觉互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 精液 | [精液的数量、储存、吸取、覆盖、精斑及耗尽贯穿多个主要性场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 腹部 | [小腹隆起被反复抚摸、观看并用妊娠月份类比，成为储液玩法的核心视觉指标。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
-| 腿部 | [美腿曲线、丝袜包裹、抚摸和缠绕动作在多个场景持续受到色情化聚焦。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 感官过载 | [长时间强烈性刺激导致持续痉挛、意识丧失和醒后混乱，构成完整感官过载场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 主动 | [在区别于强迫事件的后续场景中，赵玲主动设计公共性行为、储液及极限挑战以追求刺激。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
 | 意外 | [保安计划外靠近并用电筒检查，迫使母子跳到空调平台躲藏，显著升级完整公共暴露单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3852851) |
@@ -3639,7 +3499,6 @@
 | 羞耻 | [被同学注视、秘密穿尿布和害怕暴露引发的强烈羞耻持续构成心理焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804823) |
 | 露出 | [主角有意识地在有同学和教师的课堂中隔着尿布实施排尿，并持续经营被发现风险。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804827) |
 | 自慰 | [正文明确将秘密尿裤游戏称为自慰，并持续描写主角主动制造胯下刺激和快感。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804822) |
-| 身体膨胀 | [活体腹部与膀胱的充盈形态跨多个场景被反复经营：肚子鼓起并可隔着制服摸到膨胀，随后被比作涨满的水球和针刺便会爆炸；不只是纸尿布自身吸收后鼓起。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804823) |
 | 憋尿 | [长时间延迟排尿、极限尿意和释放前的控制过程在多个章节持续展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804822) |
 | 极限放尿 | [主角在逼近失禁并已少量漏尿后撑到选定厕位，重新穿回内裤并主动放松开始完整排尿，释放过程构成场景高潮。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804822) |
 | 漏尿 | [正文反复描写少量渗漏后重新止住尿流的独立阶段。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804823) |
@@ -3658,7 +3517,6 @@
 | 气味 | [尿液与粪便气味被反复嗅闻、评价，并持续影响主角的羞耻、行动和感官体验。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804822) |
 | 脏污 | [结尾另起完整场景持续展示尿布内的刺鼻恶臭、茶色糊状物、黏着声和大腿沾污，角色又主动把弄脏的尿布重新穿回并反复触摸；脏污状态本身成为视觉、嗅觉与玩法焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804834) |
 | 粪便 | [粪便的外观、温度、触感、气味及与身体的接触是多个章节的核心感官对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804834) |
-| 臀部 | [臀部的包裹、按压、触摸和温度变化跨多个单元构成核心触觉对象。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804822) |
 | 尿浴 | [教室失禁使大量尿液从臀部覆盖大腿、膝后和小腿，淋覆身体的范围与感受被完整细写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771055) |
 | 粪浴 | [液状粪便大量覆盖臀部、胯下和大腿内侧，身体被包覆与摩擦的触感成为后半篇核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771062) |
 | 拉裤子 | [作者开篇明示包含拉裤子元素，正文让主角把大量粪便排进正在穿着的裤型尿布并持续行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771062) |
