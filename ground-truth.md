@@ -659,6 +659,7 @@
 | 校园 | [故事核心场景完全设定在男校内部，详细描写了教室上课、走廊行走、食堂午餐等校园生活细节，以及师生、同学间的互动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 公共厕所 | [男校内不断有陌生男生进出的厕所及女厕缺失共同构成核心困境；主角因这种公共、异性化环境而不敢询问或使用厕所，并被迫持续忍尿。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 学生 | [小芸因女校课程安排被送到男校旁听，选课、课堂、同年级向导和“唯一女生”身份共同造成了无女厕的核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
+| BG | [男校唯一女生的处境持续由男生的注视和互动组织；小芸正面注意到男向导英俊、相处舒服并与他约定午餐，另一名男生又介入她的私密困境，形成男向女的暧昧构图。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 单人 | [故事核心情节围绕女主角小芸独自应对膀胱压力展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 淑女 | [文中明确描写小芸因身为唯一女生感到害羞，且“一个女孩子实在没有办法向一个男生开口问这个问题”，为了维持形象而主动隐瞒尿意并忍耐，符合定义中‘因羞于向他人提及...而主动隐瞒并继续忍耐’的核心要素。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
 | 意外 | [小芸事前不知道男校根本没有女厕，到场后才逐步确认这一既存外部条件，并因此陷入无法如厕的核心困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2) |
@@ -3228,7 +3229,7 @@
 | 淑女 | [角色为维护体面而把强烈尿意说成“只有一点点”，主动隐瞒并继续忍耐。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 | 意外 | [角色事前不知道首次有效彩超会因实习医生未能完成、追加带教并异常延长约二十分钟，计划外延误使尿意从轻微直接升级为强烈困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 | 羞耻 | [尿意被医生察觉和讨论持续引发难堪、掩饰及维护颜面的心理反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
-| 女 | [第一人称叙述者为女性，在两名男医生面前经历憋尿、膀胱按压检查与羞耻体验。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
+| 女 | [正文虽未直接声明第一人称叙述者的性别，但其对两名男医生的称呼与外貌评价、异性检查处境中的强烈难堪及相关叙述视角相互印证，共同形成稳定的女性暗示；她是憋尿、膀胱按压检查与羞耻体验的亲历者。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 
 ## [失踪人口暂时短打复健](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=194277)
 
