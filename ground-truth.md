@@ -1069,6 +1069,7 @@
 | 气味 | [尿液气味与兄长身体气味被持续嗅闻、评价并直接唤起欲望，多个场景以嗅觉追逐为描写重点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2928907) |
 | 精液 | [精液的量、浓稠度、覆盖身体的位置和向下流淌的质感在多个场景被反复评价，已超出普通射精交代。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3057436) |
 | 足部 | [高潮场景持续凝视脚趾蜷曲、张开及其动作，并在事后反复回想，足部动作成为独立感官焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2973029) |
+| 男 | [标题明确声明“（男）”，且全篇性癖亲历者与身体承受焦点均为男性角色。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2910157) |
 
 ### [【江河湖海】第32章的广播剧，很有必要单独开一楼（BL男憋)](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=215796)
 
@@ -1104,6 +1105,7 @@
 | 绳缚 | [该标签按现有作品级裁决及旧证据链接分配到本 thread。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3142121) |
 | 正装 | [西装、衬衫、袖箍与衬衫夹的剪裁与穿脱被整章持续凝视与恋物化，并直接构成该篇玩法的核心道具与视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3175569) |
 | 感官过载 | [不应期内仍被持续施加强刺激，角色反弓、失语并出现明显生理崩溃，强刺激及无法承受是完整玩法焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3238652) |
+| 男 | [标题明确声明“（男）”，且全篇性癖亲历者与身体承受焦点均为男性角色。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3142121) |
 
 ### [【江河湖海】第四部分，第87章开始（男)](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=325870)
 
@@ -1197,6 +1199,7 @@
 | 气味 | [粪便、呕吐物和环境酸腐恶臭跨医院、场馆、车厢等多个单元被具体反复描写，并持续引发捂鼻、回避和群体反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2411627) |
 | 体液采集 | [医护和研究人员用针筒从便盆吸取肠液、装入试管并多次送检，产生后的样本保存、转移和检测均实际展开。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2387066) |
 | 脏污 | [呕吐物和混合污秽物持续覆盖头发、身体与环境，非尿粪自然湿痕造成的肮脏状态本身成为核心视觉。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2380973) |
+| 女 | [小川静、松冈恋、北山楠等主要腹泻与失禁亲历者均为女性身份角色，女性身体失控是全篇焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2375811) |
 
 ### [长篇 泻流感（流行性腹泻爆发，文明社会陷入混乱）二](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=166773)
 
@@ -1215,6 +1218,7 @@
 | 旗袍 | [今泉瑛的一贯旗袍形象、刺绣款式和穿着反差被多次描写，撩起旗袍排尿又使其结构直接参与完整场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2436916) |
 | 病号服 | [柳川醒来后发现病号服内没有内衣，随后因害怕他人由病号服联想到失禁而披毯遮挡；服装的暴露、医疗身份和羞耻持续推动该单元。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401265) |
 | 扩肛 | [角色长期使用器具和灌肠管扩张肛门，并具体描述扩张程度。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2401265) |
+| 女 | [辅导员柳川靖枝是本章腹泻、忍耐与失禁的核心女性亲历者。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2394561) |
 
 ### [长篇 泻流感（流行性腹泻爆发，文明社会陷入混乱）三](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=173585)
 
@@ -1282,6 +1286,7 @@
 | 指交 | [李瑞欣有明确的手指阴道插入描写。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3105012) |
 | OL | [制药公司华东大区女副总裁在航班厕所内仍被迫参加公司紧急线上会议，职务和工作协作直接塑造完整困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3105012) |
 | 空姐 | [乘务长月理慧与美绪、小桃等空乘是第三大章后段的主要角色，制式包臀裙、机上工作纪律（当班拉肚子会被停薪留职）与机组岗位直接决定其行为与困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3094041) |
+| 女 | [由纪子、李瑞欣、月理慧等主要腹泻与失禁亲历者均为女性身份角色。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3055610) |
 
 ### [大长篇《泻流感》全文整理 txt版本 可转存手机（持续更新）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=229521)
 
@@ -1308,6 +1313,7 @@
 | 真空 | [角色明确不穿内裤，排泄物因而直接从裙下流出。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3759518) |
 | 正装 | [偶像佐藤绫的淡粉女士西装、蕾丝白衬衫与半松领扣被连续描写，正装束缚乳房和公众形象的反差成为直播场景视觉焦点。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3695796) |
 | 怀孕 | [病毒升级后专门影响孕妇及其生殖系统。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3759518) |
+| 女 | [主要受感染、腹泻与身体异化亲历者均为女性身份角色。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3686610) |
 ## [篮球女神的堕落之路（持续更新中）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=127189)
 
 | 标签 | 理由 |
@@ -1772,6 +1778,7 @@
 | 腹部按压 | [照护者反复揉按或突然用力压迫下腹和膀胱体表，以制造尿急、促使排尿或让憋尿角色失守。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 隐私泄露 | [角色在第三人或群体面前实际说出他人的尿床、性刺激和宝宝身份等私密事实，旁人确已获知而非只有上传威胁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 | 泻药 | [软便剂被秘密加入果冻并实际造成急迫便意及尿布排便，使用与后果均明确。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
+| 女 | [小月（姊姊）是本章穿戴纸尿裤、玩木马与退行照护的核心女性亲历者。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1890273) |
 
 ### [我便成了天才妹妹的寶貝5](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=121700)
 
@@ -2200,6 +2207,7 @@
 | 打屁股 | [打臀部并非一次轻拍，而是反复使用的宝宝惩罚机制；维琪篇明确连续拍打到臀部通红、哭泣和失禁。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 | 色情勒索 | [施加者以发送睡眠、哺乳或把尿私密影像给家长/众人相威胁，迫使角色喝奶、承认行为或停止反抗。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 | 学生 | [多名主要角色的年级、上课、学籍、成绩和幼儿园生活独立参与人物塑造与核心玩法。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
+| 女 | [乐园中被强制穿戴纸尿裤、接受排泄管理与体罚规训的学员包含明确的女性角色。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1897142) |
 
 ### [我變成了天才妹妹的寶貝25](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=122472)
 
@@ -3220,6 +3228,7 @@
 | 淑女 | [角色为维护体面而把强烈尿意说成“只有一点点”，主动隐瞒并继续忍耐。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 | 意外 | [角色事前不知道首次有效彩超会因实习医生未能完成、追加带教并异常延长约二十分钟，计划外延误使尿意从轻微直接升级为强烈困境。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 | 羞耻 | [尿意被医生察觉和讨论持续引发难堪、掩饰及维护颜面的心理反应。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
+| 女 | [第一人称叙述者为女性，在两名男医生面前经历憋尿、膀胱按压检查与羞耻体验。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2665083) |
 
 ## [失踪人口暂时短打复健](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=194277)
 
@@ -3337,6 +3346,7 @@
 | 变身 | [同一角色的物种与整体外形在松鼠、狐狸、老人和少年之间显著变化并持续影响情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1990063) |
 | 身份取代 | [疏璃长期冒充录荀药仙、接管其诊疗位置，并把真正的身份持有者排除到荒岛。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1990063) |
 | 隐身 | [角色实际用法术隐去身形以偷窥玉衡并潜入正式监狱，直接推动关键场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1990063) |
+| 男 | [标题明确声明“（男）”，且文中主角与性癖亲历者均为男性。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=1990063) |
 
 ### [【三生三世】 雾柳暗时云度月 第10章 瓜熟蒂没落 水到渠未成 （男）* 轻口.腐.慎入*](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=131843)
 
@@ -3527,6 +3537,7 @@
 | 肛交 | [男性受害者的后部遭蛮力插入，外伤及射精残留在体内造成感染并成为核心创伤情节。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2052805) |
 | 羞耻 | [尿裤、私密行为被看见和公开传播反复令角色产生强烈难堪、回避与自我否定。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2052805) |
 | 隐私泄露 | [柳槐被捆后尿裤的私密事件被下人实际传播至整个行馆。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2052805) |
+| 男 | [标题明确声明“（男）”，且文中主角与性癖亲历者均为男性。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=2052805) |
 ## [山村里的灭门案（十宗罪苏眉同人）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=333359)
 
 | 标签 | 理由 |
@@ -5042,6 +5053,7 @@
 | 粪浴 | [液状粪便大量覆盖臀部、胯下和大腿内侧，身体被包覆与摩擦的触感成为后半篇核心。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771062) |
 | 拉裤子 | [作者开篇明示包含拉裤子元素，正文让主角把大量粪便排进正在穿着的裤型尿布并持续行动。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771062) |
 | 粪便涂抹 | [主角回家后主动重新穿上盛满粪便的尿布并用手按揉，使内容物在臀部和腿间来回涂展。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3771066) |
+| 自慰 | [第一章“放学后的自慰”详细描写了奈绪放学后在教室伸手进内裤抚摸私处至失禁与高潮的自慰场景。](https://www.shireyishunjian.com/main/forum.php?mod=redirect&goto=findpost&pid=3804822) |
 
 ## [润（男憋）](https://www.shireyishunjian.com/main/forum.php?mod=viewthread&tid=135291)
 
